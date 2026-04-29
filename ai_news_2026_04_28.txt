@@ -1,0 +1,17 @@
+📰 Daily News Briefing — April 28, 2026
+🤖 AI & LLMs
+
+OpenAI shipped GPT-6 while Anthropic previewed Claude Mythos to select partners, with top models now exceeding 50% on Humanity's Last Exam — signaling a major step-change in frontier AI capability. (More info)
+Zhipu AI released GLM-5.1, a 744B-parameter open-source model under MIT license that reportedly beats Claude Opus 4.6 and GPT-5.4 on SWE-Bench Pro, intensifying the open vs. closed model race. (More info)
+
+
+🚀 Startups
+
+Q1 2026 shattered all venture funding records with B invested globally, and AI accounted for 80% of total VC — the highest share ever recorded. (More info)
+AI coding tool Cursor is in talks to raise B at a B+ valuation, while industrial robot AI startup Sereact closed a M Series B and AI front-office platform Avoca raised M. (More info)
+
+
+🏗️ AI in Construction & Engineering
+
+Buildots unveiled construction intelligence, a new platform category unifying fragmented site data into a living project model, now adopted by Turner Construction, JE Dunn, Intel, and Bouygues. (More info)
+Neuron Factory raised a strategic investment round for the world's first construction-focused knowledge graph and AI-native platform for project planning and execution. (More info)
