@@ -1,0 +1,18 @@
+Daily News Briefing — April 29, 2026
+
+🤖 AI & LLMs
+
+Meta open-sourced Llama 4 Scout, a 17B-parameter vision-language model optimized for edge devices that achieves competitive vision benchmarks while running on a single consumer GPU. (https://whatllm.org/blog/new-ai-models-april-2026)
+Researchers are flagging a growing "AI agent hallucination trap" where smarter models produce more confident but incorrect outputs in agentic workflows, raising reliability concerns for autonomous deployments. (https://asanify.com/blog/news/ai-agent-hallucination-april-29-2026/)
+
+
+🚀 Startups
+
+Former Google DeepMind researcher David Silver raised a record $1.1B seed round for his months-old startup Ineffable Intelligence, the largest seed round ever recorded. (https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/)
+Shanghai-based humanoid robot startup Robot Era raised $200M in a Series C, following a $146M Series B just weeks earlier, valuing it at over $1.4B. (https://blog.mean.ceo/ai-startup-funding-news-april-2026/)
+
+
+🏗️ AI in Construction & Engineering
+
+Construction AI adoption doubled in 2026 as 94% of AEC firms plan to increase AI usage this year, with automated estimating systems now achieving 85–90% accuracy in a fraction of the time. (https://www.constructionowners.com/news/construction-ai-adoption-doubles-in-2026-as-smart-tools-transform-jobsites)
+Meta released BOxCrete, an AI model using Bayesian optimization for concrete mix design, unveiled at the 2026 American Concrete Institute Spring Convention, targeting more sustainable and efficient mixes. (https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
