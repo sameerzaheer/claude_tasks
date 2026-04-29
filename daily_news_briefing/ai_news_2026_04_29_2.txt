@@ -1,0 +1,18 @@
+Daily AI News Briefing — April 29, 2026
+
+🤖 AI & LLMs
+
+DeepSeek released a preview of its V4 model series (Pro: 1.6T params, Flash: 284B params) on April 24 — open source, with a 1M-token context window, rivaling frontier closed-source models at a fraction of the cost. (https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/)
+Luma AI launched "Luma Agents," an entirely new multi-modal creative agent product category that autonomously handles full campaign briefs — from text to image to video — with persistent context across assets. (https://blog.mean.ceo/ai-product-launches-news-april-2026/)
+
+
+🚀 Startups
+
+China blocked Meta's $2B acquisition of AI agent startup Manus and is demanding the parties unwind the deal following a government probe. (https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html)
+SpaceX made a $60B buyout offer for AI coding startup Cursor, preempting a separate $2B fundraise the startup had been planning. (https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/)
+
+
+🏗️ AI in Construction & Engineering
+
+AI's insatiable infrastructure appetite is making it "the world's most demanding construction client," with global AI data center power capacity surging from 0.15 GW in 2022 to nearly 30 GW by end of 2025. (https://techxplore.com/news/2026-04-ai-world-demanding-client-implications.html)
+Virginia Tech researchers are deploying robots and AI systems in 2026 to tackle construction's biggest challenges — labor shortages and hazardous conditions — as part of a new autonomous construction initiative. (https://news.vt.edu/articles/2026/03/eng-mlsoc-robots-and-ai-tackling-construction-challenges-mario.html)
