@@ -1,0 +1,18 @@
+Daily AI News Briefing — April 30, 2026
+
+🤖 AI & LLMs
+
+Microsoft and OpenAI dissolved their exclusivity deal, and AWS immediately rolled out three new OpenAI offerings on its Bedrock platform — including a jointly built agent service — opening a new era of multi-cloud AI distribution. (https://spectrum.ieee.org/state-of-ai-index-2026)
+Anthropic's Claude Opus 4.6 topped the LMSYS Chatbot Arena, surpassing GPT-5.4 and Gemini 3.1 Pro in human-preference evaluations and achieving a record 65.3% on SWE-bench Verified. (https://whatllm.org/blog/new-ai-models-april-2026)
+
+
+🚀 Startups
+
+Aidoc, a medical AI startup, raised a $150M Series E round led by Goldman Sachs Growth Equity, accelerating AI-powered clinical decision support for hospitals. (https://aifundingtracker.com/ai-startup-funding-news-today/)
+Rogo, an AI platform for financial institutions, raised $160M in Series D funding led by Kleiner Perkins, as Wall Street firms race to deploy AI research and analysis tools. (https://blog.mean.ceo/startup-funding-news-april-2026/)
+
+
+🏗️ AI in Construction & Engineering
+
+Conxai raised €5M to bring agentic AI to the construction industry, targeting real-time project management, automated compliance monitoring, and on-site safety analysis. (https://thenextweb.com/news/conxai-5m-agentic-ai-construction)
+Autodesk's 2026 AI Construction Trends report — compiled from 25+ industry experts — identifies AI-powered vision-based safety systems as the fastest-growing application, detecting fall hazards, missing PPE, and unauthorized site access in real time. (https://www.autodesk.com/blogs/construction/2026-ai-trends-25-experts-share-insights/)
