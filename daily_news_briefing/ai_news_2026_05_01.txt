@@ -1,0 +1,21 @@
+Daily AI News Briefing — May 1, 2026
+
+🤖 AI & LLMs
+
+Meta unveiled Muse Spark, its first flagship LLM built under Chief AI Officer Alexandr Wang's newly formed Superintelligence Labs, delivering competitive multimodal performance at a fraction of the compute cost of its older Llama 4 variants. (https://llm-stats.com/ai-news)
+
+GitHub Copilot is shifting to usage-based billing based on token consumption starting June 1, 2026, introducing AI Credits and pooled usage for businesses. (https://llm-stats.com/llm-updates)
+
+
+🚀 Startups
+
+OpenAI acquired personal finance AI startup Hiro Finance in an acqui-hire, integrating financial planning capabilities into ChatGPT and sunsetting the Hiro platform on May 13, 2026. (https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/)
+
+OpenAI acquired A/B testing and feature flagging platform Statsig, with co-founder Vijaye Raji set to become CTO of Applications. (https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/)
+
+
+🏗️ AI in Construction & Engineering
+
+Caterpillar and NVIDIA announced an expanded collaboration to deploy physical AI and robotics across autonomous construction equipment and manufacturing systems. (https://www.caterpillar.com/en/news/corporate-press-releases/h/cat-nvidia-collab.html)
+
+Deloitte's 2026 Engineering and Construction Industry Outlook highlights that AI-powered autonomous systems and digital twins are set to fundamentally reshape project delivery workflows this year. (https://www.deloitte.com/us/en/insights/industry/engineering-and-construction/engineering-and-construction-industry-outlook.html)
