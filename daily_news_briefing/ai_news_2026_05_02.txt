@@ -1,0 +1,21 @@
+Daily AI News Briefing — May 2, 2026
+
+🤖 AI & LLMs
+
+xAI launched Grok Imagine 1.0, a video generation platform that topped DesignArena benchmarks with an Elo score of 1,329, beating Runway Gen-4.5, Sora 2 Pro, and Google Veo 3.1 at launch. (https://blog.mean.ceo/ai-product-launches-news-may-2026/)
+
+Microsoft launched Agent 365 on May 1, a dedicated governance and security control plane for enterprise AI agents priced at $15/user/month. (https://blog.mean.ceo/ai-product-launches-news-may-2026/)
+
+
+🚀 Startups
+
+Rhoda AI publicly launched with $450M in Series A funding after 18 months in stealth, making it one of the largest Series A rounds ever recorded. (https://fundup.ai/recently-funded-startups)
+
+Shield AI secured $1.5B in Series G funding as part of a $2.25B capital package, valuing the defense AI company at $12.7B, alongside its acquisition of Aechelon Technology. (https://aifundingtracker.com/ai-startup-funding-news-today/)
+
+
+🏗️ AI in Construction & Engineering
+
+A Yale SOM alum raised $6M for an AI construction startup targeting inefficiencies across the industry's project lifecycle. (https://som.yale.edu/story/2026/som-alum-raises-6-million-ai-construction-startup)
+
+Bouygues Construction used AI-driven engineering on the Bagneux metro station project in Paris to redesign a retaining wall, cutting 140 tonnes of steel and lowering both cost and embodied carbon before construction even began. (https://www.mastt.com/blogs/construction-ai-companies)
