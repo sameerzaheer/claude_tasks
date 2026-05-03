@@ -1,0 +1,21 @@
+Daily AI News Briefing — May 3, 2026
+
+🤖 AI & LLMs
+
+OpenAI launched GPT-5.5 on April 23 with the strongest agentic capabilities yet, targeting enterprise knowledge work and coding, now rolling out across all ChatGPT tiers and available via API. (https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/)
+
+Novo Nordisk partnered with OpenAI to deploy AI across its entire business — from drug discovery and clinical trials to manufacturing and commercial operations — with full integration planned by end of 2026. (https://www.cnbc.com/2026/04/14/novo-nordisk-openai-ai-drug-discovery-healthcare-nvo.html)
+
+
+🚀 Startups
+
+Parallel Web Systems, ex-Twitter CEO Parag Agrawal's startup building AI-native web search APIs for agents, raised $100M Series B at a $2B valuation led by Sequoia, with 100,000+ developers already using its products. (https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/)
+
+Ineffable Intelligence, founded by AlphaGo creator and ex-DeepMind researcher David Silver, raised a record $1.1B seed round at a $5.1B valuation to build AI that learns from experience without human training data. (https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/)
+
+
+🏗️ AI in Construction & Engineering
+
+Meta released BOxCrete, an open-source AI model for concrete mix design that achieved 43% faster structural strength in a real Minnesota data center project by optimizing cement formulations using domestically sourced materials. (https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
+
+Six construction tech startups raised a combined $126M in early 2026, including Fyld ($41M Series B for AI jobsite safety video analysis), Sensera Systems ($27M for AI-powered site monitoring), and XBuild ($19M for AI-based project estimating). (https://www.constructiondive.com/news/contech-funding-fyld-sensera-xbuild-moab-payra/814452/)
