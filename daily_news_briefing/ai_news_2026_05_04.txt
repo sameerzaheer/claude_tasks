@@ -1,0 +1,21 @@
+Daily AI News Briefing — May 4, 2026
+
+🤖 AI & LLMs
+
+Anthropic surpassed OpenAI in Q1 2026 LLM revenue share (31.4% vs 29%) while hitting $30B ARR, driven by higher enterprise adoption at $16.20 revenue-per-user vs OpenAI's $2.20. (https://www.theregister.com/2026/04/30/openai_anthropic_top_lines_research_counterpoint/)
+
+Cloudflare launched global LLM infrastructure — including its "Unweight" compression technique that reduces model size 15–22% without accuracy loss — to enable scalable AI inference across its edge network. (https://www.infoq.com/news/2026/05/cloudflare-llm-infrastructure/)
+
+
+🚀 Startups
+
+Hightouch raised $150M Series D at a $2.75B valuation led by Goldman Sachs and Bain Capital, as its AI-powered marketing and data activation platform scales across enterprise clients. (https://www.finsmes.com/2026/04/hightouch-raises-150m-in-series-d-funding.html)
+
+Chapter, an AI Medicare navigation startup helping seniors find personalized, unbiased health coverage, raised $100M Series E led by Generation Investment Management. (https://aifundingtracker.com/ai-startup-funding-news-today/)
+
+
+🏗️ AI in Construction & Engineering
+
+Construction trades have moved AI from experiment to standard practice — Bechtel now uses Detect Technologies AI to monitor PPE compliance across 18,000 workers, and Skanska deploys Hakimo AI for physical jobsite security at scale. (https://www.constructiondive.com/news/how-the-trades-figured-out-the-best-use-for-ai/818828/)
+
+A new study reveals a major AI skills gap in construction, with 73% of AEC professionals still not using AI despite rapid tool availability and growing adoption pressure. (https://businessjournaldaily.com/study-reveals-ai-gap-in-construction-workforce-training/)
