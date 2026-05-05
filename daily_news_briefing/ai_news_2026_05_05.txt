@@ -1,0 +1,21 @@
+Daily AI News Briefing — May 5, 2026
+
+🤖 AI & LLMs
+
+Meta's Muse Spark creative AI platform has drawn early investor interest, though Wall Street is still waiting for Zuckerberg to articulate a broader AI strategy beyond individual product launches. (https://www.cnbc.com/2026/04/28/meta-muse-spark-has-promise-wall-street-wants-zuckerberg-ai-strategy.html)
+
+Chinese AI labs including DeepSeek, Alibaba, and ByteDance are rapidly closing the benchmark gap with US leaders on reasoning and coding tasks, while recent releases like DeepSeek v4 and Kimi K2.6 signal accelerating global competition. (https://press.airstreet.com/p/state-of-ai-may-2026)
+
+
+🚀 Startups
+
+Sierra, the enterprise AI agent startup co-founded by Bret Taylor, raised $950M at a $15.8B valuation led by Tiger Global and GV, nearly doubling its total funding on surging enterprise demand for AI-powered customer service agents. (https://aifundingtracker.com/ai-startup-funding-news-today/)
+
+Firestorm Labs raised $82M to build container-based drone factories enabling rapid deployment of autonomous drone systems, reflecting continued strong investor appetite for defense-adjacent AI hardware. (https://www.todaysstartupnews.com/news/startup-roundup-may-3-2026-ai-defense-tech-robotics-european-innovation-funding-deals)
+
+
+🏗️ AI in Construction & Engineering
+
+Construction AI adoption has doubled in 2026, with 24% of firms now using AI for cost estimation and achieving 85–90% accuracy, cutting a process that once took half a day down to just minutes. (https://www.constructionowners.com/news/construction-ai-adoption-doubles-in-2026-as-smart-tools-transform-jobsites)
+
+Virginia Tech researchers are developing MARIO, a coordinated team of AI-driven robots and drones for continuous remote construction site monitoring, aimed at addressing labor shortages and reducing on-site safety risks. (https://news.vt.edu/articles/2026/03/eng-mlsoc-robots-and-ai-tackling-construction-challenges-mario.html)
