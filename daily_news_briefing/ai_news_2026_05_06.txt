@@ -1,0 +1,21 @@
+Daily AI News Briefing — May 6, 2026
+
+🤖 AI & LLMs
+
+Meta acquired Assured Robot Intelligence (ARI), a startup building foundation models for humanoid robots capable of whole-body control in dynamic real-world environments, with ARI's co-founders joining Meta's Superintelligence Labs. (https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/)
+
+Anthropic launched 10 specialized AI agents for financial services — covering banking, insurance, and asset management — automating tasks like KYC checks, pitchbook drafting, and AML investigations, with JPMorganChase, Goldman Sachs, and Visa already in production. (https://fortune.com/2026/05/05/anthropic-wall-street-financial-services-agents-jamie-dimon/)
+
+
+🚀 Startups
+
+True Anomaly raised $650M Series D at a $2.2B valuation to build AI-powered space interceptors for Trump's Golden Dome missile defense program, bringing total funding to $1.1B. (https://www.cnbc.com/2026/04/28/true-anomaly-trump-golden-dome.html)
+
+Ricursive Intelligence raised $300M Series A for AI-driven chip design automation, reflecting investors' surging appetite for AI tools that accelerate semiconductor development. (https://aifundingtracker.com/ai-startup-funding-news-today/)
+
+
+🏗️ AI in Construction & Engineering
+
+ENR's 2026 Top 500 Design Firms report shows that AI-driven data center demand is directly boosting revenue for top engineering firms, as hyperscalers collectively spend $700B+ on AI infrastructure this year. (https://www.enr.com/articles/62878-enr-2026-top-500-design-firms-ai-boom-buoys-design-revenue)
+
+Consigli Construction's CIO reports that AI's biggest impact has come in estimating — replacing disconnected spreadsheets with AI-enhanced, collaborative workflows with built-in version control, and workers now expect AI access as a standard tool. (https://www.constructiondive.com/news/consigli-cio-ai-impact-estimating/818191/)
