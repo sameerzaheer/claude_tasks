@@ -1,0 +1,21 @@
+Daily AI News Briefing — May 7, 2026
+
+🤖 AI & LLMs
+
+The Pentagon reached deals with eight AI companies — including OpenAI, Google, NVIDIA, and SpaceX — to deploy their products across the Department of Defense. (https://www.yahoo.com/news/articles/pentagon-reaches-deals-eight-ai-184529577.html)
+
+Google completed the global rollout of Gemini 3.1 Ultra, featuring a 2-million token multimodal context window and a record-setting 94.3% score on the GPQA Diamond benchmark. (https://deepmind.google/models/gemini/)
+
+
+🚀 Startups
+
+Parallel Web Systems, Parag Agrawal's AI agent search startup, raised $100M Series B at a $2B valuation led by Sequoia just five months after its previous $100M raise. (https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/)
+
+District, founded by three Snapchat alumni, raised a $14.7M seed round to help independent sellers build community-driven social marketplaces. (https://fortune.com/2026/05/06/district-snap-seed/)
+
+
+🏗️ AI in Construction & Engineering
+
+Neuron Factory, founded by former Microsoft and Waymo engineers, raised a strategic investment from AEC investors including Trimble and Suffolk Technologies to build the first AI-native, construction-focused knowledge graph platform. (https://www.engineering.com/neuron-factory-raises-funding-for-construction-ai-platform/)
+
+Physical AI in construction is moving from pilots to real deployments in 2026, with companies designating unmanned jobsite zones for autonomous piling, grading, and trenching operations. (https://www.equipmentjournal.com/tech-news/why-2026-will-be-a-critical-year-for-physical-ai-in-construction/)
