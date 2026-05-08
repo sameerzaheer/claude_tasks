@@ -1,0 +1,21 @@
+Daily AI News Briefing — May 8, 2026
+
+🤖 AI & LLMs
+
+OpenAI launched a self-serve Ads Manager for ChatGPT with CPC bidding and conversion tracking, opening U.S. advertisers direct access starting at $50K spend — a major step toward monetizing ChatGPT's massive user base. (https://www.axios.com/2026/05/05/openai-self-serve-ad-platform)
+
+Apple announced that iOS 27 will let users choose from multiple third-party AI models — including ChatGPT and Claude — for text, editing, and image tasks, ending Apple Intelligence's single-provider lock-in. (https://www.androidheadlines.com/2026/05/apple-intelligence-opening-up-third-party-ai-models.html)
+
+
+🚀 Startups
+
+Chinese Kimi chatbot maker Moonshot AI raised $2B at a $20B valuation in a round led by Meituan VC, driven by $200M+ in monthly revenue and rapidly growing AI subscriptions. (https://www.chinamoneynetwork.com/2026/05/07/moonshot-ais-20-billion-valuation-marks-rapid-ai-funding-trajectory-in-china)
+
+Astranis raised a $450M Series E — bringing total funding to $1.2B+ — to scale production of next-gen small geostationary satellites meeting surging commercial and government demand. (https://tracxn.com/d/companies/astranis/__6KeLTNv701KzihnlMu3nJ0AdrYc1WVJGHLk77kRBHro/funding-and-investors)
+
+
+🏗️ AI in Construction & Engineering
+
+Zero RFI, an AI-native construction platform launched by tech veteran KP Reddy and backed by General Catalyst's $13.8M seed, aims to serve as an AI "assistant program manager" filling the knowledge gap as experienced PMs retire faster than they can be replaced. (https://www.crowdfundinsider.com/2026/03/267354-ai-for-construction-platform-zero-rfi-launches-backed-by-general-catalyst/)
+
+A new report highlights how AI is helping the construction industry tackle its chronic inability to meet deadlines by automating scheduling, RFI responses, and project coordination. (https://www.atlantanewsfirst.com/2026/05/07/construction-industry-rarely-meets-deadlines-can-ai-make-it-more-efficient/)
