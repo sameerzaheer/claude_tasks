@@ -1,0 +1,21 @@
+Daily AI News Briefing — May 9, 2026
+
+🤖 AI & LLMs
+
+Cohere acquired Germany's Aleph Alpha at a $20B combined valuation, backed by €500M from Schwarz Group, to offer enterprises a sovereign AI alternative to US tech giants. (https://thenextweb.com/news/cohere-aleph-alpha-merger-20-billion)
+
+Image AI models have overtaken chatbot upgrades as the top driver of app growth in 2026, with leading image generation apps now outpacing ChatGPT-style tools in app store revenue and downloads. (https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/)
+
+
+🚀 Startups
+
+SAP is investing €1B to acquire Prior Labs, an 18-month-old German startup pioneering Tabular Foundation Models for structured enterprise data, to establish a globally leading frontier AI lab in Europe. (https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/)
+
+April 2026 became the third-highest month on record for global startup funding, driven by several billion-dollar AI rounds including a Jeff Bezos-backed AI project called Project Prometheus. (https://news.crunchbase.com/venture/global-startup-funding-april-2026-anthropic-jeff-bezos-project-prometheus-biggest-deals/)
+
+
+🏗️ AI in Construction & Engineering
+
+Jacobs Engineering Q2 2026 earnings beat expectations as AI infrastructure demand more than doubled its data center business year-over-year, prompting the company to raise its full-year profit forecast for the second consecutive quarter. (https://www.constructiondive.com/news/jacobs-earnings-may-2026-data-center-investment-cycle/819518/)
+
+AI data centers are triggering a massive construction boom with hyperscalers set to spend $630–$700B on AI infrastructure in 2026, creating surging demand for utility crews, power systems, and underground infrastructure work. (https://cdapress.com/news/2026/may/08/billion-dollar-ai-data-centers-are-creating-a-massive-construction-boom-in-2026/)
