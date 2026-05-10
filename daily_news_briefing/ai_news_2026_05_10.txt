@@ -1,0 +1,21 @@
+Daily AI News Briefing — May 10, 2026
+
+🤖 AI & LLMs
+
+Anthropic signed a historic $1.8B, 7-year deal with Akamai to host Claude AI models, causing Akamai's stock to surge 26% in the largest contract in Akamai's history. (https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai)
+
+Cloudflare announced "Agents Week 2026" unveiling its full pivot to an agentic cloud platform (Project Think, Cloud 2.0) while simultaneously cutting over 1,100 employees in a major AI-first restructuring. (https://blog.cloudflare.com/agents-week-in-review/)
+
+
+🚀 Startups
+
+Sierra, Bret Taylor's enterprise AI agent startup, raised $950M at a $15.8B valuation led by Tiger Global and GV, reaching $150M+ ARR in just 8 quarters — an unprecedented pace for a SaaS company. (https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/)
+
+Firestorm Labs raised an $82M Series B led by Washington Harbour to scale its xCell containerized platform that 3D-prints complete drone systems in under 24 hours for U.S. military customers. (https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/)
+
+
+🏗️ AI in Construction & Engineering
+
+Turner Construction released SafeT Coach, a free AI-powered jobsite safety app during Construction Safety Week 2026, sharing its internal AI safety technology with the broader construction industry. (https://www.constructiondive.com/news/turner-construction-ai-safety-tech-gpt/819069/)
+
+McKinsey and ALICE Technologies partnered to bring generative AI-powered scheduling to large-scale construction projects, combining McKinsey's consulting reach with ALICE's AI schedule optimization platform. (https://www.constructiondive.com/news/mckinsey-alice-technologies-partner-generative-ai-schedule/817580/)
