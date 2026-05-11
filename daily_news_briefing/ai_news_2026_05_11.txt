@@ -1,0 +1,21 @@
+Daily AI News Briefing — May 11, 2026
+
+🤖 AI & LLMs
+
+Nvidia topped $40B in AI equity investments in 2026, anchored by a $30B stake in OpenAI, as the chipmaker repositions itself as a strategic backer across the entire AI ecosystem. (https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html)
+
+The U.S. Department of Commerce expanded its pre-release AI safety testing program to include Google DeepMind, Microsoft, and xAI alongside Anthropic and OpenAI, extending federal oversight over frontier models. (https://press.airstreet.com/p/state-of-ai-may-2026)
+
+
+🚀 Startups
+
+World Labs, Fei-Fei Li's spatial AI company, raised $1B to scale its Marble platform that generates persistent 3D worlds from text, images, or video — with $200M from Autodesk and additional backing from NVIDIA and AMD. (https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/)
+
+Inertia raised a $450M Series A for its fusion laser energy systems, one of May 2026's largest bets on breakthrough physical infrastructure. (https://techstartups.com/2026/05/07/top-startup-and-tech-funding-news-may-7-2025/)
+
+
+🏗️ AI in Construction & Engineering
+
+AI design tools like Autodesk Forma have become essential for engineers and architects in 2026, now widely used for environmental analysis, building massing, and performance simulation before detailed design begins. (https://www.techtimes.com/articles/316474/20260511/best-ai-design-tools-that-engineers-architects-are-using-build-smarter-2026.htm)
+
+Construction AI adoption doubled in 2026, with 38% of contractors now reporting measurable business impact from AI tools — up from just 17% a year ago. (https://www.constructionowners.com/news/construction-ai-adoption-doubles-in-2026-as-smart-tools-transform-jobsites)
