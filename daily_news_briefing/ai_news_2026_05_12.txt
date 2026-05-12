@@ -1,0 +1,21 @@
+Daily AI News Briefing — May 12, 2026
+
+🤖 AI & LLMs
+
+Moonshot AI's open-source Kimi K2.6 tied GPT-5.5 on the toughest coding benchmarks at just $0.95 per million input tokens — roughly 80% cheaper than comparable frontier models — making it the most cost-effective frontier-quality model available. (https://felloai.com/kimi-k2-6-is-here-the-open-source-ai-model-tying-gpt-5-5-on-coding/)
+
+MIT researchers developed a Token-Level Training (TLT) method that doubles LLM training speed while fully preserving accuracy, achieving 70–210% speedups across multiple reasoning models — with the small drafter model usable for efficient inference as a bonus. (https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226)
+
+
+🚀 Startups
+
+Cowboy Space Corporation — founded by Robinhood co-founder Baiju Bhatt — raised $275M in a Series B led by Index Ventures to build vertically integrated orbital data centers and rockets, targeting AI compute demand that is straining terrestrial capacity. (https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/)
+
+Corgi raised $160M in a Series B at a $1.3B valuation to build the first AI-native, full-stack insurance platform for startups, expanding into new verticals. (https://finance.yahoo.com/sectors/technology/articles/corgi-raises-160-million-series-160000034.html)
+
+
+🏗️ AI in Construction & Engineering
+
+ENR FutureTech 2026 convened AEC leaders in San Francisco this week to showcase AI integration, drone inspections, jobsite wearables, and autonomous construction — with sessions warning that 95% of AI pilots fail to deliver long-term value if rushed. (https://www.globenewswire.com/news-release/2026/05/06/3288436/0/en/AEC-Leaders-Kick-Off-ENR-FutureTech-2026-With-Welcome-Reception-and-Day-Two-Keynotes.html)
+
+The 2026 Construction Robotics Report finds robots now delivering 30–50% labor savings in real-world deployments for layout, rebar tying, solar groundworks, and reality capture — marking a definitive shift from pilot programs to production use. (https://zacuaventures.com/construction-robotics-report-2026/)
