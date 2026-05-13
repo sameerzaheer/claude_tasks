@@ -1,0 +1,21 @@
+Daily AI News Briefing — May 13, 2026
+
+🤖 AI & LLMs
+
+Novo Nordisk and OpenAI announced a strategic partnership to deploy AI across the pharma giant's entire operations—from drug discovery and clinical trials to manufacturing and supply chains—with full integration planned by end of 2026. (https://www.crescendo.ai/news/latest-ai-news-and-updates)
+
+Microsoft and OpenAI restructured their partnership into a non-exclusive arrangement, opening up greater cloud AI competition and signaling a significant strategic shift in their long-standing relationship. (https://press.airstreet.com/p/state-of-ai-may-2026)
+
+
+🚀 Startups
+
+Sierra, Bret Taylor's AI customer service startup, raised $950M at a $15.8B valuation led by Tiger Global and GV, reaching $150M ARR in under two years—one of the fastest SaaS growth trajectories on record. (https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/)
+
+Parallel Web Systems, founded by former Twitter CEO Parag Agrawal, raised $100M at a $2B valuation led by Sequoia to build AI search and research APIs designed for embedding inside other products. (https://blog.mean.ceo/top-funded-startups-news-may-2026/)
+
+
+🏗️ AI in Construction & Engineering
+
+Newforma launched Vojo, an AI assistant with natural language search, BIM model analysis, and smart email filing, as part of its open ecosystem strategy unveiled at Newforma World 2026. (https://www.prnewswire.com/news-releases/newforma-announces-ai-powered-innovations-and-open-ecosystem-strategy-at-newforma-world-2026-302765799.html)
+
+Deloitte's 2026 Engineering and Construction Industry Outlook identifies agentic AI networks as the defining shift of the year, with connected AI agents now orchestrating design, scheduling, and resource management across full project lifecycles. (https://www.deloitte.com/us/en/insights/industry/engineering-and-construction/engineering-and-construction-industry-outlook.html)
