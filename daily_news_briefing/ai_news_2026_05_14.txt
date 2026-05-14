@@ -1,0 +1,21 @@
+Daily AI News Briefing — May 14, 2026
+
+🤖 AI & LLMs
+
+Meta acquired Assured Robot Intelligence (ARI), a humanoid robotics AI startup, folding its co-founders into Superintelligence Labs with plans to build an "Android of humanoid robots" licensing platform. (https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/)
+
+Cloudflare unveiled Infire, a custom AI inference engine that runs large language models across multiple GPUs on its global network, significantly improving LLM serving efficiency. (https://www.infoq.com/news/2026/05/cloudflare-llm-infrastructure/)
+
+
+🚀 Startups
+
+Anduril raised $5B in Series H funding on May 13, 2026, bringing its total raised to $11.4B and cementing defense tech as one of the hottest venture capital categories of the year. (https://www.alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-13-2026/)
+
+Exaforce, an AI-native cybersecurity startup, raised $125M in Series B financing at a $725M valuation, betting on AI-driven threat detection and response. (https://blog.mean.ceo/ai-startup-funding-news-may-2026/)
+
+
+🏗️ AI in Construction & Engineering
+
+ProcurePro secured $11M in funding for its AI-powered end-to-end construction procurement platform, pushing its valuation past $80M with backing from QIC Ventures and Bouygues. (https://procurementmag.com/news/procurepro-secures-11m-for-its-construction-procurement-ai)
+
+Construction AI adoption doubled in 2026, with AI cost estimation tools now achieving 85–90% accuracy and compressing estimation tasks that once took half a day into minutes. (https://www.constructionowners.com/news/construction-ai-adoption-doubles-in-2026-as-smart-tools-transform-jobsites)
