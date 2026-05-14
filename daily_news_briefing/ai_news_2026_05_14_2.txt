@@ -1,0 +1,21 @@
+Daily AI News Briefing — May 14, 2026 (2)
+
+🤖 AI & LLMs
+
+Subquadratic released SubQ, an LLM capable of processing up to 12 million tokens in a single pass, backed by $29M in seed funding, pushing long-context AI to new extremes. (https://cafeai.home.blog/2026/05/13/subq-ai-explained-how-good-is-the-12m-context-window-llm/)
+
+MIT researchers unveiled a new training method that boosts LLM efficiency by 70–210% by utilizing idle compute time, without sacrificing model accuracy. (https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226)
+
+
+🚀 Startups
+
+SAP announced it is acquiring German AI startup Prior Labs, committing €1 billion over four years to build a European frontier AI lab focused on structured business data. (https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/)
+
+Chinese AI lab Moonshot AI closed a $2B funding round at a $20B+ valuation led by Meituan, as its open-source Kimi K2.6 model became the second-most used LLM on OpenRouter. (https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/)
+
+
+🏗️ AI in Construction & Engineering
+
+Meta open-sourced BOxCrete, a Bayesian Optimization AI model for concrete mix design that achieved 43% faster curing and ~10% less cracking risk in a real data center construction project. (https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/)
+
+Equipment Journal reports 2026 is a critical year for physical AI in construction, with job sites urgently collecting real-world data to drive adoption of robotics, autonomous vehicles, and sensor networks. (https://www.equipmentjournal.com/tech-news/why-2026-will-be-a-critical-year-for-physical-ai-in-construction/amp/)
