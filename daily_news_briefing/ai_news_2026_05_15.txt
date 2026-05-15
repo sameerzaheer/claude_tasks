@@ -1,0 +1,28 @@
+Daily AI News Briefing — May 15, 2026
+
+🤖 AI & LLMs
+
+Google launched Gemini 3.1 Ultra with a 2-million token context window and native simultaneous multimodal reasoning across text, image, audio, and video—without transcription intermediaries—plus a sandboxed Code Execution tool. (https://whatllm.org/blog/new-ai-models-may-2026)
+
+xAI launched Grok 4.3 at an aggressively low price, featuring a powerful voice cloning suite and a new "Imagine" agent mode designed for creative AI-assisted projects. (https://imfounder.com/science-tech/ai/ai-updates-may-2026/)
+
+
+🚀 Startups
+
+Vapi raised $50M in Series B led by Peak XV at a $500M valuation after its enterprise voice AI platform hit 1 billion calls and won Amazon Ring over 40 competing vendors. (https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/)
+
+Mind Robotics announced a $400M financing round led by Kleiner Perkins to advance its humanoid robotics AI platform. (https://blog.mean.ceo/ai-startup-funding-news-may-2026/)
+
+
+🏗️ AI in Construction & Engineering
+
+Palantir launched a dedicated construction platform that ingests project, financial, and operational data into an AI-governed ontology, targeting C-suite decisions around capital allocation, procurement risk, and supply chain resilience. (https://aecmag.com/construction/palantir-in-aec/)
+
+AEC Magazine's May/June 2026 issue identifies "Local AI" as the year's defining trend in architecture and engineering, with tools moving closer to designers and project data to improve cost, control, and professional responsibility. (https://aecmag.com/technology/aec-magazine-may-june-2026/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Federal agencies are now deploying AI that evaluates RFP proposal compliance in minutes—verifying required forms, instructions, and clauses—with non-compliant submissions eliminated before a human evaluator ever reads them. (https://federalnewsnetwork.com/commentary/2026/04/federal-agencies-are-using-ai-to-evaluate-proposals-is-your-team-ready/)
+
+Loopio's 2026 RFP Trends Report found generative AI adoption among proposal teams doubled in one year from 34% to 68%, with AI cutting drafting time by 50–70% while improving compliance coverage. (https://www.inventive.ai/blog-posts/ai-in-the-rfp-process-2025)
