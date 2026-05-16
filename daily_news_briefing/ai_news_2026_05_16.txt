@@ -1,0 +1,28 @@
+Daily AI News Briefing — May 16, 2026
+
+🤖 AI & LLMs
+
+OpenAI released GPT-5.5 Instant on May 5 as ChatGPT's new default model for all user tiers, delivering 52.5% fewer hallucinations in high-stakes domains (medicine, law, finance) and trimming responses by ~30% for more concise answers. (https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/)
+
+A new market research report forecasts the global LLM market to surge from $11.63B in 2026 to $823.93B by 2040 at a 35.57% CAGR, driven by enterprise AI adoption, multimodal models, and advanced reasoning capabilities. (https://finance.yahoo.com/news/large-language-model-llm-research-141900590.html)
+
+
+🚀 Startups
+
+DeepInfra closed a $107M Series B backed by Nvidia and 500 Global on May 4, now processing nearly 5 trillion tokens/week — a 25x growth since its Series A — as demand for open-source AI inference infrastructure surges. (https://siliconangle.com/2026/05/04/deepinfra-lands-107m-funding-build-dedicated-inference-cloud-open-source-models/)
+
+GovWell raised $25M in Series A funding to expand its AI-powered government operations platform that streamlines permitting, licensing, and public service workflows for municipalities. (https://blog.mean.ceo/ai-startup-funding-news-may-2026/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+BuiltWorlds published its 2026 list of 40 AI-Driven AEC Solutions to Watch, spotlighting tools that automate design workflows, safety monitoring, cost estimation, and materials management across the full construction lifecycle. (https://builtworlds.com/news/40-ai-driven-aec-solutions-to-know-in-2026/)
+
+Autodesk's Digital Builder blog surveyed 25+ construction industry experts who identified predictive analytics, BIM-integrated AI agents, and autonomous jobsite equipment as the three defining AI trends reshaping construction in 2026. (https://www.autodesk.com/blogs/construction/2026-ai-trends-25-experts-share-insights/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Zip launched AI Contract Orchestration in April 2026, enabling enterprise procurement teams to automate contract intake, sourcing, procure-to-pay, and contract management in a single AI-governed workflow. (https://ramp.com/blog/ai-sourcing-tools-in-procurement)
+
+Thalamus HQ published a comparison of the top AI proposal writing tools for federal RFPs in 2026, finding AI-native platforms can cut government contractor response times by over 60% compared to traditional document-filling approaches. (https://blogs.thalamushq.ai/ai-proposal-writing-software-for-federal-rfps-top-3-bid-writing-tools-for-government-contractors-in-2026/)
