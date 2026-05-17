@@ -1,0 +1,28 @@
+Daily AI News Briefing — May 17, 2026
+
+🤖 AI & LLMs
+
+SubQ shipped the first commercial subquadratic LLM featuring a 12 million token context window at roughly 1/5th the cost of frontier models, signaling a major architecture breakthrough in AI efficiency and affordability. (https://whatllm.org/blog/new-ai-models-may-2026)
+
+Cloudflare built high-performance infrastructure to run large language models across its global edge network, enabling low-latency AI inference without relying on centralized cloud providers. (https://www.infoq.com/news/2026/05/cloudflare-llm-infrastructure/)
+
+
+🚀 Startups
+
+SAP agreed to acquire German AI lab Prior Labs for $1.16B, betting on its Tabular Foundation Models (TabPFN) to unlock structured business data predictions that traditional LLMs fundamentally struggle with. (https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/)
+
+Chinese AI startup Moonshot AI raised $2B at a $20B valuation led by Meituan, making it China's top-funded LLM startup with its Kimi chatbot platform and open-source models rivaling OpenAI and Anthropic. (https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Stantec's 2026 AEC trends report highlights "vibe coding" and real-time AI building performance analysis as defining technologies, enabling architects to get structural and energy feedback in minutes rather than weeks. (https://www.stantec.com/en/ideas/topic/buildings/2026-aec-trends-part-2-ai-in-architecture-vibe-coding-real-time-analysis-data)
+
+A new empirical study in ScienceDirect assessed generative AI integration across AEC occupational roles using O*NET taxonomy, identifying AI hallucinations and data privacy concerns as the leading barriers slowing broader adoption. (https://www.sciencedirect.com/science/article/pii/S1474034626000844)
+
+
+📋 AI in Procurement & Proposal Writing
+
+AutogenAI's 2026 Complete Buyer's Guide reveals the AI proposal software market has matured into three distinct tiers—retrieval-first, generation-first, and full-lifecycle automation—with AI cutting proposal drafting time by 50–70%. (https://autogenai.com/blog/best-proposal-software-2026/)
+
+SteerLab's 2026 RFP Industry Benchmarks report advises proposal teams to "structure proposals for the machine and write them for the human," as AI pre-screeners now evaluate RFP compliance before any human reviewer sees the submission. (https://www.steerlab.ai/blog/rfp-in-2026-ai-tools-best-practices-industry-benchmarks)
