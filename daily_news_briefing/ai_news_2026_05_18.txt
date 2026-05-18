@@ -1,0 +1,28 @@
+Daily AI News Briefing — May 18, 2026
+
+🤖 AI & LLMs
+
+OpenAI is merging ChatGPT, its Codex coding agent, and the developer API into a single "super app" product team led by Thibault Sottiaux, with plans to also integrate the Atlas browser. (https://www.marketingprofs.com/opinions/2026/54786/ai-update-may-15-2026-ai-news-and-views-from-the-past-week)
+
+Google's open-source Gemma 4 model family includes a 26B Mixture-of-Experts variant that activates only 3.8B parameters at inference time, outperforming models 20x its size on reasoning and coding tasks. (https://www.devflokers.com/blog/ai-tech-breakthroughs-may-2026-developments)
+
+
+🚀 Startups
+
+Vapi raised a $50M Series B at a $500M valuation on May 12, led by Peak XV, after its enterprise voice AI platform hit 1 billion calls and beat 40 competitors to win Amazon Ring's entire inbound call routing. (https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/)
+
+Tessera Labs raised $60M led by Andreessen Horowitz to scale its multi-agent AI platform that compresses enterprise ERP modernization timelines from years to weeks at less than half the cost. (https://www.businesswire.com/news/home/20260506853624/en/Tessera-Labs-Raises-$60M-in-Funding-Led-by-Andreessen-Horowitz-to-Transform-ERP-Modernization)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+AEC Magazine's May/June 2026 issue raises the "great brain robbery" question—whether agentic AI is quietly stealing design thinking from AEC professionals—featuring Hypar's Ian Keough and examining AI's limitations in agentic BIM. (https://aecmag.com/technology/aec-magazine-may-june-2026/)
+
+BuiltWorlds published a new analysis on AI building blocks for construction, examining how specialized agents, automation, and system integration are reshaping project delivery workflows across the construction lifecycle. (https://builtworlds.com/news/ai-building-blocks-construction-agents-automation-integration/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Nextgov/FCW reports that the ATARC Agentic AI Lab successfully deployed three specialized compliance agents against a real $8.5M vendor proposal, autonomously identifying FAR gaps, security framework issues, and cost justification shortfalls in minutes. (https://www.nextgov.com/ideas/2026/05/agentic-ai-just-proved-it-can-fix-federal-procurement-now-lets-scale-it/413443/)
+
+Federal News Network warns contractors that agencies from GSA to DoD are now using AI tools to pre-screen proposals for compliance before any human reviewer sees them—non-compliant proposals risk elimination at the AI stage. (https://federalnewsnetwork.com/commentary/2026/04/federal-agencies-are-using-ai-to-evaluate-proposals-is-your-team-ready/)
