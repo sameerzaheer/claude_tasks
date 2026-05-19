@@ -1,0 +1,28 @@
+Daily AI News Briefing — May 19, 2026
+
+🤖 AI & LLMs
+
+Google I/O 2026 kicked off today with expected announcements on new Gemini model upgrades, Android XR smart glasses, and Gemini Intelligence—Google's new agentic AI push for Android. (https://www.androidcentral.com/phones/live/google-i-o-2026-live-blog-android-17-android-xr-glasses-and-all-the-gemini-ai-news)
+
+The EU agreed on May 7 to delay AI Act high-risk AI compliance obligations from August 2026 to December 2027, granting enterprises 16 extra months after industry backlash against the original timeline. (https://www.theregister.com/ai-and-ml/2026/05/07/eu-hits-snooze-on-ai-act-rules-after-industry-backlash/5234530)
+
+
+🚀 Startups
+
+Anthropic acquired Stainless—the SDK-generator startup also used by OpenAI, Google, Meta, and Cloudflare—for $300M+, consolidating control over AI developer tooling and winding down access for competitor labs. (https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/)
+
+Forus raised $160M at a $1B valuation, backed by Thrive Capital and General Catalyst, to build an AI-powered network connecting doctors, pharmacies, payers, and biopharma to automate prescription fulfillment. (https://www.businesswire.com/news/home/20260512458472/en/Forus-Raises-$160M-to-Build-the-Foundation-for-Modern-Medicine)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Construction Dive examines how Skanska, Turner, and Balfour Beatty are each deploying distinct AI-powered safety monitoring systems on jobsites, with early adopters reporting incident rate drops of 30–50% in the first year. (https://www.constructiondive.com/news/ai-safety-skanska-turner-balfour-beatty/819491/)
+
+Construction Safety Week 2026 spotlighted how AI, new cross-industry partnerships, and real-time jobsite hazard monitoring tools are converging to reshape worker safety practices across major construction firms. (https://www.constructiondive.com/news/construction-safety-week-2026-ai-jobsite-hazards/819561/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Euna Solutions launched Solicitation Advisor on April 29—the industry's first AI tool that reviews draft RFPs before publication to surface vague instructions and improve bid response rates for public sector agencies. (https://www.businesswire.com/news/home/20260429549728/en/Euna-Solutions-Launches-Solicitation-Advisor-an-Industry-First-AI-Tool-That-Helps-Public-Sector-Agencies-Strengthen-Solicitations-Before-Publication)
+
+ClearanceJobs reports that AI is transforming government procurement in 2026, with agencies like OMB and GSA piloting sophisticated AI tools to automate acquisition planning, technical reviews, and compliance scoring. (https://news.clearancejobs.com/2026/05/11/ai-and-the-future-of-government-procurement/)
