@@ -1,0 +1,28 @@
+Daily AI News Briefing — May 20, 2026
+
+🤖 AI & LLMs
+
+Google unveiled Gemini 3.1 Ultra at I/O 2026 with a 2-million token context window, native multimodal support across text/image/audio/video, and a sandboxed Code Execution tool that lets the model write, run, and test code mid-conversation. (https://www.analyticsinsight.net/artificial-intelligence/google-io-2026-live-updates-gemini-android-17-xr-glasses-and-more)
+
+Google introduced "Googlebook" at I/O 2026 — an AI-native laptop platform built around Gemini and positioned as the long-term successor to Chromebook, featuring autonomous Gemini Intelligence agents and a contextual "Magic Pointer." (https://www.techradar.com/news/live/google-io-2026-live)
+
+
+🚀 Startups
+
+Parallel Web Systems raised $100M at a $2B valuation ($230M total) to build web-search infrastructure for AI agents, powering the search layer inside other AI products and assistants. (https://fundup.ai/recently-funded-startups)
+
+Steno raised $49M in Series C funding (totaling $150M raised) for its AI-powered legal platform Transcript Genius, which uses generative AI to analyze litigation transcripts and gives it a data edge over pure-software rivals. (https://blog.mean.ceo/ai-startup-funding-news-may-2026/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Tokyo-based ONESTRUCTION raised ¥9.1B (~$58M) to scale its BIM data quality tooling and AI transformation platform, targeting digital construction workflows across AEC firms. (https://bricks-bytes.com/funding-ma/latest-construction-technology-funding-rounds-11th-may-2026-contech-funding/)
+
+Six construction tech startups collectively raised $126M in early 2026, with VC firms targeting AI-driven tools for jobsite safety monitoring, project management, and automated estimating. (https://www.constructiondive.com/news/contech-funding-fyld-sensera-xbuild-moab-payra/814452/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Loopio's 2026 RFP Trends Report reveals generative AI adoption among proposal teams doubled year-over-year from 34% to 68%, with AI tools cutting proposal drafting time by 50–70% while improving compliance coverage. (https://autogenai.com/blog/10-best-rfp-software-to-save-time-win-more-deals-in-2026/)
+
+The 2026 Enterprise AI Procurement Playbook warns that many organizations still use 2018-era RFP templates for AI systems, resulting in 18-month vendor lock-ins on technology that becomes obsolete every six months. (https://linesncircles.com/Blog/Enterprise/AI_Procurement_Playbook_2026)
