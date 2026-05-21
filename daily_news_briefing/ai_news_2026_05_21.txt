@@ -1,0 +1,28 @@
+Daily AI News Briefing — May 21, 2026
+
+🤖 AI & LLMs
+
+Google unveiled Gemini 3.5 Flash at Google I/O 2026 as its strongest model yet for coding and autonomous AI agents — 4x faster on output tokens — and introduced Managed Agents in the Gemini API, which spins up a fully provisioned agent with tools, code execution, and a remote sandbox via a single API call. (https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/)
+
+Miami startup Subquadratic launched SubQ with $29M in seed funding — the world's first subquadratic LLM featuring a 12M-token context window and claiming ~1,000x lower attention compute than traditional transformer-based frontier models at long context lengths. (https://siliconangle.com/2026/05/05/subquadratic-launches-29m-bring-12m-token-context-windows-ai/)
+
+
+🚀 Startups
+
+Israeli AI firm Decart raised $300M Series D at a $4B valuation — backed by Nvidia, Radical Ventures, and Andrej Karpathy — to scale its real-time video models (Lucy, Oasis) and ultra-optimized AI inference stack (DOS). (https://siliconangle.com/2026/05/18/decart-raises-300m-ai-optimization-software-world-models/)
+
+European VC Earlybird closed its largest-ever fund at €360M to back AI, infrastructure, and deeptech startups across Europe, signaling continued strong institutional appetite for hard-tech bets. (https://blog.mean.ceo/startup-funding-news-may-2026/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Swiss startup All3 raised $25M in seed funding to build an integrated platform combining autonomous on-site assembly robots, AI-powered design software, and robotic off-site fabrication for custom construction components. (https://builtworlds.com/news/40-ai-driven-aec-solutions-to-know-in-2026/)
+
+Alabama-based Skyfire AI raised $11M in seed funding for its autonomous drone orchestration software, which AEC firms are deploying for jobsite progress tracking, earthwork monitoring, and BIM data integration. (https://bricks-bytes.com/funding-ma/latest-construction-technology-funding-rounds-4th-may-2026-contech-funding/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Ramp launched a fleet of AI agents to automate corporate procurement, enabling the spend management platform to automatically triage employee purchase requests and source vendors without manual intervention. (https://www.pymnts.com/news/b2b-payments/2026/ramp-launches-ai-agents-to-automate-corporate-procurement/)
+
+GovSignals secured $5.5M in seed funding to build the first FedRAMP High-certified AI platform for government contractors, covering the full acquisition lifecycle from pre-RFP intelligence and capture strategy through automated proposal drafting. (https://www.govsignals.ai/articles/as-department-of-government-efficiency-becomes-a-reality-govsignals-raises-seed-round-to-transform-government-contracting-with-ai)
