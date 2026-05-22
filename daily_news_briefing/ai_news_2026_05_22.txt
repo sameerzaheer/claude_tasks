@@ -1,0 +1,28 @@
+Daily AI News Briefing — May 22, 2026
+
+🤖 AI & LLMs
+
+Cloudflare announced new high-performance infrastructure to run large LLMs across its global network, using a two-stage inference engine that separates input processing from output generation and already tripled speeds for Moonshot's Kimi K2.5. (https://www.infoq.com/news/2026/05/cloudflare-llm-infrastructure/)
+
+Akamai's stock surged after securing a major LLM infrastructure deal, edging out Cloudflare in the competitive race to provide enterprise-grade AI inference at the network edge. (https://www.theregister.com/networks/2026/05/09/akamai-surges-on-big-llm-deal-as-cloudflare-dims/5237552)
+
+
+🚀 Startups
+
+Bret Taylor's AI customer service startup Sierra raised $950M at a $15.8B valuation led by Tiger Global and Google's GV, cementing it as one of the most valuable enterprise AI companies. (https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html)
+
+SAP acquired Prior Labs — an 18-month-old German AI research lab — committing €1 billion over four years, signaling that major enterprise software vendors are aggressively pursuing in-house AI research capability. (https://blog.mean.ceo/top-funded-startups-news-may-2026/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Vienna-based Synaps raised $3.6M pre-seed for its Vecy AI generative vector-based floorplan tool, trained on architects' behavioral patterns to reduce design commands by 80%, with a full product launch planned for summer 2026. (https://thenextweb.com/news/synaps-3-6m-pre-seed-ai-architecture-exclusive)
+
+Newforma launched Vojo — an agent-driven AI assistant for AEC project information management — at Newforma World 2026, featuring natural language search across project data, BIM model analysis, and AI-assisted submittal review workflows. (https://www.constructionowners.com/press-release/newforma-unveils-ai-powered-tools-and-open-ecosystem-strategy-at-newforma-world-2026)
+
+
+📋 AI in Procurement & Proposal Writing
+
+The ATARC Agentic AI Lab successfully deployed three specialized AI agents (FAR compliance, executive order, and technical evaluation) against a real-world modeled $8.5M vendor proposal, proving AI's readiness to automate federal acquisition at scale. (https://www.nextgov.com/ideas/2026/05/agentic-ai-just-proved-it-can-fix-federal-procurement-now-lets-scale-it/413443/)
+
+Federal News Network reports that agencies like DoD, GSA, and VA are now using AI to machine-read proposals before human review — screening for compliance, flagging missing sections, and potentially auto-rejecting non-compliant submissions. (https://federalnewsnetwork.com/commentary/2026/04/federal-agencies-are-using-ai-to-evaluate-proposals-is-your-team-ready/)
