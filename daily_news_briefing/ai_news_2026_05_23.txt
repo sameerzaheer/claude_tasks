@@ -1,0 +1,28 @@
+Daily AI News Briefing — May 23, 2026
+
+🤖 AI & LLMs
+
+Google launched Gemini 3.5 Flash at I/O 2026, now the default model in the Gemini app and AI Mode in Search for billions of users, delivering flagship-rival performance at 4x faster speeds and 25% lower cost than its predecessors. (https://hothardware.com/news/google-io-2026-gemini-35-flash-ai-search-and-more)
+
+Subquadratic launched SubQ with $29M in seed funding — the first commercial non-transformer LLM with a 12M context window, potentially signaling an architectural shift beyond transformers. (https://whatllm.org/blog/new-ai-models-may-2026)
+
+
+🚀 Startups
+
+Israeli AI startup Decart raised $300M Series B at a $4B valuation backed by Nvidia, Amazon, and Radical Ventures, building AI optimization software and real-time world models for video, physical AI, and robotics simulations. (https://siliconangle.com/2026/05/18/decart-raises-300m-ai-optimization-software-world-models/)
+
+Parallel Web Systems, ex-Twitter CEO Parag Agrawal's AI agent web infrastructure startup, raised $100M Series B at a $2B valuation led by Sequoia, offering web search and research APIs specifically designed for AI agents. (https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Italian startup Pillar raised €12M in seed funding led by Earlybird and Base10 to build an AI-powered operating system for construction, covering project management, workforce coordination, and financial management with plans for international expansion. (https://tech.eu/2026/05/12/pillar-secures-eur12m-to-build-an-ai-powered-operating-system-for-construction/)
+
+Intuit launched an AI-powered Construction Edition for its Enterprise Suite, bringing tailored AI-driven financial and project management capabilities specifically designed for the construction industry. (https://investors.intuit.com/news-events/press-releases/detail/1302/intuit-launches-new-ai-powered-construction-edition-for-intuit-enterprise-suite)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Procurement Sciences acquired HigherGov to create the largest AI-powered government contracting growth platform, now serving 3,000+ businesses and having contributed to over $100B in AI-assisted awarded contracts. (https://www.prnewswire.com/news-releases/procurement-sciences-acquires-highergov-creating-the-largest-ai-powered-growth-platform-in-government-contracting-302776364.html)
+
+Euna Solutions launched its Solicitation Advisor AI feature that reviews government RFP drafts before publication and recommends improvements to flag ambiguity, helping public sector agencies issue cleaner, more competitive solicitations. (https://www.constructiondive.com/news/ai-procurement-tool-evaluates-local-government-contract-euna-solutions/819485/)
