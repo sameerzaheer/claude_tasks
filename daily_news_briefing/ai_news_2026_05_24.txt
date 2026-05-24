@@ -1,0 +1,28 @@
+Daily AI News Briefing — May 24, 2026
+
+🤖 AI & LLMs
+
+DeepSeek permanently dropped V4 Pro API prices by 75% on May 22, locking in the 1.6T-parameter open-weights model with a 1M-token context window as the most affordable frontier AI at $0.435/1M input tokens. (https://artificialanalysis.ai/articles/deepseek-is-back-among-the-leading-open-weights-models-with-v4-pro-and-v4-flash)
+
+Anthropic and the Gates Foundation announced a $200M four-year partnership to deploy Claude in healthcare, education, and agriculture in low- and middle-income countries, starting with polio, HPV, and literacy programs in sub-Saharan Africa and India. (https://www.anthropic.com/news/gates-foundation-partnership)
+
+
+🚀 Startups
+
+Modal Labs raised $355M Series C at $4.65B valuation led by General Catalyst (May 21), quadrupling its valuation in less than a year as its serverless AI infrastructure platform grew ARR from $60M to ~$300M. (https://siliconangle.com/2026/05/21/serverless-ai-infrastructure-startup-modal-labs-seals-355m-funding-round/)
+
+Exa raised $250M Series C at $2.2B valuation led by a16z (May 20), building an AI-native search engine for agents that already powers Cursor, Cognition, HubSpot, and 400,000+ developers across 500B+ indexed URLs. (https://exa.ai/blog/announcing-series-c)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Bluebeam launched Max globally (May 19) with Anthropic Claude/MCP integration, automatic drawing stitching, and Smart Overlay — bringing AI-powered design discrepancy detection and automated markup workflows to all Revu customers worldwide. (https://www.globenewswire.com/news-release/2026/05/19/3297522/0/en/bluebeam-max-launches-globally-bringing-ai-powered-productivity-to-aec-teams-everywhere.html)
+
+Procore released five production-ready AI agents powered by its Datagrid acquisition (May 22), including a deep search agent across specs/drawings/RFIs and a contract review agent that identifies liability risks and conflicts before execution. (https://highways.today/2026/05/22/procore-agentic-ai/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+GSA's proposed GSAR 552.239-7001 AI contract clause — granting the government broad rights to use contractor AI "in any lawful context" — drew alarm from trade groups over IP ownership, False Claims Act exposure, and a 60-day compliance window for all GSA Schedule holders. (https://www.nextgov.com/acquisition/2026/04/trade-and-industry-groups-warn-risks-gsas-draft-ai-procurement-guidance/412614/)
+
+A new analysis outlines how federal agencies are deploying AI in 2026 to fully automate contract evaluation and monitoring — from scoring technical proposals and reviewing solicitation responses to tracking vendor performance in real time. (https://iquasar.com/blog/ai-procurement-in-2026-how-federal-agencies-will-use-automation-to-evaluate-and-monitor-contracts/)
