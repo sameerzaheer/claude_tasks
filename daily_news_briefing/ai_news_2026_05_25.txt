@@ -1,0 +1,28 @@
+Daily AI News Briefing — May 25, 2026
+
+🤖 AI & LLMs
+
+Alibaba unveiled the Zhenwu M890 AI chip — 3x more powerful than its predecessor with 144GB HBM3 memory — alongside Qwen 3.7-Max, a new LLM engineered for 35-hour continuous agent tasks, as China's push for a domestic Nvidia alternative intensifies. (https://www.cnbc.com/2026/05/19/alibaba-reveals-more-powerful-zhenwu-ai-chip-new-llm.html)
+
+Anthropic released Claude Opus 4.7 as generally available with its most significant software engineering gains yet, accessible across the API, Amazon Bedrock, Google Cloud Vertex AI, and Microsoft Foundry. (https://www.anthropic.com/news/claude-opus-4-7)
+
+
+🚀 Startups
+
+Shield AI raised $2B ($1.5B Series G led by Advent International + $500M from Blackstone) at a $12.7B valuation — a 140% leap in 12 months — after the U.S. Air Force selected its Hivemind autonomous pilot software for its next-generation Collaborative Combat Aircraft drone program, and announced plans to acquire simulation company Aechelon. (https://shield.ai/shield-ai-to-acquire-software-simulation-company-aechelon-and-raise-2b-at-12-7b-valuation/)
+
+OpenAI made its seventh acquisition of 2026 by acquiring personal finance AI startup Hiro Finance (founded 2024 by serial entrepreneur Ethan Bloch), nearly matching its entire 2025 M&A total as it accelerates building vertical AI expertise across consumer domains. (https://aifundingtracker.com/ai-startup-funding-news-today/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Munich-based Conxai raised €5M from BayBG and Capricorn Partners to scale its no-code agentic AI platform for construction, which covers tender analysis, bid leveling, real-time risk detection, and site monitoring, with plans for international expansion beyond Europe. (https://thenextweb.com/news/conxai-5m-agentic-ai-construction)
+
+Turner Construction released its AI-powered safety coaching tool SafeT Coach — which logged 25,000+ interactions with staff and trade partners during Construction Safety Week — and made the technology available to the broader construction industry. (https://www.constructiondive.com/news/turner-construction-ai-safety-tech-gpt/819069/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Federal agencies are now deploying AI to evaluate proposal compliance in minutes — potentially eliminating non-compliant submissions before any human evaluator engages — putting pressure on GovCon teams to restructure proposals for machine parsing alongside compelling human narratives. (https://federalnewsnetwork.com/commentary/2026/04/federal-agencies-are-using-ai-to-evaluate-proposals-is-your-team-ready/)
+
+Agentic AI proposal platforms like Thalamus AI are enabling GovCon teams to move 5x faster on complex federal bids — managing everything from PDF solicitations and Excel RFQs to portal submissions — with some teams doubling their win rates without adding headcount. (https://blogs.thalamushq.ai/ai-proposal-writing-software-for-federal-rfps-top-3-bid-writing-tools-for-government-contractors-in-2026/)
