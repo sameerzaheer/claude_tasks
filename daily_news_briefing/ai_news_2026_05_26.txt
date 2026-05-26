@@ -1,0 +1,28 @@
+Daily AI News Briefing — May 26, 2026
+
+🤖 AI & LLMs
+
+xAI launched Grok Build on May 25 as an early-beta agentic coding CLI for SuperGrok and X Premium Plus subscribers, entering direct competition with Claude Code and OpenAI Codex by running 8 parallel sub-agents with MCP compatibility in the terminal. (https://www.engadget.com/2173482/xai-coding-agent-grok-build/)
+
+Cursor launched Composer 2.5, a proprietary agentic coding model fine-tuned on Kimi K2.5 that nearly matches Claude Opus 4.7 on SWE-Bench Multilingual at one-thirtieth the API cost ($0.50 vs. $15 per million input tokens). (https://cursor.com/blog/composer-2-5)
+
+
+🚀 Startups
+
+Brett Adcock's secretive AI hardware startup Hark raised a $700M Series A at a $6B valuation to build a family of personal AI devices with persistent memory, backed by Nvidia, AMD, Qualcomm, Intel Capital, and Salesforce Ventures. (https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/)
+
+Founded by ex-Salesforce chief scientist Richard Socher and Google DeepMind's Tim Rocktäschel, Recursive Superintelligence emerged from stealth with $650M at a $4.65B valuation backed by GV, Nvidia, and AMD to build AI systems that autonomously improve themselves. (https://tech.eu/2026/05/13/recursive-superintelligence-emerges-from-stealth-with-650m-raise/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Autodesk's May 2026 construction release ships 55+ updates including AI-powered Quick Issue Create for mobile jobsite use, AI budget code mapping that converts winning bids into contracts in one click, and general availability of its natural-language Autodesk Assistant for querying specs, RFIs, and schedules. (https://www.autodesk.com/blogs/construction/may-autodesk-forma-construction-releases-built-for-whats-next/)
+
+Bentley Systems opened a new Québec City AI R&D hub on May 20, investing ~CAD $10M and growing its local team by 60% to focus on applied AI for infrastructure digital twins, geospatial tools, and civil engineering software. (https://dailycadcam.com/bentley-launches-ai-technology-hub-in-quebec-canada/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+At its Inspire 2026 conference, Coupa unveiled Coupa Compose (an environment to build and orchestrate AI procurement agent workforces), launched its Catalyst agentic deployment service, and simultaneously acquired intelligent document processing leader Rossum to automate end-to-end accounts payable and spend management. (https://www.prnewswire.com/news-releases/coupa-launches-coupa-compose-and-catalyst-to-accelerate-agentic-ai-value-and-delivery-at-inspire-2026-302769893.html)
+
+Obviant, which originally won a $99M DIU prototype award, secured a follow-on expansion contract with the Under Secretary of Defense for Acquisition and Sustainment to scale its AI data engine — consolidating requirements, contracting, budget, and Congressional records — across the armed services and Combatant Commands. (https://www.businesswire.com/news/home/20260219137743/en/Obviant-Awarded-Contract-Expansion-with-the-Under-Secretary-of-War-for-Acquisition-and-Sustainment-to-Accelerate-Acquisition-Transformation-and-Digitization)
