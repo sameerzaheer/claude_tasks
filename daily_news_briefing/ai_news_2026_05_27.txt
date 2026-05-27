@@ -1,0 +1,28 @@
+Daily AI News Briefing — May 27, 2026
+
+🤖 AI & LLMs
+
+Anthropic's Claude Mythos Preview (Project Glasswing) discovered 10,000+ high-severity zero-day vulnerabilities in every major OS and browser, marking a breakthrough in AI-driven defensive cybersecurity as part of a $100M initiative with 11 tech partners. (https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html)
+
+Cloudflare published details on Infire, its custom Rust-built LLM inference engine that achieves up to 20% higher token throughput than vLLM with multi-GPU support, reducing AI serving costs across its global network. (https://www.infoq.com/news/2026/05/cloudflare-llm-infrastructure/)
+
+
+🚀 Startups
+
+Mistral AI acquired Vienna-based Emmi AI — a 30+-person physics-simulation startup — to build the leading industrial engineering AI stack, marking Mistral's second M&A deal in three months. (https://theaiinsider.tech/2026/05/25/mistral-ai-acquires-physics-simulation-startup-emmi-ai-to-deepen-industrial-ai-push/)
+
+Y Combinator-backed Trayd raised $10M Series A led by White Star Capital to build an AI-powered back-office OS for the construction industry, covering payroll, workforce management, and compliance. (https://news.crunchbase.com/venture/construction-tech-automation-trayd-ai-seriesa/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Newforma unveiled Vojo, an AI agent for AEC project management at Newforma World 2026 (May 7), enabling natural-language queries across BIM models, AI-assisted submittal reviews, and Smart Email Filing that auto-categorizes legally critical project correspondence. (https://www.prnewswire.com/news-releases/newforma-announces-ai-powered-innovations-and-open-ecosystem-strategy-at-newforma-world-2026-302765799.html)
+
+Xpanner raised an $18M Series B to deliver "automation-as-a-service" for construction sites via physical AI and robotics, targeting labor shortages by deploying autonomous machines for repetitive jobsite tasks. (https://news.crunchbase.com/real-estate-property-tech/xpanner-automation-as-a-service-for-construction-sites-startup-funding-physical-ai-robotics/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Procurement Sciences acquired HigherGov (May 20), combining its agentic AI proposal platform with HigherGov's federal/state/local/grant market data to create the largest AI-powered GovCon growth platform — 3,000+ businesses behind $100B+ in AI-assisted contract wins. (https://www.prnewswire.com/news-releases/procurement-sciences-acquires-highergov-creating-the-largest-ai-powered-growth-platform-in-government-contracting-302776364.html)
+
+Traza launched out of stealth with a Base10 Partners pre-seed round, deploying AI workers that embed directly into enterprise procurement workflows to automate vendor management, quoting, order tracking, and supplier communications. (https://traza.ai/blog/pre-seed-announcement)
