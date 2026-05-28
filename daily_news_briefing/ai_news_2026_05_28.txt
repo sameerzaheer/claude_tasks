@@ -1,0 +1,28 @@
+Daily AI News Briefing — May 28, 2026
+
+🤖 AI & LLMs
+
+SubQ launched in May 2026 with $29M in seed funding as the first commercial subquadratic (non-transformer) LLM featuring a 12M context window, potentially signaling a shift away from transformer-dominated AI architecture. (https://whatllm.org/blog/new-ai-models-may-2026)
+
+Anthropic is projecting its first quarterly operating profit in Q2 2026 with at least $10.9B in revenue — aided by a $1.25B/month SpaceX compute deal — marking the company's rapid transition from research spending to commercial scale. (https://press.airstreet.com/p/state-of-ai-may-2026)
+
+
+🚀 Startups
+
+Cognition (maker of Devin AI coder) raised $1B at a $26B valuation led by Lux Capital and General Catalyst, reporting $492M ARR and 50% monthly enterprise growth from customers including NASA, Goldman Sachs, and Mercedes-Benz. (https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/)
+
+OpenRouter raised $113M in Series B led by Google's CapitalG, more than doubling its valuation to $1.3B in a year as the leading AI model routing and enterprise inference gateway infrastructure. (https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Italian startup Pillar raised €12M led by Earlybird VC and Base10 Partners to build an AI-powered operating system for construction contractors, automating quoting, margin tracking, workforce management, and project reporting. (https://tech.eu/2026/05/12/pillar-secures-eur12m-to-build-an-ai-powered-operating-system-for-construction/)
+
+Six AI construction tech startups — Fyld, Sensera, XBuild, Moab, Payra, and Brickanta — secured major funding in early 2026, targeting autonomous site inspection, project scheduling, materials procurement, and jobsite safety monitoring. (https://www.indexbox.io/blog/six-ai-construction-tech-startups-secure-major-funding-in-early-2026/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+GovDash raised a $30M Series B in early 2026 and reports its AI proposal platform helped customers win over $5B in government contracts in 2025, as generative AI adoption among proposal teams doubled from 34% to 68% per Loopio's 2026 RFP Trends Report. (https://autogenai.com/blog/best-proposal-software-2026/)
+
+AutogenAI's 2026 analysis of the RFP software market highlights a new generation of AI tools that automate compliance matrix creation, section drafting, and bid/no-bid decisions — with winning proposal teams reporting 3–5x faster response cycles. (https://autogenai.com/blog/10-best-rfp-software-to-save-time-win-more-deals-in-2026/)
