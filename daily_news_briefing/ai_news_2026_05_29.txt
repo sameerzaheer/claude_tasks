@@ -1,0 +1,28 @@
+Daily AI News Briefing — May 29, 2026
+
+🤖 AI & LLMs
+
+Anthropic raised a $65B Series H at a $965B post-money valuation — crossing $47B in annual revenue run rate, topping OpenAI as the world's most valuable AI startup, and signaling a near-term IPO. (https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/)
+
+Google launched Gemini Spark at I/O 2026, a 24/7 personal AI agent running on dedicated Google Cloud VMs even when your device is off, with Gmail and Chrome integration and a summer roadmap for autonomous payments, custom sub-agents, and direct text/email communication. (https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/)
+
+
+🚀 Startups
+
+All3 (Zug, Switzerland) raised a $25M seed led by RTP Global, combining AI design software, Mantis autonomous legged robots for on-site assembly, and robotic off-site factories into an end-to-end construction platform targeting 50% timeline and 30% cost reductions. (https://tech.eu/2026/04/29/all3-raises-25m-to-boost-construction-productivity-with-robotics-and-ai/)
+
+Chapter raised a $100M Series E at a $3B valuation led by Generation Investment Management to expand its AI Medicare navigation platform, which tripled revenue to $100M ARR in 2025 by using AI agents to help seniors select optimal healthcare coverage. (https://venturebeat.com/business/chapter-raises-100-million-series-e-to-continue-building-the-trust-layer-between-seniors-and-technology-in-the-age-of-ai)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Skyfire AI (Alabama) raised an $11M seed to build autonomous drone orchestration software for AEC, managing end-to-end drone workflows from flight planning to data processing for construction progress tracking, earthwork monitoring, and real-time BIM data capture. (https://news.fundsforngos.org/2026/05/21/construction-tech-funding-rounds-may-2026-ai-and-automation-startups-attract-fresh-capital/)
+
+Tokyo-based ONESTRUCTION raised ¥9.1B (~$58M) to expand its AI platform combining BIM data quality tooling with AI-powered project management, targeting AEC firms globally to reduce costly rework and eliminate information siloes across construction workflows. (https://bricks-bytes.com/funding-ma/latest-construction-technology-funding-rounds-11th-may-2026-contech-funding/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Wyre AI emerged from stealth with Wyre Scopes (AI-generated bid scopes from drawings and specifications) and Wyre Check (cross-document conflict and compliance risk detection), built by Pype co-founder Sunil Dorairajan to help general contractors bid with confidence and protect margins. (https://natlawreview.com/press-releases/wyre-ai-emerges-stealth-ai-powered-preconstruction-platform-accelerates)
+
+The Pentagon's May 2026 AI contract awards — granting AWS, Google, Microsoft, NVIDIA, OpenAI, Oracle, Reflection, and SpaceX access to IL6/IL7 classified networks — mark a new era in defense acquisition, demonstrating that AI-accelerated procurement can now deliver classified-environment capabilities at unprecedented speed. (https://rohirrim.ai/blog/pentagon-ai-contracts/)
