@@ -1,0 +1,28 @@
+Daily AI News Briefing — May 30, 2026
+
+🤖 AI & LLMs
+
+Cerebras Systems debuted on public markets with shares jumping ~68–89% after raising $5.5B in 2026's largest IPO, reaching an ~$86B fully diluted valuation and signaling strong investor appetite for Nvidia-alternative AI inference chips. (https://www.bloomberg.com/news/articles/2026-05-14/cerebras-shares-indicated-to-surge-89-after-year-s-top-ipo)
+
+OpenAI set GPT-5.5 Instant as the default model for all ChatGPT users, while Alibaba simultaneously unveiled Qwen 3.7 Max in a week of major competing model updates across the industry. (https://whatllm.org/blog/new-ai-models-may-2026)
+
+
+🚀 Startups
+
+Chinese AI startup Moonshot AI announced a ~$2B funding round valuing the company at approximately $20B, reflecting continued international competition in the frontier AI model market. (https://fundup.ai/recently-funded-startups)
+
+SAP announced it is acquiring German AI research startup Prior Labs and committing €1B (~$1.16B) over four years to accelerate its enterprise AI roadmap, pending regulatory approval. (https://blog.mean.ceo/top-funded-startups-news-may-2026/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Neuron Factory secured a strategic investment round from leading technology and AEC investors to build the world's first construction-focused knowledge graph and AI-native project delivery platform. (https://www.prnewswire.com/news-releases/neuron-factory-announces-strategic-investment-round-from-leading-technology-and-aec-investors-302730095.html)
+
+BuiltWorlds released its "40 AI-Driven AEC Solutions to Watch in 2026" roundup, highlighting a wave of AI tools transforming design collaboration, BIM automation, jobsite safety, and construction project delivery. (https://builtworlds.com/news/40-ai-driven-aec-solutions-to-know-in-2026/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Ramp launched a fleet of AI agents to automate corporate procurement workflows — handling purchase requests, approvals, and supplier communications — extending its spend management platform into autonomous B2B procurement. (https://www.pymnts.com/news/b2b-payments/2026/ramp-launches-ai-agents-to-automate-corporate-procurement/)
+
+Federal News Network reports that federal agencies are now deploying AI to evaluate contractor proposals, forcing GovCon teams to adapt by structuring submissions for machine readability while still writing for human evaluators. (https://federalnewsnetwork.com/commentary/2026/04/federal-agencies-are-using-ai-to-evaluate-proposals-is-your-team-ready/)
