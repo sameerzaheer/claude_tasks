@@ -1,0 +1,28 @@
+Daily AI News Briefing — May 31, 2026
+
+🤖 AI & LLMs
+
+DeepSeek released DeepSeek-V4-Pro and DeepSeek-V4-Flash, two Mixture-of-Experts models featuring 1-million token context windows and a hybrid attention mechanism that drastically reduces inference costs compared to prior generations. (https://whatllm.org/blog/new-ai-models-may-2026)
+
+Figma Make now edits production codebases directly — designers can visually tweak a UI and the tool modifies the actual source code (not just mockups), marking a significant step toward AI-driven design-to-code workflows. (https://iteache.com/resources/new-ai-tools-launched-may-2026)
+
+
+🚀 Startups
+
+Exa raised a $250M Series C led by Andreessen Horowitz (May 22, 2026) to scale its AI-native semantic web retrieval infrastructure, which powers agentic search for leading AI platforms. (https://aifundingtracker.com/ai-startup-funding-news-today/)
+
+Modal raised a $355M Series C led by General Catalyst (May 21, 2026) to expand its cloud compute platform that lets AI teams deploy and scale model training and inference workloads in minutes. (https://aifundingtracker.com/ai-startup-funding-news-today/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Industry analysts predict 2026 will be the year "local AI" emerges in AEC, with firms deploying private AI models trained on project data to protect confidential client information while retaining full AI capabilities. (https://www.pbctoday.co.uk/news/digital-construction-news/construction-technology-news/2026-will-be-the-year-local-ai-emerges-in-aec/159253)
+
+Autodesk's "2026 AI Construction Trends: 25+ Experts Share Insights" report finds 91% of AEC firms plan to increase AI investment, with AI agents for autonomous design and end-to-end project delivery emerging as the dominant theme. (https://www.autodesk.com/blogs/construction/2026-ai-trends-25-experts-share-insights/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Sparrowgenie's 2026 analysis of top AI-powered RFP tools highlights platforms that now combine automated section drafting, bid/no-bid scoring, and competitor intelligence — transforming proposal teams from writers into strategic reviewers. (https://www.sparrowgenie.com/blog/ai-rfp-tool)
+
+Thalamus HQ profiled the top AI proposal writing tools for federal RFPs in 2026, noting that AI now handles compliance matrix generation, past performance extraction, and full section drafting for government contractors. (https://blogs.thalamushq.ai/ai-proposal-writing-software-for-federal-rfps-top-3-bid-writing-tools-for-government-contractors-in-2026/)
