@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 1, 2026
+
+🤖 AI & LLMs
+
+Cloudflare introduced "Unweight," a system that compresses LLM weights by ~15–22% without accuracy loss, reducing GPU memory load during inference and cutting AI serving costs for developers. (https://www.infoq.com/news/2026/05/cloudflare-llm-infrastructure/)
+
+GitHub Copilot is transitioning to usage-based metered billing with a new "GitHub AI Credits" virtual currency starting June 1, 2026, as escalating inference costs made the previous unlimited subscription model unsustainable for Microsoft. (https://llm-stats.com/llm-updates)
+
+
+🚀 Startups
+
+Farther, an AI-powered intelligent wealth management platform, raised $150M in Series D funding to expand its AI-driven financial advisory services. (https://aifundingtracker.com/ai-startup-funding-news-today/)
+
+Reactor, a developer platform for real-time generative video, emerged from stealth with $59M in funding to power next-generation interactive and AI-generated video applications. (https://fundup.ai/recently-funded-startups)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Autodesk is folding its Construction Cloud into Autodesk Forma — positioning it as the first end-to-end AI-native AECO platform — and will release geometry-based AI assistants for design and construction workflows. (https://www.enr.com/articles/61362-autodesk-folds-construction-cloud-into-forma-will-release-geometry-based-ai-assistants)
+
+Allplan's 2026 AI trends analysis highlights a fundamental industry shift toward predictive design, data-centric engineering, and autonomous construction, with AI agents expected to manage end-to-end project delivery this year. (https://www.allplan.com/blog/from-ai-design-to-autonomous-construction-how-predictive-data-centric-workflows-and-ai-agents-are-reshaping-aec/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Loopio's 2026 RFP Trends Report reveals that generative AI adoption among proposal teams has doubled in one year — from 34% to 68% — with users reporting dramatic reductions in time spent on RFPs and questionnaires. (https://deeprfp.com/blog/best-rfp-tools-comparison/)
+
+AutogenAI Federal, now operating in a FedRAMP High authorized environment, reports users achieving a 70% reduction in proposal drafting time, 85% overall efficiency gains, and a 241% increase in contract win rates. (https://autogenai.com/blog/10-best-rfp-software-to-save-time-win-more-deals-in-2026/)
