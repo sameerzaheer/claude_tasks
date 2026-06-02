@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 2, 2026
+
+🤖 AI & LLMs
+
+Microsoft Build 2026 opens today in San Francisco, featuring live demos of Windows PCs running 7-billion-parameter LLMs entirely on-device at sub-200ms response times for coding, summarization, and real-time translation without internet. (https://windowsnews.ai/article/build-2026-in-san-francisco-windows-becomes-an-ai-platform-not-just-an-os.421296)
+
+Google launched Gemini 3.5 Flash as the new default model in AI Mode, rolling out globally, and announced agentic information agents coming this summer for AI Pro & Ultra subscribers. (https://blog.google/products-and-platforms/products/search/search-io-2026/)
+
+
+🚀 Startups
+
+DriveNets raised a $410M Series D to build AI networking infrastructure, leading a wave of mega-rounds focused on the hard infrastructure layer underlying the global AI buildout. (https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/)
+
+OpenAI completed its 7th known acquisition of 2026, acqui-hiring AI personal finance startup Hiro Finance as the company continues its aggressive expansion across sectors. (https://news.crunchbase.com/venture/biggest-funding-rounds-medical-devices-futuristic-ai-gadgets-frontier-labs-mirus/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+OpenAI relaunched its robotics division to build AI-powered construction robots for data centers and infrastructure, marking its most explicit commitment to proprietary hardware since shutting down its robotics team in 2021. (https://www.technobezz.com/news/openai-announces-robotics-division-hiring-engineers-to-build-construction-robots)
+
+Xpanner raised an $18M Series B for its "Automation as a Service" platform that retrofits construction equipment with physical AI and robotics, reporting $8M in revenue in Q1 2026. (https://news.crunchbase.com/real-estate-property-tech/xpanner-automation-as-a-service-for-construction-sites-startup-funding-physical-ai-robotics/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Trade and industry groups are raising alarms over GSA's draft AI procurement clause (GSAR 552.239-7001) that would give the government sweeping ownership of contractor AI outputs and training data, potentially undermining contractors' IP rights. (https://www.nextgov.com/acquisition/2026/04/trade-and-industry-groups-warn-risks-gsas-draft-ai-procurement-guidance/412614/)
+
+A new GAO report found that federal agencies — including DoD, DHS, VA, and GSA — are not systematically collecting lessons learned from AI acquisitions, exposing significant gaps in government AI procurement maturity. (https://www.gao.gov/products/gao-26-107859)
