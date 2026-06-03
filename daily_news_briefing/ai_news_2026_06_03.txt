@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 3, 2026
+
+🤖 AI & LLMs
+
+The White House issued an executive order on June 2 promoting advanced AI innovation and security, directing agencies to modernize government and private sector information systems through public-private collaboration. (https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/)
+
+OpenAI's GPT-5.5 and GPT-5.4 are now available on AWS Bedrock alongside Codex, expanding multi-cloud enterprise access to OpenAI's latest models and signaling a shift toward platform-agnostic AI deployment. (https://windowsforum.com/threads/openai-gpt-5-5-gpt-5-4-and-codex-on-aws-bedrock-multi-cloud-ai-control.421527/)
+
+
+🚀 Startups
+
+OpenRouter, an AI model gateway startup providing unified API access to 100+ LLMs, raised $113M in a Series B+ round this week amid surging enterprise demand for multi-model orchestration. (https://qubit.capital/blog/us-series-b-plus-weekly-funding-roundup-week-1-june-2026)
+
+Mach Industries secured $300M in Series C funding at a $1.8B valuation, led by Infinite Capital and Ribbit Capital with support from Sequoia and Khosla, to scale its AI-powered defense manufacturing platform. (https://fundup.ai/recently-funded-startups)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Unanet's 2026 AEC Inspire Report found that 75% of AEC firms now use AI—up ~20 points year-over-year—but only 29% report high confidence in the underlying data powering those tools, revealing a widening data readiness gap. (https://www.constructionowners.com/press-release/unanet-releases-2026-aec-inspire-report-revealing-ai-adoption-surge-while-data-confidence-lags)
+
+BuiltWorlds published its "40 AI-Driven AEC Solutions to Watch in 2026" list, spotlighting emerging tools transforming design, project management, safety monitoring, and sustainability across the built environment. (https://builtworlds.com/news/40-ai-driven-aec-solutions-to-know-in-2026/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Federal News Network reports that federal agencies are increasingly deploying AI to evaluate contractor proposals, warning that bids not structured for AI-assisted review risk being filtered out before a human evaluator ever engages. (https://federalnewsnetwork.com/commentary/2026/04/federal-agencies-are-using-ai-to-evaluate-proposals-is-your-team-ready/)
+
+The AI proposal generation market has matured into three distinct tiers—retrieval-first, generation-first, and full-lifecycle tools—as Civio RFX ranks the 10 best AI proposal generation tools currently reshaping how businesses respond to RFPs. (https://www.civio.ai/insights/10-best-ai-proposal-generation-tools-for-rfps)
