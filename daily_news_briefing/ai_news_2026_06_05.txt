@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 5, 2026
+
+🤖 AI & LLMs
+
+Google unified its AI Overviews and AI Mode into a single seamless search experience powered by the new Gemini 3.5 Flash model, marking a fundamental shift in how billions of users interact with Google Search. (https://llm-stats.com/ai-news)
+
+DeepSeek released DeepSeek-V4-Pro and DeepSeek-V4-Flash, two Mixture-of-Experts models featuring 1-million token context windows with a hybrid attention mechanism designed to significantly cut inference costs. (https://llm-stats.com/ai-news)
+
+
+🚀 Startups
+
+Impulse Space raised $500M in Series D funding at a $4.26B valuation on June 2, arguing that in-space mobility after launch is the next foundational infrastructure layer for the space economy. (https://fundup.ai/recently-funded-startups)
+
+AlphaSense raised $350M in a growth round at a $7.5B valuation, reinforcing strong investor confidence in AI-powered market intelligence platforms for enterprise research workflows. (https://blog.mean.ceo/top-funded-startups-news-june-2026/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Autodesk folded its Construction Cloud into Forma and announced the upcoming release of geometry-based AI assistants that can analyze design patterns and flag constructability conflicts across the full project lifecycle. (https://www.enr.com/articles/61362-autodesk-folds-construction-cloud-into-forma-will-release-geometry-based-ai-assistants)
+
+A PBC Today report highlights 2026 as the breakout year for local AI in AEC, as firms increasingly shift from cloud-dependent tools toward on-premise models that keep sensitive project data in-house. (https://www.pbctoday.co.uk/news/digital-construction-news/construction-technology-news/2026-will-be-the-year-local-ai-emerges-in-aec/159253)
+
+
+📋 AI in Procurement & Proposal Writing
+
+OpenAI issued an RFP seeking US-based partners to build and scale AI manufacturing infrastructure across data centers, consumer electronics, and robotics, with proposals due in June 2026. (https://www.arcweb.com/blog/openai-issues-rfp-build-scale-us-ai-manufacturing-infrastructure)
+
+Loopio's 2026 RFP Trends Report found generative AI adoption among proposal teams doubled in a single year—from 34% to 68%—signaling a rapid, industry-wide shift toward AI-assisted bid response. (https://autogenai.com/blog/10-best-rfp-software-to-save-time-win-more-deals-in-2026/)
