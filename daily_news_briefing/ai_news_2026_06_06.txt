@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 6, 2026
+
+🤖 AI & LLMs
+
+Anthropic's Claude Opus 4.8, released May 28, sets a new agentic benchmark at 88.6% on SWE-bench Verified and introduces parallel-subagent workflows with a 2.5x fast mode for complex coding tasks. (https://llm-stats.com/ai-news)
+
+Alibaba released Qwen3 Coder Next on June 5, continuing its rapid cadence of model releases and putting further competitive pressure on US coding-focused LLMs. (https://blog.mean.ceo/new-ai-model-releases-news-june-2026/)
+
+
+🚀 Startups
+
+Ramp closed a $750M financing round led by Iconiq and GIC at a $44B valuation, making it one of the most valuable private fintech companies in the US. (https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/)
+
+Supabase raised $500M at a $10.5B valuation led by GIC, reflecting surging demand for open-source developer infrastructure as AI application builders scale their platforms. (https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+KP Reddy Co. launched KPR Transform on June 2, a dedicated AI transformation practice purpose-built for AEC firms covering strategy, embedded execution, and workforce education from assessment through full AI-native operation. (https://aimagazine.com/globenewswire/3305236)
+
+Allplan's 2026 AEC trend report highlights how AI agents capable of learning, anticipating, and executing tasks at expert level are accelerating the industry's shift from document-driven processes to continuous, data-driven workflows. (https://www.allplan.com/blog/from-ai-design-to-autonomous-construction-how-predictive-data-centric-workflows-and-ai-agents-are-reshaping-aec/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+GovDash's AI engine, trained on federal procurement data and FAR requirements, now parses full solicitation packages, builds compliance matrices, and drafts technical narratives—cutting proposal cycle times by 50-60%. (https://www.mccarren.ai/blogs/ai-in-govcon/ai-proposal-software-government-contractors-2026/)
+
+The global proposal management software market reached $3.66B in 2026 and is projected to nearly triple to $9.19B by 2034 at a 12.2% CAGR, driven by AI automation of RFP response workflows. (https://autogenai.com/blog/10-best-rfp-software-to-save-time-win-more-deals-in-2026/)
