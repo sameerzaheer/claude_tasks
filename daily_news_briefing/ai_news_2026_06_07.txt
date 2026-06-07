@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 7, 2026
+
+🤖 AI & LLMs
+
+OpenAI is preparing to file confidentially for an IPO with Goldman Sachs and Morgan Stanley, targeting a September 2026 listing at a ~$730B valuation that would rank among the largest tech offerings in history. (https://llm-stats.com/ai-news)
+
+Meta signed a multiyear deal to purchase up to $100B in AMD MI540 GPUs and CPUs, making a major push to diversify its AI chip supply beyond Nvidia as it builds toward "personal superintelligence." (https://llm-stats.com/ai-news)
+
+
+🚀 Startups
+
+NewLimit, the longevity biotech co-founded by Coinbase CEO Brian Armstrong, closed a $435M Series C to advance epigenetic reprogramming therapies targeting age-related disease. (https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/)
+
+DriveNets raised a $410M Series D to scale AI networking infrastructure that connects GPU clusters, capitalizing on surging demand for high-bandwidth connectivity inside AI data centers. (https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Unanet's 2026 AEC Inspire Report reveals AI adoption has surged to 75% of AEC firms — up ~20 percentage points year-over-year — yet only 29% have high confidence in the quality of the data powering those AI tools. (https://unanet.com/news/unanet-releases-2026-aec-inspire-report-revealing-ai-adoption-surge-while-data-confidence-lags)
+
+BuiltWorlds published its "40 AI-Driven AEC Solutions to Watch in 2026" list, spotlighting emerging startups and platforms that are reshaping design, construction, and project operations across the industry. (https://builtworlds.com/news/40-ai-driven-aec-solutions-to-know-in-2026/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Federal agencies are now deploying AI to evaluate contractor proposals, and firms that don't structure their bids for machine-assisted review risk elimination before a human evaluator ever reads their submission. (https://federalnewsnetwork.com/commentary/2026/04/federal-agencies-are-using-ai-to-evaluate-proposals-is-your-team-ready/)
+
+AI-powered RFP platforms have matured into three distinct tiers — retrieval-first, generation-first, and full-lifecycle — with leading players like AutogenAI and DeepRFP competing to dominate proposal management for enterprises and government contractors. (https://autogenai.com/blog/best-proposal-software-2026/)
