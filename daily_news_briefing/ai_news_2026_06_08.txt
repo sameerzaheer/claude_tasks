@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 8, 2026
+
+🤖 AI & LLMs
+
+Apple unveiled a rebuilt Siri at WWDC on June 8 powered by a custom 1.2-trillion-parameter Google Gemini model, with iOS 27 also letting users swap in ChatGPT or Anthropic's Claude as their AI extension of choice. (https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026)
+
+The Pentagon confirmed it is evaluating OpenAI and Google models as potential replacements for Anthropic's Claude in classified government AI systems, reflecting growing multi-vendor competition for federal AI contracts. (https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026)
+
+
+🚀 Startups
+
+SpaceX kicked off its IPO roadshow on June 8, targeting a $1.75 trillion market debut that would rank as the largest company listing in US history. (https://wavespeed.ai/blog/posts/june-2026-ai-launch-wave/)
+
+Flourish, a brain-inspired AI startup backed by Jeff Bezos, Lux Capital, and Google Ventures, raised $500M in initial funding to build neural models inspired by the human brain. (https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+NVIDIA CEO Jensen Huang declared at 3DEXPERIENCE World that "everything will be represented in a virtual twin," signaling a new wave of AI-driven digital-twin adoption that is reshaping engineering and construction workflows. (https://blogs.nvidia.com/blog/huang-3dexperience-2026/)
+
+Oracle published a new analysis arguing data orchestration — not AI tooling alone — is the missing productivity layer for construction job sites in 2026, urging firms to unify fragmented project data before layering AI on top. (https://www.forconstructionpros.com/business/business-services/article/22957961/oracle-construction-in-2026-why-data-ai-and-orchestration-will-redefine-the-job-site)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Procurement Sciences acquired HigherGov, combining AI-powered proposal writing with federal contract intelligence to create what the companies describe as the largest AI-driven government contracting growth platform in the sector. (https://pulse2.com/procurement-sciences-ai-government-contracting-platform-acquires-highergov/)
+
+The U.S. GAO released report GAO-26-107859 urging federal agencies to better collect and apply lessons learned from AI acquisitions to systematically improve future procurements. (https://www.gao.gov/products/gao-26-107859)
