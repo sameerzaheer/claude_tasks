@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 9, 2026
+
+🤖 AI & LLMs
+
+Anthropic revealed it hit a $30 billion revenue run rate after 80x growth, with Claude Code becoming one of the fastest-growing software products ever built at $2.5B ARR nine months post-launch. (https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth)
+
+AI researcher and educator Andrej Karpathy joined Anthropic to work on frontier LLM research, a significant talent win for the company as it competes with OpenAI and Google. (https://www.thevccorner.com/p/breaking-andrej-karpathy-joins-anthropic)
+
+
+🚀 Startups
+
+Ramp raised $750M at a $44B valuation — up from $32B just seven months ago — to launch AI spend-management software for its 7,000+ enterprise customers. (https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/)
+
+PhysicsX closed a $300M Series C at ~$2.4B valuation to scale its AI-driven simulation platform that dramatically accelerates hardware design and engineering workflows. (https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Buildroid AI is bringing Nvidia Omniverse–powered, BIM-driven robotic bricklaying to US job sites in 2026, using digital twins to pre-test robotic operations before any hardware arrives on site. (https://www.enr.com/articles/62176-robotics-start-up-buildroid-ai-to-bring-model-based-automated-bricklaying-to-us-jobsites)
+
+AI and robotics drove a $4.4B wave of investment into built-environment tech, with capital flowing into predictive analytics, digital twins, and autonomous construction equipment startups. (https://www.constructiondive.com/news/ai-robotics-built-environment-funding-nymbl/805304/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Intellectible, an Austin-based AI startup, raised a $3M seed round backed by Anorak Ventures and Capital Factory to expand its AI-powered proposal writing platform. (https://fundraiseinsider.com/blog/intellectible-raises-3m-seed-for-ai-proposal-writing/)
+
+New 2026 industry data shows 68% of proposal teams now use generative AI as an operational baseline — double the adoption rate from one year ago — with RFP response contributing 39% of total company revenue. (https://autogenai.com/blog/best-proposal-software-2026/)
