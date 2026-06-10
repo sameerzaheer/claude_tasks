@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 10, 2026
+
+🤖 AI & LLMs
+
+Claude Fable 5 launched in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service, marking Anthropic's deepest integration into enterprise developer tools to date. (https://llm-stats.com/ai-news)
+
+OpenAI made GPT-5.5 Instant the default model for ChatGPT, featuring its strongest agentic capabilities yet for enterprise knowledge work and coding workflows. (https://llm-stats.com/ai-news)
+
+
+🚀 Startups
+
+Cognition AI raised $1B at a $26B valuation for its Devin AI coding agent—which now writes 89% of Cognition's own code—reaching $492M annualized revenue backed by Lux Capital, General Catalyst, and 8VC. (https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/)
+
+Autodesk signed a definitive agreement to acquire Rhumbix, a construction technology startup specializing in field labor resource management, adding real-time workforce intelligence to the Forma platform. (https://adsknews.autodesk.com/en/news/autodesk-design-and-make-intelligence/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Autodesk's Forma Assistant exited beta and is now generally available, enabling construction teams to use natural language to query project data, surface risks, and take action within everyday workflows. (https://www.autodesk.com/blogs/construction/meet-autodesk-assistant-ai-native-intelligence-in-forma/)
+
+AEC Magazine's May/June 2026 issue examines how AI agents are accelerating the shift from document-driven to data-driven AEC workflows, spotlighting predictive design tools and agentic construction site monitoring. (https://aecmag.com/technology/aec-magazine-may-june-2026/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+A new AI Proposal & RFP Agent Playbook outlines how multi-agent architectures—spanning intake, research, drafting, and review agents—are replacing single-step AI tools to fully automate the proposal lifecycle. (https://www.digitalapplied.com/blog/ai-proposal-rfp-automation-agent-playbook-2026)
+
+GovDash raised a $30M Series B to scale its federal contracting AI platform, which helped customers win over $5B in government contracts in 2025 by auto-parsing solicitations and drafting compliance matrices. (https://www.dodcontract.com/blog/will-ai-replace-government-contractors-in-2026)
