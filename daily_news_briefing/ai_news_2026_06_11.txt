@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 11, 2026
+
+🤖 AI & LLMs
+
+Inception released Mercury 2, a diffusion-based reasoning LLM that generates tokens in parallel at over 1,000 tokens per second, targeting production agentic loops and real-time voice AI interactions. (https://wavespeed.ai/blog/posts/june-2026-ai-launch-wave/)
+
+Google's Gemini 3.5 Pro is set to launch this month following Sundar Pichai's stage teaser at Google I/O, where it was positioned to challenge Claude Fable 5 and GPT-5.5 Instant on frontier coding and reasoning benchmarks. (https://dentro.de/ai/news/)
+
+
+🚀 Startups
+
+Supabase closed a $500M funding round at a $10.5B valuation, cementing the open-source backend platform as a go-to infrastructure layer for AI developers building production applications. (https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/)
+
+Flourish raised $500M in initial funding to develop AI models inspired by the human brain, representing one of 2026's most ambitious bets on neuromorphic AI architectures. (https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Bluebeam launched Bluebeam Max on June 10, a premium AI-powered subscription for AEC teams that adds workflow automation, intelligent markups, and AI-assisted reviews to reduce manual work and financial liability on projects. (https://aecmag.com/collaboration/bluebeam-brings-ai-powered-workflows-to-revu/)
+
+Unanet's 2026 AEC Inspire Report found 75% of AEC firms now use AI — up ~20 points year-over-year — but only 29% report high confidence in the data quality powering those AI tools. (https://www.constructionowners.com/press-release/unanet-releases-2026-aec-inspire-report-revealing-ai-adoption-surge-while-data-confidence-lags)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Federal agencies are now using AI to evaluate contractor proposals, meaning submissions not structured for AI-assisted review risk being deprioritized before a human evaluator ever reads them, according to Federal News Network. (https://federalnewsnetwork.com/commentary/2026/04/federal-agencies-are-using-ai-to-evaluate-proposals-is-your-team-ready/)
+
+The latest Loopio data shows generative AI adoption among proposal and RFP teams has climbed to 79% in 2026 — up ~10 points year-over-year — with most teams using it weekly or more as RFP work now drives ~40% of company revenue. (https://loopio.com/blog/best-ai-software-rfp-responses/)
