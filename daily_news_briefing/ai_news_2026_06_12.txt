@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 12, 2026
+
+🤖 AI & LLMs
+
+Microsoft launched MAI-Code-1-Flash at Build 2026, its first in-house coding model trained entirely without OpenAI data, now rolling out to GitHub Copilot users with a 16-point SWE-Bench Pro lead over Claude Haiku 4.5 and 60% fewer tokens needed per task. (https://microsoft.ai/news/introducingmai-code-1-flash/)
+
+GitHub transitioned Copilot from an unlimited subscription to usage-based metered billing effective June 1, 2026, as escalating AI inference costs made the flat-rate model economically unsustainable at enterprise scale. (https://llm-stats.com/ai-news)
+
+
+🚀 Startups
+
+NewLimit raised $435M in Series C funding led by Founders Fund to advance its AI-driven epigenetic reprogramming therapies, after demonstrating age reversal in human liver cells, with a Phase 1 trial targeting fatty liver disease planned for 2027. (https://blog.newlimit.com/p/newlimit-raises-435m-led-by-founders)
+
+Suno raised $400M in Series D funding at a $5.4B valuation to scale its AI music generation tools, which let anyone create full songs from text prompts. (https://aifundingtracker.com/top-50-ai-startups/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Anguleris launched Gaudi on June 11, an architect-trained AI platform that consolidates fragmented building product data into a cited, verified conversational interface purpose-built for AEC professionals. (https://www.prnewswire.com/news-releases/anguleris-launches-gaudi-an-architect-trained-ai-platform-for-building-product-research-302798470.html)
+
+Nemetschek Group is showcasing AI-driven connected AEC workflows at the AIA26 conference (June 10–13), demonstrating how AI-enabled platforms improve cross-discipline coordination, reduce inefficiencies, and accelerate decisions across planning, design, and construction. (https://www.nemetschek.com/en/news-media/aia-2026)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Jenova.ai launched a free AI platform that analyzes RFPs, auto-generates compliance matrices, and drafts complete bids across any industry, lowering the entry barrier for teams new to AI-assisted proposal writing. (https://www.jenova.ai/en/resources/free-ai-for-proposal-generation)
+
+McCarren AI's 2026 review identifies GovDash, Doculens, and AutogenAI as the top platforms for government contractor proposal automation, reflecting a consolidating market where federal bid AI is now a competitive necessity rather than an experiment. (https://www.mccarren.ai/blogs/ai-in-govcon/ai-proposal-software-government-contractors-2026/)
