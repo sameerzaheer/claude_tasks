@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 13, 2026
+
+🤖 AI & LLMs
+
+Google launched Gemini 3.1 Ultra with a 2-million token context window that works natively across text, image, audio, and video — its most significant model release of 2026, setting a new bar for multimodal frontier AI. (https://llm-stats.com/llm-updates)
+
+MiniMax M3 debuted June 1 as the first open-weight model to combine frontier coding, a 1M-token context window, and native video/image input in a single system, scoring 59.0% on SWE-bench Pro in China's latest open-source AI push. (https://felloai.com/minimax-m3/)
+
+
+🚀 Startups
+
+Ramp raised $750M at a $44B valuation in a Series F round led by Iconiq Capital, GIC, and Ontario Teachers' Pension Plan, as the AI-powered corporate spend management platform accelerates its push into enterprise financial automation. (https://techstartups.com/2026/06/04/fintech-startup-ramp-hits-44b-valuation-after-raising-750m-in-new-funding-round/)
+
+Tennr secured $101M in Series C funding to expand its AI agents that automate document-heavy healthcare workflows such as referrals and prior authorizations, targeting a major efficiency gap in medical administration. (https://blog.mean.ceo/top-funded-startups-news-june-2026/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+AEC INNOVATE '26 opens June 16–18 in Las Vegas, bringing AEC firm executives and AI developers together to share applied case studies on using AI to improve project outcomes, reduce risk, and grow revenue. (https://events.psmj.com/)
+
+CompScience reports 38% of contractors now see measurable business impact from AI — up from 17% a year ago — with AI safety camera systems reducing site incidents by up to 50% through real-time PPE compliance and hazard detection. (https://www.compscience.com/blog/how-ai-is-transforming-construction-site-safety-in-2026/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+DeepRFP's 2026 roundup of 31 AI-powered RFP tools finds AI-native platforms rapidly displacing legacy plug-ins, with the best systems now enabling proposal teams to submit responses up to 90% faster via automated drafting agents. (https://deeprfp.com/blog/best-rfp-tools-comparison/)
+
+Inventive.ai's 2026 emerging trends report identifies multi-agent architectures and browser-extension portal automation as the two fastest-growing productivity wins for RFP teams, with its AI Conflict Manager reducing errors from contradictory source documents. (https://www.inventive.ai/blog-posts/emerging-rfp-ai-and-proposal-trends)
