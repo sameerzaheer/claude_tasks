@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 14, 2026
+
+🤖 AI & LLMs
+
+Moonshot AI open-sourced Kimi K2.7-Code, a 1-trillion-parameter coding model on Hugging Face under a Modified MIT license that cuts reasoning token usage by 30% while outperforming its predecessor on coding benchmarks. (https://cryptobriefing.com/kimi-k2-7-code-open-source-release/)
+
+Anthropic revealed Claude reached a $30 billion annualized revenue run rate driven by 80x growth in Q1 2026, making it one of the fastest-growing enterprise AI platforms on record. (https://dentro.de/ai/news/)
+
+
+🚀 Startups
+
+Hark, Brett Adcock's AI hardware startup building a "universal AI interface," raised $700M in Series A funding at a $6B valuation backed by NVIDIA, AMD Ventures, Qualcomm Ventures, and others. (https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/)
+
+Procurement Sciences secured $30M in Series B funding to scale its AI-native platform that helps companies discover, bid on, and win federal government contracts in a market valued at over $1 trillion annually. (https://www.unite.ai/procurement-sciences-secures-30-million-to-bring-ai-native-automation-to-government-contracting/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Rodic Consultants unveiled a Sovereign AI Ecosystem at Digital Construction Week London 2026, integrating six interconnected AI systems on a unified infrastructure intelligence stack covering everything from project planning to executive decision-making. (https://theprint.in/ani-press-releases/rodic-consultants-unveils-sovereign-ai-ecosystem-for-infrastructure-delivery-at-digital-construction-week-london-2026/2954041/)
+
+Buildots highlighted its AI-driven construction intelligence platform at Digital Construction Week 2026, demonstrating how real-time site data analytics enable proactive decision-making to keep projects on schedule. (https://www.tipranks.com/news/private-companies/buildots-highlights-ai-driven-construction-intelligence-at-digital-construction-week-2026)
+
+
+📋 AI in Procurement & Proposal Writing
+
+The GSA is deploying its Contract Acquisition Lifecycle Intelligence (CALI) AI system to automatically review contractor submissions for compliance before human evaluators, fundamentally reshaping how federal solicitations are evaluated. (https://www.gsa.gov/artificial-intelligence)
+
+AutogenAI published its 10 Best RFP Software in 2026 ranking, identifying AI-native platforms that help proposal teams automate content generation, compliance tracking, and bid workflows to win more deals faster. (https://autogenai.com/blog/10-best-rfp-software-to-save-time-win-more-deals-in-2026/)
