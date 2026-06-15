@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 15, 2026
+
+🤖 AI & LLMs
+
+Google launched Gemini 3.5 Flash at I/O 2026 on May 19, outperforming Gemini 3.1 Pro on coding and agentic benchmarks, marking Google's strategic shift toward autonomous AI agents over chatbots. (https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/)
+
+OpenAI's GPT-5.6 is expected in June 2026 as the successor to GPT-5.5 Instant, bringing advances in reasoning and agentic decision-making that reduce the need for human oversight in repetitive workflows. (https://www.geeky-gadgets.com/gpt-5-6-june-2026-release/)
+
+
+🚀 Startups
+
+Cognition AI raised $1B at a $26B valuation on May 28, with its AI software engineer Devin now writing 89% of the company's own code and the business hitting $492M ARR — up 13x in 12 months. (https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/)
+
+Stord raised $250M Series F at a $3B valuation on May 26 to deploy physical AI and robotics across its commerce fulfillment network, directly challenging Amazon as it powers $15B+ in annual GMV across 1,000+ brands. (https://www.pymnts.com/news/artificial-intelligence/2026/stord-raises-250-million-dollars-deploy-physical-ai-across-fulfillment-network/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Newforma announced its new AI agent Vojo and an open ecosystem strategy at Newforma World 2026 (May 4–6), enabling AEC/O teams to surface AI-powered insights, reduce manual effort, and modernize workflows without disrupting existing integrations. (https://www.prnewswire.com/news-releases/newforma-announces-ai-powered-innovations-and-open-ecosystem-strategy-at-newforma-world-2026-302765799.html)
+
+BuiltWorlds identified "40 AI-Driven AEC Solutions to Watch in 2026," highlighting firms that have moved from pilot projects to production-scale AI deployment across design, safety monitoring, scheduling, and project intelligence. (https://builtworlds.com/news/40-ai-driven-aec-solutions-to-know-in-2026/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+OpenAI published a formal RFP seeking U.S.-based hardware manufacturing vendors to help domestically source AI chips and components, signaling growing urgency around AI supply chain security. (https://cdn.openai.com/pdf/rfp-for-us-hardware-manufacturing.pdf)
+
+Arphie's 2026 buyer's guide comparing 30 AI-powered RFP platforms shows AI-native tools have become the new standard for proposal teams, enabling faster response times and more competitive bids across industries. (https://www.arphie.ai/blog/top-30-rfp-proposal-software-in-2026)
