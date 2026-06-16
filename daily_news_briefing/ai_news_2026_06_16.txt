@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 16, 2026
+
+🤖 AI & LLMs
+
+Anthropoc launched Claude Fable 5 on June 9, 2026, its most capable publicly available model yet, featuring state-of-the-art performance in software engineering, scientific research, vision, and autonomous task execution. (https://dataconomy.com/2026/06/10/anthropic-claude-fable-5-ipo-965-billion/)
+
+Microsoft unveiled new proprietary AI models on June 2, 2026 to reduce its reliance on OpenAI and lower inference costs for developers, marking a strategic shift toward a more diversified AI infrastructure stack. (https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html)
+
+
+🚀 Startups
+
+Ramp raised $750M at a $44B valuation on June 4, 2026, nearly tripling its value in a year as investors bet on its AI-powered spend management platform which now exceeds $1.5B in annualized revenue. (https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/)
+
+Anthropoc confidentially filed for an IPO on June 1, 2026 at a $965B valuation with $47B in annualized revenue, potentially setting the stage for one of the largest tech public offerings in history. (https://dataconomy.com/2026/06/10/anthropic-claude-fable-5-ipo-965-billion/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Anguleris launched Gaudi on June 11, 2026, an architect-trained AI platform that consolidates fragmented building product data into a cited, conversational interface purpose-built for the AEC industry. (https://www.prnewswire.com/news-releases/anguleris-launches-gaudi-an-architect-trained-ai-platform-for-building-product-research-302798470.html)
+
+Unanet's 2026 AEC Inspire Report found 75% of AEC firms now use AI — up 20 points year-over-year — yet only 29% report high confidence in the data quality underlying their AI-powered decisions. (https://unanet.com/news/unanet-releases-2026-aec-inspire-report-revealing-ai-adoption-surge-while-data-confidence-lags)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Unanet launched Champ AI, a natural-language copilot for GovCon and AEC firms, enabling proposal teams to query project data, generate proposal content, and track compliance through conversational AI. (https://unanet.com/news/unanet-introduces-champ-ai-the-natural-language-copilot-for-govcon-and-aec-firms)
+
+Generative AI adoption among RFP proposal teams has reached 79% in 2026, up 10 percentage points year-over-year, as submission volume rises 9% and bandwidth becomes the top challenge for half of all proposal professionals. (https://deeprfp.com/blog/best-rfp-tools-comparison/)
