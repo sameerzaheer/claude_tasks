@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 17, 2026
+
+🤖 AI & LLMs
+
+OpenAI confidentially filed a S-1 IPO registration with the SEC on June 8-9, 2026, targeting an ~$850B valuation for a planned September 2026 public debut in what could be one of tech's largest-ever listings. (https://aiweekly.co/alerts/openai-files-confidential-ipo-targeting-850b-valuation)
+
+Anthropic's Project Glasswing — powered by the unreleased Claude Mythos Preview model — has autonomously identified over 10,000 high-severity vulnerabilities across 1,000+ open-source projects, marking a landmark milestone in AI-driven proactive cybersecurity. (https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html)
+
+
+🚀 Startups
+
+Ent, a new cybersecurity startup, raised $100M in seed funding on June 16, 2026, backed by Sequoia Capital, Decibel, In-Q-Tel, and Crosspoint Capital, targeting AI-powered endpoint security for enterprise customers. (https://techstartups.com/2026/06/16/venture-capital-startup-funding-roundup-june-15-2026-2/)
+
+Runware raised a $50M Series A from Dawn Capital, Speedinvest, and a16z speedrun to build "one API for all AI" — a unified inference platform targeting deployment of 2M+ Hugging Face models by end of 2026. (https://runware.ai/blog/runware-raises-50m-series-a-to-power-all-intelligent-applications)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Bluebeam announced new AI-powered Bluebeam Max capabilities alongside the acquisition of mbue, an AI plan-review startup, on June 9, 2026, deepening intelligent scope-gap detection and markup automation for AEC teams globally. (https://www.nemetschek.com/en/news-media/bluebeam-accelerates-ai-strategy-new-bluebeam-max-capabilities-and-mbue-acquisition)
+
+A bipartisan House AI bill introduced in June 2026 proposes a federal framework for AI development and data-center infrastructure expansion, directly affecting how AEC and engineering firms plan their AI-driven project delivery and workforce pipelines. (https://www.enr.com/articles/63113-house-ai-bill-targets-workforce-data-center-infrastructure-as-contractors-expand-use)
+
+
+📋 AI in Procurement & Proposal Writing
+
+The GSA proposed new AI procurement rules requiring federal contractors to disclose AI use in contract performance and transfer AI-generated data rights to the government, drawing significant pushback from the contracting industry. (https://www.gibsondunn.com/gsa-ai-procurement-rules-would-introduce-new-disclosure-and-use-rights-requirements-for-federal-contractors/)
+
+President Trump signed an Executive Order on AI Innovation and Security on June 2, 2026, directing federal agencies to expand domestic AI infrastructure and harden systems against AI-enabled threats — creating new compliance requirements for government contractors in the proposal and bidding process. (https://www.bipc.com/new-executive-order-on-ai-innovation-and-security-what-it-means-for-ai-developers-government-contractors-and-critical-infrastructure-operators/)
