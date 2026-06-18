@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 18, 2026
+
+🤖 AI & LLMs
+
+Google released Gemini 3.1 Pro in June 2026, delivering improved reasoning for complex tasks with broad availability across AI Studio, Vertex AI, Gemini CLI, Android Studio, and consumer Gemini apps. (https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)
+
+OpenAI introduced Deployment Simulation on June 16, 2026, a pre-release testing method that replays real user conversations through a new candidate model to catch performance regressions before they reach production users. (https://llm-stats.com/ai-news)
+
+
+🚀 Startups
+
+Radical Numerics, an AI research lab building general biological intelligence, launched on June 15, 2026 with $50M in seed funding, aiming to apply AI breakthroughs from language to life sciences. (https://techstartups.com/2026/06/16/venture-capital-startup-funding-roundup-june-15-2026-2/)
+
+Respond.io raised $62.5M in Series B led by Camber Partners on June 16, 2026, disclosing $35M ARR and 169% year-over-year growth for its AI-powered business messaging and customer conversation platform. (https://techstartups.com/2026/06/16/venture-capital-startup-funding-roundup-june-15-2026-2/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+LeanCon, a Yale SOM alum's startup, secured $6M to build AI tools that condense months-long preconstruction planning for large projects into ~7 minutes by automatically generating schedules, manpower allocations, and cost scenarios. (https://som.yale.edu/story/2026/som-alum-raises-6-million-ai-construction-startup)
+
+Digital Construction Week 2026 in London (June 3–4) drew 9,000+ attendees and signaled an industry shift from AI hype to measurable ROI, with Nemetschek showcasing AI-driven innovations across Bluebeam, ALLPLAN, and Vectorworks. (https://www.pbctoday.co.uk/news/digital-construction-news/ai-from-promises-to-proof-points-at-digital-construction-week-2026/162751)
+
+
+📋 AI in Procurement & Proposal Writing
+
+OpenAI issued a formal RFP for U.S. hardware manufacturing with a June 2026 submission deadline, calling on domestic chip makers to bid for AI infrastructure contracts with vendor selection scheduled for March 2027. (https://cdn.openai.com/pdf/rfp-for-us-hardware-manufacturing.pdf)
+
+Federal agencies are deploying AI to evaluate and monitor contracts in 2026, with OMB and GSA piloting AI tools for acquisition planning, technical reviews, and compliance scoring, making AI a core part of the federal procurement lifecycle. (https://iquasar.com/blog/ai-procurement-in-2026-how-federal-agencies-will-use-automation-to-evaluate-and-monitor-contracts/)
