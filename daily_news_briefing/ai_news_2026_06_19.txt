@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 19, 2026
+
+🤖 AI & LLMs
+
+OpenAI upgraded ChatGPT's default model to GPT-5.5 Instant in June 2026, making the company's fastest real-time AI—with improved healthcare capabilities—the new baseline experience for hundreds of millions of daily users. (https://llm-stats.com/llm-updates)
+
+Google retired the entire Gemini 2.0 model family as of June 1, 2026, establishing Gemini 3.x as the universal baseline across all products and APIs, while debuting a personal AI agent called Gemini Spark at Google I/O 2026. (https://llm-stats.com/ai-news)
+
+
+🚀 Startups
+
+Structured AI raised a $4.2M seed round—backed by Y Combinator, FCVC, and Sequoia Scout—to build AI-powered quality assurance and quality control agents for construction sites that automatically detect defects and prevent costly rework. (https://www.enr.com/articles/63139-construction-quality-startup-structured-ai-raises-42m-seed-round)
+
+Rebar raised a $14M Series A to scale its AI operating system for commercial HVAC, electrical, and plumbing suppliers, using computer vision on blueprints to cut quote-generation time by 60–70% and boost customer win rates by 2–3x. (https://bricks-bytes.com/funding-ma/latest-construction-technology-funding-rounds-1st-jun-2026-contech-funding/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+2026 is set to be the year "local AI" emerges as the dominant paradigm in AEC, with discipline-specific models running within design environments rather than the cloud as firms prioritize data sovereignty and client confidentiality. (https://www.pbctoday.co.uk/news/digital-construction-news/construction-technology-news/2026-will-be-the-year-local-ai-emerges-in-aec/159253)
+
+Leading AEC contractors are deploying AI-powered scheduling intelligence in 2026 to identify budget and schedule risks in real time, shifting the industry's AI focus from design tools to proactive project delivery and risk prevention. (https://www.enr.com/articles/61541-what-does-constructions-ai-powered-future-look-like)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Deltek is rolling out Proposals AI within GovWin IQ in 2026, embedding AI-generated compliance matrices and draft proposal creation directly in the platform to help government contractors respond faster and more competitively to federal RFPs. (https://www.executivegov.com/articles/deltek-proposal-ai-govcon-rfp-responses)
+
+Agentic AI has become the new competitive standard in federal proposal management, with leading platforms now embedding AI agents for RFP shredding, compliance matrix generation, and past-performance retrieval to cut response time and improve bid win rates. (https://blogs.thalamushq.ai/ai-proposal-writing-software-for-federal-rfps-top-3-bid-writing-tools-for-government-contractors-in-2026/)
