@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 20, 2026
+
+🤖 AI & LLMs
+
+Anthropic's Claude hit a $30 billion revenue run rate after an extraordinary 80x growth in Q1 2026, driven by Claude Code surpassing $2.5B in run-rate revenue and over 1,000 enterprise customers spending $1M+ annually. (https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth)
+
+Google launched Gemini 3.5 Flash in June 2026, delivering flagship-level performance at 4x the speed of previous Gemini versions while outperforming Gemini 3.1 Pro on coding and agentic benchmarks. (https://llm-stats.com/ai-news)
+
+
+🚀 Startups
+
+Ramp raised $750M at a $44B post-money valuation co-led by ICONIQ Capital, GIC, and Ontario Teachers' Pension Plan to accelerate its AI-powered finance operating system. (https://www.paymentsdive.com/news/ramp-funding-rolls-out-accounting-product-ai-operating-system/821992/)
+
+Tennr raised $101M in Series C funding from Lightspeed Venture Partners, Andreessen Horowitz, and IVP to scale its intelligent automation platform for healthcare revenue cycle operations. (https://tracxn.com/d/companies/tennr/__y2MN67qndSj1FitOSIXfrt2mor9QGShC-47toj0Pi-o)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+AI adoption among construction contractors more than doubled in a single year, with 38% now reporting measurable business impact as the industry moves from pilots to operational use with key applications in cost estimation and bid management. (https://www.marketscale.com/industries/engineering-and-construction/constructions-ai-fight-moves-to-data-as-38-of-contractors-report-measurable-impact-ca4e19)
+
+BuiltWorlds identified 40 AI-driven AEC solutions to watch in 2026, reflecting a surge in purpose-built AI tools reshaping design, planning, and construction delivery workflows. (https://builtworlds.com/news/40-ai-driven-aec-solutions-to-know-in-2026/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+AutogenAI Federal, now FedRAMP High authorized, is gaining traction among government contractors for AI-powered proposal writing that combines GovCon compliance with advanced AI writing capabilities for federal RFPs. (https://autogenai.com/blog/10-best-rfp-software-to-save-time-win-more-deals-in-2026/)
+
+ContraVault, trained on over 200,000 real RFPs, is cutting proposal analysis time by 90% and reportedly doubling bid win rates for contractors navigating complex procurement environments in 2026. (https://www.contravault.com/blog/10-best-ai-rfp-software-tools-for-rfp-management-in-2026)
