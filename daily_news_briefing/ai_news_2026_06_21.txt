@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 21, 2026
+
+🤖 AI & LLMs
+
+OpenAI's GPT-5.6 is confirmed in active canary testing with a 1.5-million-token context window—routing references surfaced in its Codex backend suggest an imminent public release before end of June 2026. (https://www.geeky-gadgets.com/gpt-5-6-june-2026-release/)
+
+June 2026 marks an unprecedented AI convergence with GPT-5.6, Gemini 3.5 Pro, and Claude Mythos 1 all expected to launch within weeks of each other, making it the most competitive simultaneous frontier model release cycle to date. (https://centerbit.co/en/blog/ai-rumors-june-2026-gpt-5-6-gemini-3-5-pro-claude-mythos)
+
+
+🚀 Startups
+
+Mach Industries raised $300M in Series C funding at a $1.8B valuation to advance its AI-enabled defense technology and autonomous weapons platform, one of June 2026's largest defense-tech rounds. (https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/)
+
+Stord raised $250M in a Series F round to scale its AI-powered supply chain and fulfillment platform, joining a cluster of mega-rounds fueled by sustained investor confidence in AI-native logistics. (https://fundup.ai/recently-funded-startups)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+McCarthy Building Companies and Palantir launched a multi-year strategic AI partnership in June 2026, deploying Palantir's AIP as a construction operating system called "Pulse" to unify data across estimating, bidding, logistics, quality control, and equipment planning. (https://proptechconnect.com/mccarthy-and-palantir-announce-strategic-partnership-to-bring-ai-to-the-construction-field/)
+
+mbue launched AI-powered submittals—an automated document review tool—shortly after its Bluebeam acquisition, bringing AI-driven scope-gap and compliance detection directly into AEC teams' submittals workflow. (https://aecmag.com/construction/mbue-launches-ai-powered-submittals/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+A new agentic AI playbook for RFP automation published in 2026 details how AI agents are being deployed end-to-end—from RFP intake and compliance shredding to draft generation and submission—cutting proposal cycle times by up to 70% for both commercial and government bids. (https://www.digitalapplied.com/blog/ai-proposal-rfp-automation-agent-playbook-2026)
+
+The Society of American Military Engineers (SAME) published a guide on how Proposal AI is solving core government contracting bottlenecks—including compliance matrix generation, past-performance retrieval, and final proposal review preparation—as AI becomes standard in federal bid management. (https://www.same.org/news/guest-post-how-proposal-ai-can-solve-government-contracting-problems/)
