@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 22, 2026
+
+🤖 AI & LLMs
+
+OpenAI is preparing to file confidentially for an IPO targeting September 2026 at a $730 billion valuation, which would make it one of the largest tech public offerings in history. (https://llm-stats.com/ai-news)
+
+Renowned AI researcher Andrej Karpathy announced he has joined Anthropic to work on frontier large language models, marking one of the most significant talent moves in AI this year. (https://llm-stats.com/ai-news)
+
+
+🚀 Startups
+
+Jeff Bezos-backed Prometheus raised $12 billion at a $41 billion valuation to build an "artificial general engineer" — software designed to automate the design and manufacturing of complex physical systems from jet engines to drug compounds. (https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/)
+
+WindBorne Systems' AI weather model WeatherMesh-6 is outperforming the world-leading European ECMWF forecasting system, positioning the startup as a breakthrough in AI-powered environmental and climate prediction. (https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+"Local AI" is set to emerge as the dominant AEC paradigm in 2026, as firms seek greater control over proprietary project data while leveraging on-premise AI for design analysis, clash detection, and project delivery. (https://www.pbctoday.co.uk/news/digital-construction-news/construction-technology-news/2026-will-be-the-year-local-ai-emerges-in-aec/159253)
+
+A 2026 AEC industry survey found only 27% of professionals use AI today but 94% of those users plan to increase adoption, with AI in cost estimation, BIM automation, and safety monitoring becoming industry-standard. (https://graitec.com/us/blog/ai-in-2026-construction-trends-aec-firms/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+DeepRFP launched dedicated AI agents in 2026 as its core product, with its RFP Response Generator turning any solicitation document into a complete, structured proposal draft in minutes for mission-critical bids. (https://deeprfp.com/blog/best-rfp-tools-comparison/)
+
+LotusPetal.AI launched in 2026 as a new end-to-end AI proposal platform connecting discovery, capture, drafting, and compliance checking in a single AI-assisted workflow aligned to RFP evaluation factors. (https://lotuspetal.ai/blog/2026/04/02/best-rfp-proposal-software-of-2026/)
