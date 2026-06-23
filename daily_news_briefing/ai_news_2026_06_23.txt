@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 23, 2026
+
+🤖 AI & LLMs
+
+Anthropic's Claude hit a $30 billion annualized revenue run rate by end of Q1 2026, with Claude Code alone reaching $2.5 billion ARR after just nine months, reflecting 80x growth in a single quarter. (https://llm-stats.com/ai-news)
+
+Google's Gemini 3.5 Flash launched as a headline model delivering flagship-level performance at 4x the speed of prior Gemini versions, priced at just $1.50 per million input tokens while outperforming Gemini 3.1 Pro on coding and agentic benchmarks. (https://presenc.ai/research/june-2026-llm-release-roundup)
+
+
+🚀 Startups
+
+Cadence, a clinical AI company managing chronic care for older adults, announced a $100M Series C led by Spark Capital with participation from Thrive Capital, General Catalyst, Coatue, and major health systems including Corewell Health and Duke Health. (https://aifundingtracker.com/ai-startup-funding-news-today/)
+
+OpenAI acquired personal finance AI startup Hiro Finance in an acqui-hire, with the ~10-person team joining OpenAI as operations wind down, signaling OpenAI's continued push into consumer financial AI. (https://aifundingtracker.com/ai-startup-funding-news-today/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Oracle launched its Construction and Engineering Advisor for Safety, an AI platform that analyzes safety observations, incident reports, payroll data, and project schedules to generate weekly risk forecasts identifying which projects are most likely to experience incidents. (https://www.unite.ai/best-ai-tools-for-the-construction-industry/)
+
+ALICE Technologies' generative scheduling engine is gaining traction in 2026, simulating millions of possible build sequences to surface the most time- and cost-efficient construction paths, representing a direct application of AI to complex engineering optimization. (https://thedigitalprojectmanager.com/tools/ai-tools-for-construction-project-management/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+A Federal News Network report warns that federal agencies are now actively using AI to evaluate proposals, urging contractors to rethink their response strategies as AI-driven scoring changes what makes a winning bid. (https://federalnewsnetwork.com/commentary/2026/04/federal-agencies-are-using-ai-to-evaluate-proposals-is-your-team-ready/)
+
+Loopio's 2026 RFP Trends Report found generative AI adoption among proposal teams doubled in one year from 34% to 68%, signaling that AI-powered proposal tools have crossed the threshold into mainstream enterprise adoption. (https://www.contravault.com/blog/10-best-ai-rfp-software-tools-for-rfp-management-in-2026)
