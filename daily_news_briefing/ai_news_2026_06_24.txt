@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 24, 2026
+
+🤖 AI & LLMs
+
+Noam Shazeer, Google's Gemini co-lead and co-author of the foundational 2017 "Attention Is All You Need" Transformer paper, left Google — despite a ~$2.7B retention deal — to join OpenAI as Lead for Architecture Research on June 18, 2026. (https://www.cnbc.com/2026/06/18/google-gemini-co-lead-noam-shazeer-leaves-for-openai.html)
+
+OpenAI released GPT-5.5-Cyber (scoring a record 85.6% on the CyberGym benchmark) and launched "Patch the Planet" on June 22, 2026 — a collaboration with Trail of Bits and HackerOne to autonomously find and patch vulnerabilities in 30+ critical open-source projects including Python, Go, and cURL. (https://siliconangle.com/2026/06/22/openai-expands-daybreak-patch-planet-full-gpt-5-5-cyber-release/)
+
+
+🚀 Startups
+
+SpaceX signed a $6.3 billion computing deal with open-source AI startup Reflection AI, granting access to its Colossus data center at $150M/month starting July 2026 — reflecting surging demand for compute from closed-model alternatives. (https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html)
+
+Upscale AI raised $190 million in Series A-1 from Nvidia and Salesforce Ventures at a $2 billion valuation, building next-generation networking infrastructure for large-scale AI training clusters (June 22, 2026). (https://techstartups.com/2026/06/22/venture-capital-startup-funding-roundup-june-22-2026/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Trunk Tools launched Cortex on June 17, 2026, an AI platform trained to interpret construction drawings and unify them with project specs, RFIs, submittals, and schedules in a single intelligent interface for AEC teams. (https://www.enr.com/articles/63178-trunk-tools-launches-cortex-ai-platform-to-interpret-construction-drawings)
+
+Walbridge broke ground on OpenAI and Oracle's $16 billion Stargate data center campus, with the first 550,000 sq ft hall nearing completion — the largest single AI infrastructure construction project underway in the U.S. (https://www.constructiondive.com/news/walbridge-breaks-ground-stargate-data-center-openai-oracle/821972/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+The FAR Council published twelve proposed rules for the "Revolutionary Federal Acquisition Regulation Overhaul" in the Federal Register on June 23, 2026, aiming to streamline federal procurement by eliminating non-statutory rules, rewriting the FAR in plain language, and expanding AI-specific acquisition provisions. (https://www.govexec.com/management/2026/06/federal-acquisition-overhaul-proposed-rules/414348/)
+
+Brookings found federal AI contracts nearly tripled to 1,743 in 2026 (up from 489 in 2024), with the Pentagon and civilian agencies shifting toward outcome-based AI contracts and AI-first acquisition frameworks to manage growing procurement complexity. (https://www.brookings.edu/articles/where-does-federal-ai-spending-stand-in-2026/)
