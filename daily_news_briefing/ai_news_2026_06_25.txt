@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 25, 2026
+
+🤖 AI & LLMs
+
+OpenAI and Broadcom unveiled Jalapeño, OpenAI's first custom AI inference ASIC, targeting ~50% cheaper inference per token than current Nvidia GPUs, with initial deployment planned for late 2026. (https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
+
+Anthropic CEO Dario Amodei revealed that Claude hit a $30 billion annualized revenue run rate by the end of Q1 2026 — representing 80x growth in a single quarter, underscoring explosive enterprise adoption. (https://llm-stats.com/ai-news)
+
+
+🚀 Startups
+
+Supabase raised $500M in a Series F round at a $10.5B valuation led by GIC with Accel and Stripe, riding surging demand for its open-source AI-app-building database platform. (https://www.cnbc.com/2026/06/04/database-startup-supabase-raises-500-million-10point5-billion-valuation.html)
+
+Ramp secured $750M in fresh financing at a $44B valuation led by Iconiq, GIC, and Ontario Teachers' Pension Plan, cementing its status as one of the most valuable private fintech companies. (https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Newforma unveiled AI-powered product innovations at Newforma World 2026, including agentic workflow automation and expanded integrations with Bluebeam, Microsoft Teams, Egnyte, and OFCDESK for connected AECO project delivery. (https://www.constructionowners.com/press-release/newforma-unveils-ai-powered-tools-and-open-ecosystem-strategy-at-newforma-world-2026)
+
+CMiC launched NEXUS, an AI-powered construction ERP platform featuring agentic workflows that autonomously handle complex project management tasks and deliver instant insights directly within daily-use tools. (https://aecmag.com/construction/ai-powered-construction-erp-platform-launches/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Federal agencies are now deploying AI tools that evaluate proposal compliance in minutes — verifying required forms, solicitation adherence, and clause terms — with source selection authorities retaining final award authority. (https://federalnewsnetwork.com/commentary/2026/04/federal-agencies-are-using-ai-to-evaluate-proposals-is-your-team-ready/)
+
+AutogenAI launched AutogenAI Federal, an end-to-end AI proposal writing platform for government contractors with CMMC 2.0 and FedRAMP High compliance, claiming 241% higher win rates and 70% faster drafting. (https://www.executivebiz.com/articles/autogen-ai-federal-launch)
