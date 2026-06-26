@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 26, 2026
+
+🤖 AI & LLMs
+
+Anthropic released Claude Fable 5, claiming state-of-the-art scores on nearly all reasoning benchmarks including 80.3% on SWE-Bench Pro, as a flood of 12 frontier LLMs shipped in two weeks across major AI labs. (https://www.geeky-gadgets.com/anthropic-accuses-alibaba-ai-theft/)
+
+DeepSeek's V4-Pro has undercut GPT-5.5 and Claude Opus pricing by 75%, with Ramp spending data showing DeepSeek as the top enterprise AI model in the U.S. in June 2026. (https://www.kucoin.com/news/flash/deepseek-surpasses-openai-anthropic-in-u-s-enterprise-adoption-amid-ai-cost-crisis)
+
+
+🚀 Startups
+
+Anduril raised a $5B Series H doubling its valuation to $61B, as defense tech VC overall hit $14.6B YTD in 2026, blowing past the prior full-year record. (https://www.cnbc.com/2026/05/13/anduril-valuation-defense-tech-funding-boom.html)
+
+Anthropic confidentially submitted IPO registration documents, making it the most valuable standalone AI startup at a $965B valuation, surpassing OpenAI's last private valuation. (https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Autodesk pledged $350 million over three years to provide free AI technology access, training, and certifications for architecture, engineering, and construction professionals. (https://www.prnewswire.com/news-releases/autodesk-commits-350-million-to-prepare-the-next-generation-for-the-ai-jobs-that-design-and-make-the-physical-world-302806210.html)
+
+Stantec's 2026 AEC trend report highlights "vibe coding" — using natural language to write custom tools — and real-time building performance feedback during design as the defining AI shifts in architecture this year. (https://www.stantec.com/en/ideas/topic/buildings/2026-aec-trends-part-2-ai-in-architecture-vibe-coding-real-time-analysis-data)
+
+
+📋 AI in Procurement & Proposal Writing
+
+The GSA proposed a sweeping new AI clause for federal contracts requiring contractors to disclose and govern their AI use — triggering widespread concern across the government contracting community. (https://federalnewsnetwork.com/acquisition-policy/2026/03/gsas-new-ai-clause-drives-contractors-to-sound-the-alarm/)
+
+Loopio's 2026 RFP Trends Report found generative AI adoption in proposal teams jumped from 34% to 68% year-over-year, with AI cutting drafting time by 50-70% and tools like GovDash helping customers win over $5B in government contracts. (https://loopio.com/blog/best-ai-software-rfp-responses/)
