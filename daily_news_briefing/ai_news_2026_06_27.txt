@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 27, 2026
+
+🤖 AI & LLMs
+
+Google launched Gemini 2.5 Pro with Deep Think reasoning mode on June 22, 2026, setting a new benchmark record (GPQA Diamond 82.4%) with a 2M-token context window, making it the top publicly available model for math and science reasoning. (https://blog.google/products-and-platforms/products/gemini/gemini-2-5-deep-think/)
+
+Google, Microsoft, GitHub, NVIDIA, Salesforce, Snowflake, and Hugging Face jointly released the Agentic Resource Discovery (ARD) open specification, enabling AI agents to autonomously find and connect with tools, APIs, and other agents at runtime — a foundational standard for multi-agent AI ecosystems. (https://www.marketingprofs.com/opinions/2026/55130/ai-update-june-26-2026-ai-news-and-views-from-the-past-week)
+
+
+🚀 Startups
+
+AI decisioning startup Taktile secured $110M in Series C funding led by Goldman Sachs to scale its platform that helps banks and insurers automate credit, fraud, and underwriting decisions. (https://techstartups.com/2026/06/24/venture-capital-startup-funding-roundup-june-24-2026/)
+
+Healthcare AI startup Assort Health raised $120M in Series C funding from Menlo Ventures, Lightspeed Venture Partners, and Felicis to expand its AI-powered clinical and administrative platform. (https://aifundingtracker.com/ai-startup-funding-news-today/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Construction quality startup Structured AI raised a $4.2M seed round (total $5M) and partnered with Syska Hennessy Group to deploy AI-powered quality inspections and documentation on active job sites. (https://www.enr.com/articles/63139-construction-quality-startup-structured-ai-raises-42m-seed-round)
+
+Yale SOM alum's startup LeanCon raised $6M in seed funding to build an AI-powered pre-construction engineering platform that automates project planning analysis and transforms it into a rapid, data-driven process. (https://som.yale.edu/story/2026/som-alum-raises-6-million-ai-construction-startup)
+
+
+📋 AI in Procurement & Proposal Writing
+
+The White House signed an executive order on "Promoting Advanced Artificial Intelligence Innovation and Security" on June 26, 2026, streamlining AI acquisition processes for federal agencies and removing regulatory barriers to deploying frontier AI in government procurement. (https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/)
+
+The National Law Review published guidance warning that proposals not structured for AI-assisted evaluation now risk being filtered out before a human reviewer engages, as federal agencies increasingly deploy AI screening tools — forcing contractors to adopt AI-readable RFP formatting. (https://natlawreview.com/article/navigating-federal-solicitations-artificial-intelligence)
