@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 28, 2026
+
+🤖 AI & LLMs
+
+Six major Chinese frontier AI models — Qwen 3.7, DeepSeek V4.1, Hunyuan Large 3, ERNIE 5.1, Doubao Pro, and GLM-6 — all shipped within the same two-week window in June 2026, signaling unprecedented competitive velocity among Chinese AI labs and tightening pressure on Western frontier model leaders. (https://llm-stats.com/ai-news)
+
+Qualcomm announced the ~$4B acquisition of AI startup Modular to build a full-stack AI software platform — nearly tripling Modular's prior valuation — in a bold move to challenge NVIDIA's software ecosystem dominance in AI compute and inference. (https://www.globalbankingandfinance.com/qualcomm-buy-ai-startup-modular/)
+
+
+🚀 Startups
+
+AI inference provider Baseten closed a $1.5B Series F — its fourth fundraise in just 18 months — cementing its position as a key AI infrastructure layer company as enterprises accelerate deployment of AI models at scale. (https://news.crunchbase.com/venture/biggest-funding-rounds-ai-marketing-robotics-baseten/)
+
+Qualcomm's acquisition of AI startup Modular for ~$4B nearly tripled Modular's September 2025 valuation in under a year, marking one of the largest AI infrastructure acquisitions of 2026 and reflecting how quickly strategic buyers are moving to consolidate AI software companies. (https://www.globalbankingandfinance.com/qualcomm-buy-ai-startup-modular/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+A new industry report found 75% of AEC firms now use AI — up 20 percentage points year-over-year — though adoption remains concentrated in business development and marketing rather than core construction operations, finance, or accounting. (https://www.bdcnetwork.com/aec-tech/news/55386606/aec-report-reveals-firms-are-in-the-throes-of-ai-transition)
+
+The same AEC report reveals a significant maturity gap: while AI adoption has surged industry-wide, most firms have yet to operationalize AI in back-office and on-site workflows, suggesting the industry is still in early-stage transition with the largest productivity gains still ahead. (https://www.bdcnetwork.com/aec-tech/news/55386606/aec-report-reveals-firms-are-in-the-throes-of-ai-transition)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Halyard Consulting launched RFP Copilot on June 15, an AI-powered decision engine that analyzes RFPs, grants, and bids upfront to sharpen bid/no-bid decisions with compliance analysis, risk visibility, and opportunity scoring — before teams invest significant proposal effort. (https://news.marketersmedia.com/halyard-consulting-launches-rfp-copilot-ai-engine-for-rfps-grants-procurement/89194953)
+
+The 2025 Deltek Clarity GovCon Study found 45% of government contractors now use AI to streamline proposal operations, with modern AI RFP platforms automating compliance extraction and draft generation to cut the average 7+ hour initial draft process by 50–70%. (https://lotuspetal.ai/blog/2026/04/02/best-rfp-proposal-software-of-2026/)
