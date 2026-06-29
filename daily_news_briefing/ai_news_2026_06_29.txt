@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 29, 2026
+
+🤖 AI & LLMs
+
+xAI's Grok 4.5 entered private beta at SpaceX and Tesla on June 28, 2026, built on a 1.5-trillion-parameter V9 model that incorporates data from the Cursor coding platform — xAI's most capable model to date, with no public release date yet announced. (https://cryptobriefing.com/xai-grok-4-5-v9-model-upgrade/)
+
+Patronus AI unveiled "Digital World Models" — AI-generated replicas of websites and enterprise systems used to stress-test AI agents in realistic failure scenarios before deployment — creating a new class of AI agent safety tooling now adopted by most of the world's leading frontier AI labs. (https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/)
+
+
+🚀 Startups
+
+Patronus AI raised a $50M Series B from Greenfield Partners, Lightspeed, and Datadog, achieving 15x revenue growth while establishing itself as core AI safety infrastructure for enterprise deployments and frontier AI labs. (https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/)
+
+Jim Keller's RISC-V AI chip startup Tenstorrent (last valued at $2.6B in December 2024) is in advanced acquisition talks with Qualcomm for $8-10B — a nearly 4x step-up in under two years — as chip makers race to build full-stack NVIDIA alternatives for AI compute. (https://www.gurufocus.com/news/8918836/qualcomm-qcom-explores-8b10b-acquisition-of-ai-chip-startup-tenstorrent)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+New industry data shows 38% of contractors now report measurable business impact from AI — more than double the 17% from a year ago — driven by AI tools for estimating, safety monitoring, project scheduling, and bid management as AI moves from pilot to production in construction. (https://www.constructionowners.com/news/construction-ai-adoption-doubles-in-2026-as-smart-tools-transform-jobsites)
+
+Deloitte's 2026 Engineering and Construction Industry Outlook identifies AI-related data center construction as the primary near-term growth driver for E&C firms, with AI infrastructure investment expected to offset softness in commercial and residential construction through year-end. (https://www.deloitte.com/us/en/insights/industry/engineering-and-construction/engineering-and-construction-industry-outlook.html)
+
+
+📋 AI in Procurement & Proposal Writing
+
+The GSA issued an RFI (deadline July 2, 2026) for a Next-Generation Procurement AI Platform to consolidate all federal acquisition systems and deliver real-time data-driven insights — a milestone in the administration's push to complete an AI-powered federal procurement overhaul by December 2026. (https://news.bgov.com/bloomberg-government-news/ai-powered-procurement-revamp-on-gsas-to-do-list-by-december)
+
+The global AI-powered proposal management software market reached $3.66 billion in 2026 and is projected to grow to $9.19 billion by 2034 (12.2% CAGR), as AI-native tools that auto-draft compliant proposals displace legacy template systems across government contracting and enterprise sales. (https://deeprfp.com/blog/best-rfp-tools-comparison/)
