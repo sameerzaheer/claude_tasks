@@ -1,0 +1,28 @@
+Daily AI News Briefing — June 30, 2026
+
+🤖 AI & LLMs
+
+OpenAI announced three new AI models — GPT-5.6 Sol, Terra and Luna — and is limiting their initial rollout to a "small group of trusted partners" at the U.S. government's request, marking a notable shift toward government-managed AI deployment. (https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html)
+
+Apple unveiled the next generation of Apple Intelligence and a rebuilt "Siri AI" at WWDC 2026 — a profoundly more capable assistant with deep personal context understanding, integrated across iPhone, iPad, Mac, Apple Watch, and Apple Vision Pro. (https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/)
+
+
+🚀 Startups
+
+Assort Health raised $120M Series C led by Menlo Ventures at a $1.2B unicorn valuation (June 24, 2026), scaling its AI voice agent platform that has handled over 190M patient interactions for scheduling, intake, referrals, and payments. (https://hitconsultant.net/2026/06/24/assort-health-raises-120-million-series-c-menlo/)
+
+Taktile raised $110M Series C led by Goldman Sachs and Tiger Global (June 24, 2026) to deploy AI agents that automate high-stakes financial decisions — credit underwriting and insurance risk assessment — for banks and insurers. (https://fortune.com/2026/06/24/exclusive-taktile-goldman-sachs-ai-bank-insurance-funding/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+LeanCon, founded by SOM alum Ziv Levi, raised $6M seed to build what it calls the world's first AI-powered pre-construction engineering team — automating the planning work that typically takes weeks of manual effort. (https://som.yale.edu/story/2026/som-alum-raises-6-million-ai-construction-startup)
+
+A new AI-powered construction ERP platform launched, consolidating field management, procurement, and project controls into a unified AI-native system aimed at reducing administrative overhead for contractors. (https://aecmag.com/construction/ai-powered-construction-erp-platform-launches/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Federal agencies including GSA and the Pentagon are already using AI tools to evaluate contractor proposals, and teams that don't adapt their writing for AI evaluators risk falling behind in federal bids. (https://federalnewsnetwork.com/commentary/2026/04/federal-agencies-are-using-ai-to-evaluate-proposals-is-your-team-ready/)
+
+The GAO reviewed AI acquisitions at DOD, DHS, GSA, and VA, finding that agencies do not systematically share lessons learned from AI procurements — a gap slowing the federal government's ability to scale effective AI adoption. (https://www.gao.gov/products/gao-26-107859)
