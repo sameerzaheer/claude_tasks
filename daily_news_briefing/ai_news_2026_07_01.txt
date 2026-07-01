@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 1, 2026
+
+🤖 AI & LLMs
+
+The U.S. Commerce Department fully lifted its export-control ban on Anthropic's Claude Fable 5 and Mythos 5 on June 30, 2026, letting Anthropic restore full access after a two-week national-security suspension triggered by jailbreak concerns. (https://www.cnn.com/2026/06/30/tech/anthropic-export-control-ban-lifted-white-house)
+
+Google has postponed the general availability of Gemini 3.5 Pro from June to July 2026 to refine coding, token-efficiency, and long-horizon task performance, amid a wave of senior researcher departures including Gemini co-lead Noam Shazeer's move to OpenAI. (https://cryptobriefing.com/google-delays-gemini-35-pro-launch-to-july-2026/)
+
+🚀 Startups
+
+SpaceX agreed to acquire Cursor-maker Anysphere for $60 billion in an all-stock deal announced June 16, 2026 — the largest acquisition of a venture-backed startup in history — to fuse Cursor's coding data and enterprise revenue with xAI's Grok models and Colossus compute. (https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html)
+
+GPU-compute marketplace startup Ornn raised a $33 million seed round led by a16z crypto to build an index-driven exchange (backed by its Ornn Compute Price Index, already on the Bloomberg Terminal) that turns AI compute into a tradable commodity. (https://siliconangle.com/2026/06/24/ornn-raises-33m-help-companies-buy-sell-ai-compute-commodity-like-oil/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+McCarthy Building Companies and Palantir announced a multi-year strategic partnership to build "Pulse," an AI Operations Suite on Palantir's AIP platform giving field teams real-time insight, scenario planning, and risk analysis across estimating, bidding, and QA/QC. (https://www.constructiondive.com/news/mccarthy-palantir-artificial-intelligence-ai-partnership/822517/)
+
+Pre-construction startup LightTable raised a $22 million Series A led by Innovation Endeavors for AI models that read construction drawings and catch design errors — reportedly flagging 70% of change-order-causing mistakes in days versus weeks for manual review. (https://www.globenewswire.com/news-release/2026/05/27/3301908/0/en/lighttable-raises-22-million-series-a-to-accelerate-ai-native-workflows-for-design-and-construction-teams.html)
+
+📋 AI in Procurement & Proposal Writing
+
+pWin.ai acquired Vultron.ai's customer portfolio after Vultron effectively exited the GovCon proposal market, putting 400+ federal-contractor customers into pWin.ai's Shipley-embedded, FedRAMP Moderate Equivalency AI proposal platform. (https://www.businesswire.com/news/home/20260428236506/en/pWin.ai-Acquires-Vultron.ai-Customer-Portfolio-Cementing-Its-AI-Proposal-Platform-Leadership-Across-the-GovCon-Market)
+
+Responsive (formerly RFPIO) launched its Spring 2026 release with a Model Context Protocol server connecting directly into ChatGPT, Microsoft Copilot, and Claude, letting revenue teams draft RFP responses and proposals grounded in approved company content from inside those assistants. (https://www.responsive.io/blog/responsive-mcp-server-new-llm-integrations)
