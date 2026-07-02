@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 2, 2026
+
+🤖 AI & LLMs
+
+Anthropic launched Claude Sonnet 5 on July 1, 2026 — its most agentic Sonnet model yet, with performance close to Opus 4.8 at introductory pricing of $2/$10 per million input/output tokens through August 31, and it's now the default model in Claude Code and across Claude's Free and Pro plans. (https://www.anthropic.com/news/claude-sonnet-5)
+
+Google's Gemini 3.5 Flash has moved from preview to general availability as a stable, production-ready model delivering sustained frontier performance in coding, agentic execution, and long-horizon tasks, while the heavier Gemini 3.5 Pro remains in limited preview ahead of its own July GA. (https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)
+
+🚀 Startups
+
+Neocloud Together AI raised an $800 million Series C led by Aramco Ventures (with Nvidia, Salesforce Ventures, Vista Equity and others) at an $8.3 billion valuation on July 1, 2026, to scale GPU infrastructure for open-source model training and inference. (https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/)
+
+Video-AI startup TwelveLabs raised a $100 million Series B co-led by NEA and NAVER Ventures on July 1, 2026, with Amazon also investing and AWS signing a multiyear deal to host its workloads on Trainium chips as the company builds toward "video superintelligence." (https://www.twelvelabs.io/blog/twelvelabs-series-b-100m)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Homebuilding-AI startup Higharc raised a $95 million Series C led by Insight Partners (announced June 30, 2026) to extend its AI floor-plan intelligence into the building-materials supply chain via a new partnership with US LBM. (https://www.techtimes.com/articles/319480/20260701/homebuilding-ai-raises-95m-floor-plan-vision-tech-moves-lumber-supply-chain.htm)
+
+London/NY startup Build raised an $8.5 million seed round led by Index Ventures to automate infrastructure development due diligence — site sourcing, permitting and power-assessment workflows for data centers and other projects — claiming a 95%+ cut in due-diligence timelines. (https://proptechconnect.com/build-raises-85-million-from-index-ventures-to-redefine-how-infrastructure-gets-built)
+
+📋 AI in Procurement & Proposal Writing
+
+Deltek introduced new services-based proposal pricing capabilities in ProPricer on June 29, 2026, extending the GovCon pricing tool beyond labor-driven estimates to connected material estimating, aimed at the pricing errors that cause 38% of losing federal proposals. (https://www.deltek.com/company/news/deltek-introduces-robust-services-proposal-pricing-capabilities-for-government-contractors/)
+
+Unanet and CohnReznick's 10th annual GAUGE Report (released June 16, 2026, the largest edition yet at 1,204 respondents) found AI adoption among government contractors has climbed to 70% in 2026, up from 33% in 2024, with AI-mature firms posting over 50% win rates and 10%+ net margins versus a 7.6% industry average. (https://unanet.com/news/unanet-and-cohnreznick-release-10th-annual-gauge-report-revealing-what-sets-winning-government-contractors-apart)
