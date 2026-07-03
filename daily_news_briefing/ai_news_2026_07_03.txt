@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 3, 2026
+
+🤖 AI & LLMs
+
+Anthropic launched Claude Science on June 30, 2026 — a dedicated research platform integrating 60+ scientific databases for genomics, protein structure, and cheminformatics, marking its entry into the AI drug-discovery race alongside Google and OpenAI. (https://www.pharmaceutical-technology.com/news/anthropic-launches-claude-science-ai-tool-drug-discovery/)
+
+UBTECH unveiled the UWORLD U1 series at its June 30, 2026 Shenzhen launch event — the world's first full-size, mass-produced "ultra-bionic" humanoid robot powered by an emotion-aware LLM, racking up more than 13,000 pre-launch orders. (https://www.prnewswire.com/news-releases/ubtech-launches-uworld-u1-the-worlds-first-full-size-mass-produced-ultra-bionic-humanoid-robot-302815272.html)
+
+🚀 Startups
+
+Nebius completed its roughly $643 million acquisition of Eigen AI, an MIT-founded inference-optimization startup, folding its full-stack model-serving tech into Nebius's Token Factory AI infrastructure platform. (https://www.techzine.eu/news/infrastructure/140970/nebius-acquires-eigen-ai-for-643-million/)
+
+Financial-research startup LinqAlpha raised a $22 million Series A (announced July 2, 2026) led by AVP to build an AI "alpha intelligence" platform for institutional investors, positioning itself against the far larger incumbent AlphaSense. (https://techstartups.com/2026/07/02/linqalpha-raises-22m-series-a-to-build-ai-agents-for-institutional-investors-and-public-market-research/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+AI-native tender platform BidScript raised an additional $800K (reported July 1-2, 2026), pushing its total pre-seed funding past $1 million, to help construction, engineering, IT and education firms win public and private bids — customers report win-rate gains of up to 50%. (https://tech.eu/2026/07/02/university-founded-ai-tender-startup-bidscript-exceeds-1m-in-total-pre-seed-funding/)
+
+A new market report released June 30, 2026 pegs the global AI-in-construction market at $3.02 billion in 2026 (32.8% CAGR), naming Autodesk, Procore, Trimble, and Bentley Systems as the leading vendors as adoption accelerates industry-wide. (https://www.globenewswire.com/news-release/2026/06/30/3319461/0/en/north-america-leads-ai-in-construction-market-asia-pacific-set-for-impressive-growth-with-a-33-1-cagr-by-2030.html)
+
+📋 AI in Procurement & Proposal Writing
+
+Federal contracting data shows the Department of Defense's AI-related contract value surged 1,605% since 2024 to $90.7 billion in 2026 — now representing 98.9% of all federal AI spending, with Palantir alone holding over $10 billion in contract ceiling. (https://fed-spend.com/blog/federal-ai-cybersecurity-contract-awards-2026)
+
+Coupa used its record Q4 FY26 earnings report to claim its "autonomous spend management" — powered by $9.5 trillion in proprietary transaction data — now delivers sourcing and supplier outcomes no newer AI procurement entrant can replicate at the same scale. (https://www.shashi.co/2026/03/coupa-just-raised-bar-on-ai-procurement.html)
