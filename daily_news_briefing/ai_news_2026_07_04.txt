@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 4, 2026
+
+🤖 AI & LLMs
+
+Anthropic launched Claude Tag on June 23, 2026 — an always-on AI teammate that joins Slack channels, builds shared context across conversations, and already writes 65% of the code produced by Anthropic's own product team. (https://www.anthropic.com/news/introducing-claude-tag)
+
+Microsoft launched "Frontier Company" on July 2, 2026 — a $2.5 billion unit embedding roughly 6,000 engineers and consultants directly inside enterprise customers to fix the fact that 95% of enterprise AI pilots deliver zero measurable P&L impact, joining OpenAI, Anthropic and AWS in racing to stand up similar deployment arms. (https://www.techtimes.com/articles/319642/20260703/microsoft-frontier-company-25b-6000-engineers-target-ai-pilot-failures.htm)
+
+🚀 Startups
+
+Munich-based defense-AI drone maker Quantum Systems raised a $1.2 billion Series D (announced July 2, 2026) at an approximately $8 billion valuation — one of Europe's largest-ever defense-tech financings — co-led by Blackstone, Airbus and Advent. (https://www.cnbc.com/2026/07/02/autonomous-defense-startup-quantum-systems.html)
+
+Raja Koduri's chip startup Oxmiq raised a $35 million Series A (announced July 1, 2026) to scale its licensable "OxCore" architecture, which fuses GPU, tensor and orchestration engines on one chip to cut the cost of custom AI silicon. (https://techstartups.com/2026/07/01/raja-koduris-ai-startup-oxmiq-raises-35m-to-build-ai-chip-architecture-that-cuts-the-cost-of-custom-ai-silicon/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Trimble agreed to acquire Document Crunch, an AI startup that scans construction contracts for risk provisions, payment disputes and compliance issues, folding it into the Trimble Construction One project-delivery ecosystem. (https://news.trimble.com/2026-04-02-Trimble-to-Acquire-Document-Crunch-to-Add-AI-Powered-Risk-Management-and-Document-Compliance-to-Trimble-Construction-One-Project-Delivery-Ecosystem)
+
+August Robotics raised a $30 million Series B (announced May 21, 2026) led by Big Pi Ventures to scale its autonomous robot fleets, already automating precision tasks like drilling on construction and data-center jobsites across the US, Europe and Australia. (https://siliconangle.com/2026/05/21/august-robotics-lands-30m-automate-precision-construction-robots/)
+
+📋 AI in Procurement & Proposal Writing
+
+A GBTA survey of 258 travel managers found AI use in corporate hotel RFP cycles is set to more than double, from 32% of programs in the last cycle to a projected 69% in the next, even as buyers flag gaps in RFP-tool integration and cost/compliance trade-off analysis. (https://www.businesstravelexecutive.com/news/one-third-of-corporate-hotel-programs-used-ai-in-most-recent-rfp-cycle-says-gbta-survey/)
+
+TechnoMile partnered with pWin.ai to launch what they call the industry's first connected, AI-powered "opportunity-to-award" workflow for government contractors, tying capture management and proposal generation into a single pipeline. (https://www.prnewswire.com/news-releases/technomile-partners-with-pwinai-to-deliver-the-first-connected-ai-powered-opportunity-to-award-workflow-302683004.html)
