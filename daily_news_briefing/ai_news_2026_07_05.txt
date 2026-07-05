@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 5, 2026
+
+🤖 AI & LLMs
+
+Meta AI chief Alexandr Wang reportedly told employees at an internal town hall on July 3, 2026 that Meta's next model, codenamed "Watermelon" and trained with roughly 10x the compute of its predecessor Muse Spark, has caught up to OpenAI's GPT-5.5 on key benchmarks. (https://www.benzinga.com/markets/tech/26/07/60264651/metas-upcoming-watermelon-ai-model-matches-openais-gpt-5-5-on-key-benchmarks-alexandr-wang-reportedly-tells-employees)
+
+Elon Musk announced on June 28, 2026 that Grok 4.5 — built on xAI's 1.5-trillion-parameter V9 foundation model with Cursor coding data added in supplemental training — has entered private beta at SpaceX and Tesla, with early (unpublished) evals claimed to be near or above Claude Opus. (https://www.techtimes.com/articles/319314/20260629/grok-45-enters-private-beta-spacex-tesla-no-public-access-no-independent-benchmark.htm)
+
+🚀 Startups
+
+Qualcomm agreed on June 24, 2026 to acquire AI software startup Modular — maker of the Mojo programming language and MAX inference engine co-founded by Chris Lattner — for about $3.9 billion in an all-stock deal aimed at challenging Nvidia's CUDA dominance with a chip-agnostic AI compute layer. (https://www.bloomberg.com/news/articles/2026-06-24/qualcomm-confirms-buying-modular-to-help-ai-market-push)
+
+Menlo Ventures closed a $3 billion fund on June 23, 2026 — the largest in its 50-year history — after its roughly $1 billion bet on Anthropic (including leading a $750M SPV-backed round in 2024) grew into a stake now worth an estimated $14 billion. (https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Xpanner raised an $18 million Series B bridge round led by Korea Investment Partners (announced mid-May 2026) to scale its "Automation-as-a-Service" kits that retrofit customers' existing construction equipment for autonomous operation, without replacing machines. (https://news.crunchbase.com/real-estate-property-tech/xpanner-automation-as-a-service-for-construction-sites-startup-funding-physical-ai-robotics/)
+
+Y Combinator-backed construction back-office startup Trayd closed a $10 million Series A in just three weeks, led by White Star Capital, for AI-driven payroll software that cuts specialty-trade contractor payroll processing from 14 hours to 27 minutes. (https://news.crunchbase.com/venture/construction-tech-automation-trayd-ai-seriesa/)
+
+📋 AI in Procurement & Proposal Writing
+
+Ramp launched a fleet of AI agents across its procurement platform on April 29, 2026 that triage employee purchase requests, source vendors, review contract terms, and run compliance checks — extending the company from spend management into running the full purchasing process. (https://www.pymnts.com/news/b2b-payments/2026/ramp-launches-ai-agents-to-automate-corporate-procurement/)
+
+Loopio became the first RFP/response-management provider to launch a Microsoft 365 Copilot Agent (announced April 21, 2026), letting proposal and sales teams search, summarize, and reuse approved RFP content directly inside Teams, Word, PowerPoint, Outlook, and OneNote. (https://www.businesswire.com/news/home/20260421623126/en/Loopio-Becomes-the-First-Response-Management-Provider-to-Launch-a-Microsoft-365-Copilot-Agent)
