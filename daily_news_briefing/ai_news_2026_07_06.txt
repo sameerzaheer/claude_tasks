@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 6, 2026
+
+🤖 AI & LLMs
+
+Zhipu AI's Z.ai released GLM-5.2, an open-weight 744-billion-parameter Mixture-of-Experts model with a 1-million-token context window, that matches or beats OpenAI's GPT-5.5 on multiple long-horizon coding benchmarks at roughly one-sixth the cost. (https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost)
+
+The UN's inaugural Global Dialogue on AI Governance opened in Geneva on July 6, 2026, convening all 193 member states alongside industry, academia, and civil society to build common international approaches to AI regulation. (https://news.un.org/en/story/2026/07/1167862)
+
+🚀 Startups
+
+Chamath Palihapitiya raised $135 million in a Salesforce Ventures-led Series A for his AI-native "Software Factory" startup 8090 Labs and stepped in as CEO, his first full-time operating role since Facebook. (https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/)
+
+Privacy-first AI platform Venice AI became a unicorn after raising a $65 million Series A led by crypto-focused VC Dragonfly at a $1 billion valuation, with plans to build its own GPU data centers. (https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+London startup All3 raised a $25 million seed round led by RTP Global to scale an integrated AI design platform and its Mantis autonomous legged robot for on-site assembly, claiming up to 30% cost savings and 50% faster timelines. (https://tech.eu/2026/04/29/all3-raises-25m-to-boost-construction-productivity-with-robotics-and-ai/)
+
+Bentley Systems opened a regional headquarters in Tokyo and plans to more than double its Japanese workforce over three years, positioning its AI-driven digital-twin tools ahead of Japan's 2029 national mandate for 3D digital delivery on public works. (https://highways.today/2026/07/03/bentley-japanese-growth-strategy/)
+
+📋 AI in Procurement & Proposal Writing
+
+Enterprise procurement automation startup Lio raised a $30 million Series A led by Andreessen Horowitz for an agentic AI platform that reads documents, evaluates suppliers, negotiates terms, and completes purchasing transactions autonomously. (https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/)
+
+Oro Labs raised a $100 million Series C led by Goldman Sachs Growth Equity and Brighton Park Capital to expand its AI platform that automates enterprise procurement processes. (https://fortune.com/2026/03/12/oro-labs-corporate-procurement-ai-efficiency/)
