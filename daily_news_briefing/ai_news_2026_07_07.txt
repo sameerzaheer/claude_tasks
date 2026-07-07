@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 7, 2026
+
+🤖 AI & LLMs
+
+OpenAI released gpt-realtime-2.1 and gpt-realtime-2.1-mini on July 6, 2026, cutting p95 latency by at least 25% for production voice agents and adding configurable reasoning-effort levels for the Realtime API. (https://www.marktechpost.com/2026/07/06/openai-gpt-realtime-2-1-mini-reasoning-realtime-api/)
+
+Chinese open-weight models led by Xiaomi's MiMo-V2-Pro now account for over 45% of all OpenRouter traffic — up from under 2% a year ago — with MiMo-V2-Pro alone commanding roughly 21% of the platform versus OpenAI's 7.5% share. (https://www.techtimes.com/articles/317352/20260529/chinese-ai-models-lead-openrouter-traffic-coding-gains-come-china-data-risk.htm)
+
+🚀 Startups
+
+Tel Aviv-based agentic-workflow startup ai.work agreed to be acquired by ServiceNow (announced July 1-2, 2026) for an undisclosed sum estimated in the double-digit millions — ServiceNow's fourth Israeli AI acquisition this year. (https://www.calcalistech.com/ctechnews/article/hjckic7qze)
+
+Fintech startup Taktile raised a $110 million Series C led by Growth Equity at Goldman Sachs Alternatives (announced late June 2026) for its agentic decision platform, which powers underwriting and fraud decisions for banks and insurers including Mercury and Monzo. (https://www.businesswire.com/news/home/20260624713959/en/Taktile-Secures-$110M-in-Goldman-Sachs-Led-Series-C-to-Power-AI-Transformation-in-Financial-Institutions)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Field AI raised a $405 million growth-stage round (announced June 19, 2026) to build a licensable, software-first AI autonomy stack for construction robotics, betting that the defensible layer in contech is the AI rather than the hardware. (https://www.saasrise.com/deals/field-ai-secures-405m-funding-to-accelerate-construction-robotics-autonomy-1c0daa4c-9867-4423-948c-3ae78e8bc46e)
+
+Procore unveiled new agentic AI features (announced early July, launching July 21, 2026) that let project teams draft BIM coordination issues from text or photos, get grounded summaries of long issue threads, and query drawings, specs and RFIs in natural language. (https://www.engineering.com/procore-expands-ai-tools-with-construction-workflow-agents/)
+
+📋 AI in Procurement & Proposal Writing
+
+Coupa acquired no-code agentic intake and orchestration platform Tonkean (announced May 21, 2026) — its fourth strategic acquisition — aiming to cut procurement cycle times by 50% and save operations teams 30+ hours a week. (https://www.coupa.com/newsroom/coupa-acquires-tonkean-to-accelerate-agentic-intake-and-orchestration-for-global-trade/)
+
+Manufacturing-cost software firm aPriori launched aiSource (announced May 26, 2026), an AI sourcing tool that gives procurement teams manufacturing and cost intelligence to strengthen supplier negotiations. (https://www.businesswire.com/news/home/20260526130779/en/aPriori-Launches-aiSource-an-AI-Sourcing-Solution-Giving-Procurement-Teams-the-Manufacturing-and-Cost-Intelligence-to-Win-More-Supplier-Negotiations)
