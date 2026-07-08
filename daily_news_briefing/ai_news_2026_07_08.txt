@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 8, 2026
+
+🤖 AI & LLMs
+
+Anthropic signed a $19 billion, 20-year data center lease with bitcoin-miner-turned-operator TeraWulf (announced July 6, 2026) for roughly 401MW of AI compute capacity at a new Kentucky campus, sending TeraWulf shares up more than 16%. (https://siliconangle.com/2026/07/06/anthropic-inks-19b-ai-data-center-lease-terawulf/)
+
+Mark Zuckerberg told Meta staff at an internal town hall (July 2, 2026) that AI agents haven't progressed as quickly as he'd hoped despite the company's new AI-superintelligence reorg, though he expects gains within 3-6 months. (https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
+
+🚀 Startups
+
+Zoom agreed to acquire Seattle-based sales/marketing AI-agent startup Common Room (announced July 7, 2026), bringing on its roughly 180-person team as part of Zoom's push into AI-powered workplace tools. (https://www.spokesman.com/stories/2026/jul/07/zoom-to-buy-seattle-ai-startup/)
+
+AI post-training startup Bespoke Labs raised a $40 million Series A (announced July 6-7, 2026) led by Wing VC, with backing from Mayfield, The House Fund and angels from Anthropic, OpenAI and Meta, to build reinforcement-learning environments that make long-horizon AI agents more reliable. (https://siliconangle.com/2026/07/06/ai-post-training-startup-bespoke-labs-raises-40m-funding/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+UK drone and data-intelligence firm StirlingX, chaired by former GCHQ director Sir Jeremy Fleming, raised a $20 million Series A (announced July 2, 2026) to expand AI-driven surveying and mapping for critical infrastructure and construction sites. (https://tech.eu/2026/07/02/stirlingx-secures-20m-series-a-to-expand-sovereign-intelligence-platform/)
+
+Build, founded by an architect and an AI researcher, raised an $8.5 million seed round led by Index Ventures for an AI platform that automates infrastructure and real-estate site sourcing and technical due diligence, cutting timelines by over 95%. (https://aecmag.com/ai/build-raises-8-5m-seed-for-ai-driven-infrastructure-due-diligence-platform/)
+
+📋 AI in Procurement & Proposal Writing
+
+Construction procurement platform ProcurePro raised an $11 million round led by QIC Ventures (announced May 11, 2026, valuing it over $80 million), highlighting BidLevel, its AI tool that compares complex subcontractor bids in minutes instead of days. (https://www.prnewswire.co.uk/news-releases/procurepro-raises-11m-to-deliver-ai-powered-procurement-control-for-constructions-13-trillion-supply-chain-302766978.html)
+
+Procurement platform Zip launched AI Automation for Procure-to-Pay (May 6, 2026), a suite of AI agents automating the full workflow from purchase request through payment, with early customers coding invoices 40% faster and approving them 51% faster. (https://zip.com/blog/introducing-ai-automation-p2p)
