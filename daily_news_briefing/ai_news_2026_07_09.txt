@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 9, 2026
+
+🤖 AI & LLMs
+
+OpenAI publicly launched its GPT-5.6 model family (Sol, Terra, Luna) on July 9, 2026, after the Commerce Department's AI Standards and Innovation Center cleared it under the Trump administration's mandatory pre-release security review. (https://www.engadget.com/2210308/openai-rolls-out-gpt5-6-july-9/)
+
+Anthropic launched Claude Science on June 30, 2026 — a research environment integrating 60+ genomics, proteomics and cheminformatics databases, with Novo Nordisk and the Allen Institute as early customers — intensifying an AI-for-science race against Google DeepMind's Isomorphic Labs and OpenAI's GPT-Rosalind. (https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/)
+
+🚀 Startups
+
+AI inference platform Baseten closed a $1.5 billion Series F (announced June 22, 2026) across two tranches valuing it at up to $13 billion — a 160% jump in just five months — as it now processes over 1 billion inference calls a day. (https://www.businesswire.com/news/home/20260622645563/en/Baseten-Raises-$1.5-Billion-to-Power-the-Next-Era-of-AI-Inference)
+
+Open-model cloud provider Together AI raised an $800 million Series C (announced July 1, 2026) at an $8.3 billion valuation, led by Aramco Ventures, as demand for open-source inference alternatives to closed frontier models surges. (https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Homebuilding AI startup Higharc raised a $95 million Series C (announced July 1, 2026) led by Insight Partners, pushing total funding past $170 million, and launched an AI Estimating product with building-materials distributor US LBM. (https://www.prnewswire.com/news-releases/higharc-raises-95m-series-c-to-scale-ai-for-homebuilding-302814598.html)
+
+Y Combinator-backed Agave raised a $15 million Series A (announced July 7, 2026) led by Accel to expand its AI platform for construction financial operations — AP automation, expense management and vendor compliance — now used across 80,000+ projects worth $100B+ in materials. (https://www.businesswire.com/news/home/20260707861533/en/Agave-Raises-$15M-Series-A-to-Bring-AI-to-Construction-Financials)
+
+📋 AI in Procurement & Proposal Writing
+
+The GSA published a revised GSAR clause (June 17, 2026, comments due August 3) narrowing its scope to contractors whose AI/LLM systems process government data but sharpening compliance demands — a shift proposal teams bidding on federal work will need to account for. (https://www.pilieromazza.com/gsas-revised-ai-clause-narrower-scope-broader-compliance-demands-on-government-contractors/)
+
+Loopio's 2026 RFP Trends & Benchmarks Report, surveying 1,533 proposal professionals, found generative-AI adoption among proposal teams doubled from 34% to 68% in a year, with 62% now using AI to draft RFP answers directly. (https://www.businesswire.com/news/home/20260311267176/en/New-Loopio-Research-Finds-AI-Adoption-and-Leadership-Expectations-Are-Climbing-as-RFP-Revenue-Influence-Reaches-a-Five-Year-High)
