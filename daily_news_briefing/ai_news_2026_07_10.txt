@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 10, 2026
+
+🤖 AI & LLMs
+
+Anthropic expanded Claude Cowork to mobile (iOS/Android) and web on July 7, 2026, letting the agent keep working in the background and ping users for decisions from their phone — a sample of 1.2 million sessions found only 8.7% were software development, with a third spent on general business-process work like reconciling spreadsheets. (https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/)
+
+OpenAI launched ChatGPT Work on July 9, 2026 alongside its new GPT-5.6 model family (Sol, Terra, Luna) — an autonomous workplace agent that can pull context from connected apps and files and spend hours producing finished reports, spreadsheets, and slides. (https://www.forbes.com/sites/madhulika-pathak/2026/07/09/openai-debuts-chatgpt-work-workplace-ai-agent-with-gpt-56/)
+
+🚀 Startups
+
+Ollama raised a $65 million Series B (announced July 9, 2026) led by Theory Ventures to scale its open-source, run-models-locally platform, which now counts 8.9 million developers and reaches 85% of the Fortune 500. (https://www.hpcwire.com/aiwire/2026/07/09/ollama-raises-65m-series-b-funding-to-grow-its-open-source-ai-platform/)
+
+AI unicorn Mercor acquired agent-training startup Deeptune (announced July 9, 2026), notable because Mercor CEO Brendan Foody had personally angel-invested in Deeptune's $43 million Series A just three months before buying the company outright. (https://fortune.com/2026/07/09/ai-unicorn-mercor-acquires-deeptune-brendan-foody-investor-a16z-openai-anthropic/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Buildots launched Intelligence Lab (June 25, 2026), construction's first AI-powered research hub that mines aggregated helmet-camera and BIM data into freely available industry benchmarks — early findings show a 20-50% gap between planned and actual weekly MEP output on data-center jobs. (https://www.prnewswire.com/news-releases/buildots-launches-intelligence-lab-constructions-first-ai-powered-research-hub-302810700.html)
+
+Subsurface-intelligence firm Exodigo expanded its AI engineering platform (July 8, 2026) with new foundation, geotechnical, and utility-relocation solutions, extending AI-driven decision support across the full infrastructure project lifecycle from planning through delivery. (https://www.geoweeknews.com/articles/exodigo-brings-ai-powered-subsurface-intelligence-to-every-stage-of-infrastructure-delivery-with-expanded-solutions/)
+
+📋 AI in Procurement & Proposal Writing
+
+Triumph Financial launched RFP Manager in June 2026, a freight-bid management tool that replaces manual spreadsheets with predictive contract pricing built on Rate Intelligence data covering roughly 70% of North American brokered freight transactions. (https://www.businesswire.com/news/home/20260630747519/en/Triumph-Launches-RFP-Manager-Leveraging-Real-Freight-Transaction-Data-to-Improve-Contract-Pricing)
+
+SAP brought its Joule AI agents to general availability across Ariba Intake Management, Ariba Contracts, and Fieldglass Services Procurement in June 2026, enabling conversational request intake, automatic policy-compliance checks, and natural-language contract drafting. (https://erp.today/sap-joule-agents-ariba-fieldglass-procurement-automation-2026/)
