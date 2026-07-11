@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 11, 2026
+
+🤖 AI & LLMs
+
+xAI launched Grok 4.5 (July 8, 2026), which Elon Musk calls an "Opus-class" model trained alongside Cursor for coding and agentic tasks, priced at $2/$6 per million input/output tokens. (https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/)
+
+A Cambridge Programme on AI Science & Policy study, based on interviews with 27 former Boko Haram members, found the group used ChatGPT, Claude, Gemini, Grok, Meta AI and DeepSeek — with foreign jihadist operatives running in-person training sessions — to help design explosives, troubleshoot weapons and plan attacks. (https://www.hstoday.us/subject-matter-areas/counterterrorism/isis-backed-terror-group-using-major-ai-tools-to-plan-attacks-and-build-bombs-uk-study-finds/)
+
+🚀 Startups
+
+Enterprise AI-agent infrastructure startup Prime Intellect raised a $130 million Series A (announced July 8, 2026) at a $1 billion valuation, led by Radical Ventures with Nvidia Ventures and Iconiq participating, to scale distributed compute and reinforcement-learning training for companies building their own AI agents. (https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/)
+
+Video-intelligence startup TwelveLabs raised a $100 million Series B (announced July 1, 2026) co-led by NEA and NAVER Ventures, with Amazon investing directly and naming AWS its preferred cloud partner for its Marengo and Pegasus video-AI models. (https://www.globenewswire.com/news-release/2026/07/01/3320545/0/en/twelvelabs-raises-100-million-in-series-b-funding-to-build-video-superintelligence.html)
+
+🏗️ AI in AEC, Construction & Engineering
+
+UK compliance-intelligence platform BuildwellAI launched (July 10, 2026), combining computer vision and automation to maintain a real-time "golden thread" record so contractors and asset owners can prove Building Safety Act compliance as work happens rather than years later. (https://insurance-edge.net/2026/07/10/say-hello-to-buildwellai-built-for-the-construction-sector/)
+
+Y Combinator's 2026 real estate and construction portfolio has grown to 126 companies, including PLAN0 AI, which uses vision models to turn architectural plans into cost estimates and analytics in minutes across $20 billion of projects already run through its platform. (https://www.marketscale.com/industries/engineering-and-construction/y-combinators-2026-real-estate-and-construction-cohort-bets-big-on-ai-agents-and-construction-intelligence)
+
+📋 AI in Procurement & Proposal Writing
+
+The American Bar Association's July/August 2026 Law Practice Magazine reports law firms are increasingly using AI to mine institutional knowledge and draft RFP responses, even as clients' RFPs now demand firms disclose which AI tools they use and how client data is safeguarded. (https://www.americanbar.org/groups/law_practice/resources/law-practice-magazine/2026/july-august-2026/how-ai-is-changing-the-law-firm-request-for-proposals/)
+
+A new market report (published July 3, 2026) projects the generative-AI-in-procurement market will grow at roughly a 24-29% CAGR to about $0.61 billion by 2030, as AI-driven supplier evaluation and contract analysis become standard procurement criteria. (https://www.globenewswire.com/news-release/2026/07/03/3321694/28124/en/Exponential-Growth-Generative-AI-in-Procurement-Market-to-Hit-0-61-Billion-by-2030.html)
