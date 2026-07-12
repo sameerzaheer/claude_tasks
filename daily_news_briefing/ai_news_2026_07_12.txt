@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 12, 2026
+
+🤖 AI & LLMs
+
+Apple sued OpenAI in Northern California federal court on July 11, 2026, alleging trade secret theft and citing more than 400 former Apple employees now at OpenAI, framing the hiring as a coordinated campaign to extract confidential technology. (https://www.forbes.com/sites/madhulika-pathak/2026/07/09/openai-debuts-chatgpt-work-workplace-ai-agent-with-gpt-56/)
+
+The U.S. Department of Health and Human Services announced on July 10, 2026 that it will deploy ChatGPT to analyze state audit reports and hunt for fraud and waste across roughly $2.1 trillion in annual Medicare and Medicaid spending, with findings able to trigger withholding of federal funds from non-compliant states — one of the largest government deployments of a commercial LLM to date. (https://www.buildfastwithai.com/blogs/ai-news-today-july-12-2026)
+
+🚀 Startups
+
+AI chipmaker SambaNova completed the first close of a $1 billion Series F (announced July 8, 2026) led by General Atlantic at an $11 billion valuation — up from roughly $8.5 billion five months earlier — with JPMorgan Chase signing on as an inference partner. (https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/)
+
+AI-native law firm Norm Ai raised a $120 million Series C (announced July 7, 2026) led by Khosla Ventures at a $1.2 billion valuation, with Blackstone and Bain Capital Ventures also participating, to scale its outcome-priced, agent-run legal services model against rivals Harvey and Legora. (https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+A new "AI in Construction Report 2026" from Vancouver-based Scius Advisory (published around July 6, 2026) found 90% of Canadian construction leaders believe AI can improve productivity, yet only 9% currently use it day-to-day, with 39% still piloting tools and 35% just researching them. (https://canada.constructconnect.com/dcn/news/technology/2026/07/canadian-construction-leaders-see-ai-promise-but-adoption-remains-limited)
+
+Y Combinator's Summer 2026 batch (unveiled around July 8, 2026) is flooding construction and proptech with AI back-office tools, including FlowManual (an all-in-one AI platform for construction's back office), Foreman (AI-generated takeoffs and estimates replacing spreadsheets and email), and Rudus (AI estimating for concrete contractors that cuts estimation time by 70%). (https://www.marketscale.com/industries/engineering-and-construction/ycs-summer-2026-cohort-floods-construction-and-proptech-with-ai-back-office-tools)
+
+📋 AI in Procurement & Proposal Writing
+
+Enterprise sourcing platform Fairmarkit launched Total Agentic Sourcing (announced April 29, 2026), billed as the first platform to run AI agents across all enterprise spend and integrate directly with leading ERPs, extending Fairmarkit beyond tail-spend sourcing into full agentic procurement. (https://tryxlr8.ai/blogs/best-ai-procurement-sourcing-automation-platforms)
+
+Enterprise procurement automation startup Didero raised a $30 million Series A (announced earlier in 2026) for an AI platform focused on manufacturing and distribution supply chains, automating the sourcing of raw materials and inputs rather than general corporate purchasing. (https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/)
