@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 13, 2026
+
+🤖 AI & LLMs
+
+Mistral AI released Leanstral 1.5 (July 2, 2026), an open-weight, Apache-2.0-licensed Lean 4 model for formal software verification that solved 587 of 672 PutnamBench problems and caught five previously unknown bugs while scanning 57 open-source repositories. (https://mistral.ai/news/leanstral-1-5/)
+
+OpenAI launched GPT-Live (July 8, 2026), a full-duplex voice model family that listens and speaks simultaneously and quietly delegates complex reasoning to GPT-5.5 in the background, replacing the turn-based Advanced Voice Mode. (https://openai.com/index/introducing-gpt-live/)
+
+🚀 Startups
+
+Jeff Bezos's industrial-AI startup Prometheus raised a $12 billion Series B (announced June 11, 2026) at a $41 billion valuation, backed by JPMorgan, BlackRock and Goldman Sachs, to build an "artificial general engineer" that automates design and manufacturing of physical systems from jet engines to drug compounds. (https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/)
+
+Patronus AI raised a $50 million round (announced June 25, 2026) to build simulated "digital worlds" that stress-test AI agents before they're deployed into production. (https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Balfour Beatty invested £10 million in Pi Labs' Fund IV (announced July 7, 2026) to gain early access to AI, data and robotics startups reshaping the built environment across infrastructure delivery. (https://www.balfourbeatty.com/media-centre/latest/balfour-beatty-invests-10-million-in-pi-labs-to-accelerate-practical-innovation-in-infrastructure-delivery/)
+
+Trimble rolled out new AI-powered takeoff tools (early July 2026) that automate MEP drawing analysis and historical pricing research, aiming to cut contractor estimating time and boost bidding capacity without adding headcount. (https://highways.today/2026/07/09/trimble-ai-takeoff-tools/)
+
+📋 AI in Procurement & Proposal Writing
+
+Ivalua launched IVA Studio (June 11, 2026), an agentic "operating system" for procurement that gives its IVA assistant full platform access, self-improving skills and MCP support to execute source-to-pay workflows autonomously. (https://www.ivalua.com/press-releases/ivalua-launches-iva-studio-redefining-how-procurement-works-with-ai/)
+
+A PYMNTS Intelligence report (late June 2026) found hyperscalers are rewriting procurement strategy around AI-driven compute scarcity — locking in multi-year supply deals and prepaying billions to secure capacity ahead of competitors — a shift procurement leaders industry-wide are expected to follow. (https://www.pymnts.com/news/b2b-payments/2026/big-tech-is-rewriting-procurement-the-rest-of-b2b-is-next/)
