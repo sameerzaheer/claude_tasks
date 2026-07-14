@@ -1,0 +1,28 @@
+Daily AI News Briefing — July 14, 2026
+
+🤖 AI & LLMs
+
+OpenAI has proposed giving the U.S. government a 5% equity stake (worth roughly $42.6 billion) in talks with President Trump, Commerce Secretary Lutnick, and Treasury Secretary Bessent, with Sam Altman suggesting all leading AI firms allot 5% of equity to a public wealth fund modeled on the Alaska Permanent Fund. (https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html)
+
+Google has delayed the launch of Gemini 3.5 Pro to July 17, 2026 after scrapping its original base-model architecture for a full rebuild aimed at fixing recursive tool-calling and SVG-generation failures. (https://www.techtimes.com/articles/320308/20260713/gemini-35-pro-targets-july-17-after-full-rebuild-every-spec-remains-unconfirmed.htm)
+
+
+🚀 Startups
+
+Munich-based defense-AI startup Helsing raised a $1.8 billion Series E at an $18 billion valuation on July 13, 2026 — Europe's largest-ever defense-tech funding round — with its AI-guided drones already deployed by NATO-aligned militaries including Ukraine. (https://www.cnbc.com/2026/07/13/helsing-fund-raise-defense-18-billion.html)
+
+Seattle spatial-AI startup Augmodo raised $21 million (announced July 13, 2026) at a $350 million valuation to expand its AI-camera workforce-tracking technology beyond retail into warehouses, factories, and hospitals. (https://www.geekwire.com/2026/augmodo-raises-21m-to-push-its-spatial-ai-beyond-just-retail-toward-the-broader-physical-workforce/)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+London construction-procurement startup Prolo raised a £4.2 million seed round (announced July 14, 2026) led by Triple Point Ventures, combining AI-powered material sourcing with up to 90 days of flexible credit to help small contractors take on larger projects. (https://tech.eu/2026/07/14/prolo-raises-ps42m-to-modernise-construction-procurement/)
+
+Meta committed more than $50 billion to its Hyperion data-center campus in Richland Parish, Louisiana (announced July 13, 2026) — expanding it to 5 gigawatts and nearly 10 million square feet and supporting over 7,500 construction jobs at peak — in what will be one of the largest data centers ever built. (https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html)
+
+
+📋 AI in Procurement & Proposal Writing
+
+Lohfeld Consulting's July 2026 State of Proposal Management report found 48% of GovCon proposal teams cite rising bid volume against shrinking staff as their top challenge, with only 10% having made structural fixes like AI-driven compliance-matrix automation to keep pace. (https://lohfeldconsulting.com/blog/2026/07/how-the-state-of-proposal-management-is-changing-in-2026/)
+
+The Pentagon awarded an $80 million task order (announced July 6, 2026) for AI-enabled counter-drone technology to defend Air Force bases, part of a broader wave of AI-focused defense procurement. (https://defensescoop.com/2026/07/06/pentagon-awards-task-order-to-av-for-titan-drone-defense/)
