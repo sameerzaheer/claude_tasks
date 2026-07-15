@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 15, 2026
+
+🤖 AI & LLMs
+
+China's new "Interim Measures for the Administration of AI Anthropomorphic Interactive Services" took effect July 15, 2026, forcing ByteDance's Doubao and Alibaba's Qwen to disable custom, humanlike AI agent features and companion chatbots nationwide. (https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom)
+
+Anthropic is in early talks with Samsung Electronics (reported July 2, 2026) to build a custom AI inference chip on Samsung's 2nm process, as it looks to diversify beyond Nvidia GPUs, AWS Trainium and Google TPUs amid a ballooning compute bill. (https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/)
+
+🚀 Startups
+
+AI drug-discovery startup Chai Discovery raised a $400 million Series C (announced July 14, 2026) at a $3.8 billion valuation — tripling in seven months — to scale its AI-designed antibody and molecular-design platform already used by Eli Lilly, Pfizer and Novartis. (https://www.biospace.com/press-releases/chai-discovery-announces-400m-series-c-to-advance-ai-driven-molecular-design)
+
+Shenzhen-based AI smart-glasses startup Even Realities raised $150 million in pre-Series B funding (announced July 6, 2026) led by Meituan and Tencent, hitting a $1 billion valuation with privacy-focused, camera-free glasses positioned against Meta. (https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Construction automation startup TerraFirma raised $115 million (announced July 14, 2026), including a $100 million Series A led by Kleiner Perkins, for technology that lets crews remotely pilot excavators and other heavy equipment with joysticks. (https://siliconangle.com/2026/07/14/construction-automation-startup-terrafirma-raises-115m/)
+
+Zero RFI and Track3D announced a partnership (July 14, 2026) to bring AI-powered construction progress tracking directly to building owners and developers, aiming to give them more objective, real-time project intelligence. (https://www.globenewswire.com/news-release/2026/07/14/3327023/0/en/Zero-RFI-and-Track3D-Partner-to-Bring-AI-powered-Construction-Progress-Tracking-to-Next-Generation-of-Owner-Representation.html)
+
+📋 AI in Procurement & Proposal Writing
+
+Guthrie AI raised a $4 million seed round (announced July 13, 2026) led by Chicago Ventures to grow its AI-powered "Virtual Bid Assistants," which have helped glass and construction contractors increase bidding capacity by up to 70%. (https://techstartups.com/2026/07/13/guthrie-ai-raises-4-million-to-automate-construction-bidding-and-help-glass-contractors-bid-70-more-with-virtual-bid-assistants/)
+
+The GSA held a public listening session on its revised AI/LLM government-contracting clause on July 14, 2026 (comments due August 3), as federal contracting officials increasingly deploy AI tools like AlphaSix's Quantify to auto-score and screen proposals before human evaluators see them. (https://federalnewsnetwork.com/acquisition-policy/2026/07/gsa-praised-for-initial-changes-to-ai-draft-regs-but-more-work-needed/)
