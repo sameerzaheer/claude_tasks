@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 16, 2026
+
+🤖 AI & LLMs
+
+Anthropic, Blackstone, and Hellman & Friedman officially launched Ode with Anthropic (July 15, 2026), a standalone enterprise AI services firm built on the Fractional AI acquisition and backed by Goldman Sachs, General Atlantic, Apollo, GIC and Sequoia to help midsize enterprises move AI beyond pilots. (https://www.businesswire.com/news/home/20260715205134/en/Anthropic-Blackstone-and-Hellman-Friedman-Introduce-Ode-with-Anthropic-an-Enterprise-AI-Services-Firm)
+
+Meta will begin manufacturing its first in-house AI chip, code-named Iris, in September 2026 (designed with Broadcom, fabricated by TSMC) as part of a plan to double its computing capacity to 14 gigawatts by 2027 and cut its reliance on Nvidia and AMD. (https://www.cnbc.com/2026/07/09/meta-to-put-ai-chip-into-production-in-september-report.html)
+
+🚀 Startups
+
+Indian AI coding startup Emergent became a unicorn with a $130 million Series C (announced July 15, 2026) led by Creaegis at a $1.5 billion valuation — a five-fold jump in just six months. (https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/)
+
+Chinese AI video-generation startup PixVerse (AIsphere) raised a $439 million Series C extension led by Alibaba (completed July 14, 2026), pushing its valuation past $2 billion as it races to build interactive world models. (https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Amsterdam-based Monumental raised a $32 million Series B (announced July 15, 2026) led by Khosla Ventures to scale its fleet of 150+ AI-powered bricklaying robots — built by ex-Palantir founders — into the US market. (https://fortune.com/2026/07/15/construction-robotics-startup-monumental-raises-32-million-from-khosla-ventures-to-tackle-labor-shortages/)
+
+Construction fintech startup Agave raised a $15 million Series A (announced July 7, 2026) led by Accel to expand its AI platform that automates accounts-payable processing, expense management and vendor compliance for contractors, now used across 80,000+ projects representing over $100 billion in project volume. (https://www.businesswire.com/news/home/20260707861533/en/Agave-Raises-$15M-Series-A-to-Bring-AI-to-Construction-Financials)
+
+📋 AI in Procurement & Proposal Writing
+
+CAI and the New York State Association of Counties launched a shared statewide AI evaluation platform (July 15, 2026), giving New York's 62 counties a pooled, standardized way to assess AI tools and make confident procurement decisions. (https://www.globenewswire.com/news-release/2026/07/15/3327821/0/en/CAI-and-NYSAC-Launch-Statewide-AI-Evaluation-Platform-for-New-York-Counties.html)
+
+HappyCo expanded its JoyAI platform into vendor sourcing with "Sourcing by HappyCo" (June 2026), an AI tool that drafts scopes of work, researches qualified vendors, and solicits and levels competitive bids for the 6+ million multifamily housing units it serves. (https://www.businesswire.com/news/home/20260616360255/en/Sourcing-by-HappyCo-Expands-AI-into-Vendor-Bidding)
