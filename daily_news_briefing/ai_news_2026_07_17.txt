@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 17, 2026
+
+🤖 AI & LLMs
+
+Moonshot AI released Kimi K3 (July 16, 2026), a 2.8-trillion-parameter open-weight MoE model that Moonshot claims performs competitively with Claude Fable 5 and outperforms Opus 4.8 and GPT-5.6 Sol, at roughly a third of Fable 5's per-token output price. (https://siliconangle.com/2026/07/16/chinas-moonshot-throws-gauntlet-kimi-k3-worlds-largest-open-weights-model/)
+
+Anthropic restored Claude Fable 5 and Mythos 5 on July 1, 2026 after a 19-day U.S. export-control suspension triggered when Amazon researchers found a jailbreak that got the model to help identify and exploit a software flaw, adding a new safety classifier that now blocks the technique in over 99% of attempts. (https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html)
+
+🚀 Startups
+
+AI inference startup Fireworks raised a $1.505 billion Series D (announced July 16, 2026) at a $17.5 billion valuation, backed by Nvidia, Index Ventures and TCV, as it surpasses $1 billion in annualized revenue serving over 40 trillion tokens a day. (https://siliconangle.com/2026/07/16/ai-infrastructure-startup-fireworks-closes-1-5b-round-17-5b-valuation/)
+
+Zoom agreed to acquire Seattle AI startup Common Room (announced July 2, 2026), an AI-native go-to-market intelligence platform used by Atlassian, Anthropic and Snowflake, to add buyer-intelligence signals to its AI Revenue Platform. (https://www.geekwire.com/2026/zoom-snaps-up-seattle-startup-common-room-to-bolster-ai-powered-sales-tools/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Singapore's dConstruct closed a $125 million Series A (announced July 3, 2026), one of Southeast Asia's largest-ever robotics raises, to scale autonomous construction robots that operate in GPS-denied environments for clients including the Defence Science and Technology Agency. (https://technode.global/2026/07/03/singapores-dconstruct-raises-125m-series-a-as-robonexus-accelerator-concludes-inaugural-cohort/)
+
+Suffolk Construction is embedding AI engineers directly on its $1.1 billion Southwest Florida International Airport terminal expansion (reported July 15, 2026), one of the first projects under its new "Jobsite of the Future" program focused on AI-assisted design coordination, scheduling and process. (https://www.businessobserverfl.com/news/2026/jul/15/construction-giant-swfl-airport-project/)
+
+📋 AI in Procurement & Proposal Writing
+
+Ramp launched a fleet of AI agents across its procurement platform (April 29, 2026) that triage purchase requests, source vendors, review contract terms and run compliance checks, with customers cutting vendor costs by 16% annually and manual purchasing time by 46 hours a month. (https://www.pymnts.com/news/b2b-payments/2026/ramp-launches-ai-agents-to-automate-corporate-procurement/)
+
+Enterprise procurement startup Lio raised a $30 million Series A (March 5, 2026) led by Andreessen Horowitz to grow its agentic AI platform, which reads documents, evaluates suppliers and negotiates terms to compress procurement processes that once took weeks into minutes. (https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/)
