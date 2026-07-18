@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 18, 2026
+
+🤖 AI & LLMs
+
+China's Xi Jinping launched the World Artificial Intelligence Cooperation Organisation (WAICO), a new 29-nation coalition headquartered in Shanghai, at the 2026 World AI Conference on July 17, 2026, positioning it as a counterweight to U.S.-led AI governance. (https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it)
+
+Mira Murati's Thinking Machines Lab released Inkling (July 15, 2026), its first open-weight model — a 975B-parameter multimodal MoE system reasoning over text, image and audio under an Apache 2.0 license — debuting as the leading U.S. open-weights model on the Artificial Analysis Intelligence Index. (https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/)
+
+🚀 Startups
+
+Toyota-backed humanoid/general-purpose robotics startup Walden Robotics launched from stealth (July 15, 2026) with a $300 million seed round at a $1.1 billion valuation, having already moved its AI robots from pilot to real production work on a Toyota factory line in under two months. (https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation)
+
+Public-safety drone maker BRINC raised a $125 million round led by Motorola Solutions (announced July 14, 2026) to expand U.S. drone manufacturing and put a 911-response drone on roughly 80,000 police and fire station roofs, as import restrictions squeeze Chinese-made drones out of the market. (https://www.geekwire.com/2026/motorola-leads-125m-round-for-brinc-fueling-911-drone-expansion-amid-u-s-import-crackdown/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Japan's top robotics and manufacturing firms — including Shimizu Corporation, which is piloting NVIDIA's video-analytics platform for construction-site worker safety — joined NVIDIA's Cosmos Coalition (announced July 16-17, 2026) to build open physical-AI models for real-world deployment. (https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier)
+
+Topcon Positioning Systems and GreenValley International announced a strategic partnership (July 17, 2026) to build AI-enhanced LiDAR and point-cloud tools — including automated feature extraction and multi-sensor integration — for surveying, mapping and construction. (https://highways.today/2026/07/17/topcon-greenvalley-alliance/)
+
+📋 AI in Procurement & Proposal Writing
+
+GovSignals acquired Turingon, maker of Capture Pilot and Proposal Pilot (announced July 14, 2026), folding a veteran federal capture-and-proposal team into its FedRAMP High and DoW IL5-cleared government-contracting AI platform. (https://www.govsignals.ai/blog/govsignals-acquires-turingon-ai/)
+
+Salesforce made its Agentforce B2B Buyer Agent generally available (July 6, 2026), letting business buyers complete procurement — SKU confirmation via photo, contract pricing, order checkout — entirely by texting requests over WhatsApp and SMS. (https://www.salesforce.com/news/stories/agentforce-commerce-announcement/)
