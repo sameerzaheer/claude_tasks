@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 19, 2026
+
+🤖 AI & LLMs
+
+Microsoft is preparing to launch "Project Perception" this month, a lower-cost multi-model AI security tool that routes vulnerability scanning and patching across Microsoft, OpenAI and Anthropic models to challenge Anthropic's pricier Mythos platform (reported July 17, 2026). (https://www.techrepublic.com/article/news-microsoft-project-perception-ai-security-tool/)
+
+Google delayed the launch of Gemini 3.5 Pro for a third time (reported July 16, 2026) after a ground-up rebuild still failed to clear internal hallucination-rate and coding-reliability standards, prompting Google to weigh a stopgap release instead. (https://9to5google.com/2026/07/16/gemini-3-5-pro-delays/)
+
+🚀 Startups
+
+Daniel Ek's body-scanning preventive-health startup Neko Health raised a $700 million Series C (announced July 15, 2026) led by Lightspeed Venture Partners and O.G. Venture Partners at a $7 billion valuation ahead of its US launch. (https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/)
+
+European defense-AI startup Helsing raised $1.8 billion in a Series E (announced July 13, 2026) at an $18 billion valuation, Europe's biggest-ever defense-tech funding round, backed by JPMorgan Chase, Lightspeed and Iconiq. (https://www.cnbc.com/2026/07/13/helsing-fund-raise-defense-18-billion.html)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Skanska USA Building formed a new Digital Transformation and Solutions Team (reported July 17, 2026), uniting its Data Solutions, Emerging Tech and AI groups under new SVP Will Senner to scale tools like its Expert Sidekicks AI assistants, now used across 500+ projects. (https://www.skanska.com/us/en/media/press-releases/2026/skanska-usa-building-establishes-digital-transformation-and-solutions-team-to-expand-the-use-of-ai-across-the-business)
+
+Austin-based TerraFirma, founded by ex-SpaceX engineers, raised $115 million including a $100 million Series A led by Kleiner Perkins (announced July 14, 2026) to scale its AI-enabled, remote-operated semi-autonomous heavy-equipment platform for construction sites. (https://www.cnbc.com/2026/07/14/terrafirma-construction-tech-spacex.html)
+
+📋 AI in Procurement & Proposal Writing
+
+The Defense Intelligence Agency issued a request for information (June 17, 2026, reported through late June) for a next-generation AI-powered "acquisition platform" that would use generative AI to streamline procurement planning, proposal evaluation and compliance checks, with industry white papers due July 2. (https://defensescoop.com/2026/06/22/dia-ai-powered-platform-streamline-procurement-system/)
+
+London-based Prolo raised £4.2 million (€4.9M) in oversubscribed seed funding led by Triple Point Ventures (announced July 14, 2026) to expand its AI-powered outsourced procurement platform for SME construction contractors, which sources trade rates from 185+ suppliers via WhatsApp. (https://techfundingnews.com/prolo-secures-4-2m-triple-point-ventures-construction-procurement/)
