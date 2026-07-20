@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 20, 2026
+
+🤖 AI & LLMs
+
+The European Commission issued binding Digital Markets Act measures on July 16, 2026 ordering Google to give rival AI assistants system-level access to Android — letting users invoke competitors via voice command and delegate in-app tasks — while also forcing Google to share Search data with rival engines starting January 2027. (https://digital-markets-act.ec.europa.eu/commission-provides-guidance-google-ai-interoperability-android-and-sharing-google-search-data-under-2026-07-16_en)
+
+Huawei publicly unveiled its Atlas 950 SuperPoD AI supernode at the World AI Conference in Shanghai (July 16-17, 2026), claiming 6.7x the compute and 15x the memory of Nvidia's next-gen NVL144 platform via its proprietary UnifiedBus interconnect. (https://www.huaweicentral.com/huawei-atlas-950-superpod/)
+
+🚀 Startups
+
+Ex-Anthropic researchers launched Mirendil with a $200 million seed round led by a16z and Kleiner Perkins at a $1 billion valuation — one of AI's largest-ever seed rounds — to build frontier models that automate AI research itself for organizations outside the major labs. (https://techfundingnews.com/ex-anthropic-researchers-raise-200m-just-weeks-after-quitting-to-build-ai-that-creates-better-ai/)
+
+Enterprise AI-agent startup Lyzr raised a $100 million Series B (announced July 9, 2026) at a roughly $500 million valuation, notably letting its own AI agent run and manage the entire fundraising process. (https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+London-based physical-AI startup HIVE raised a $15 million pre-Series A (announced July 7, 2026) led by SuperSeed to build a "silicon brain" that retrofits construction, warehouse and factory machines for autonomous operation, aiming to cut machine-hour costs by 80%. (https://www.therobotreport.com/hive-brings-in-15m-to-build-physical-ai-for-industrial-machines/)
+
+South Korea's Daedong Robotics raised 5 billion won (~$3.3M) in Series A funding (announced July 6, 2026) from GS Engineering & Construction- and POSCO-affiliated venture funds to expand its AI field robots from agriculture into construction and manufacturing job sites. (https://www.asiae.co.kr/en/article/2026070610074766914)
+
+📋 AI in Procurement & Proposal Writing
+
+GovCon IT firm Empower AI completed its acquisition of Highlight Technologies (effective July 7, 2026), expanding its AI, cloud and data-management capabilities to support federal agency modernization and procurement programs. (https://www.govconwire.com/articles/empower-ai-highlight-technologies-ai-cloud)
+
+KBR won a recompete contract worth up to $200 million (reported mid-July 2026) to apply AI to modernize U.S. transportation-network systems under a Department of Transportation Volpe Center award. (https://www.govconwire.com/articles/kbr-dot-ai-volpe-center-contract-award)
