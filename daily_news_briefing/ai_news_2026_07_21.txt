@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 21, 2026
+
+🤖 AI & LLMs
+
+AI chip startup Etched is in talks for a $20 billion valuation in a round led by Jane Street — quadrupling its prior valuation — while separately raising capital at a $10 billion valuation via Sequoia, as investors chase alternatives to Nvidia for inference compute (reported July 20, 2026). (https://www.pymnts.com/news/artificial-intelligence/2026/ai-chip-startup-etched-eyes-20-billion-valuation/)
+
+SAP completed its acquisition of Prior Labs and committed more than €1 billion over four years to build the 18-month-old German startup into a leading European frontier AI lab focused on tabular foundation models for structured business data (announced July 20, 2026). (https://news.sap.com/2026/07/sap-completes-prior-labs-acquisition/)
+
+🚀 Startups
+
+Databricks signed a term sheet for a new strategic funding round at a $188 billion valuation led by Coatue (announced July 16, 2026), with the capital earmarked to accelerate its Unity AI Gateway, Genie AI coworker and Lakebase serverless database for AI agents. (https://www.databricks.com/company/newsroom/press-releases/databricks-raising-strategic-round-funding-188-billion-valuation)
+
+Tempus AI signed a definitive agreement to acquire genomics rival Personalis in a roughly $1.5 billion stock deal (announced July 20, 2026), more tightly integrating Personalis' molecular residual disease cancer testing into Tempus' AI-enabled precision oncology platform. (https://www.tempus.com/news/pr/tempus-to-acquire-personalis-integrating-mrd/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Espoo-based Hyperion Robotics raised €6.4 million ($7.4M) in growth funding (announced mid-July 2026) to scale its AI-powered robotic microfactories, which manufacture bridges, substations and water-infrastructure components on-site across Europe instead of shipping precast parts from central plants. (https://www.eu-startups.com/2026/07/espoo-based-hyperion-robotics-raises-e6-4-million-to-bring-physical-ai-to-european-infrastructure/)
+
+Global engineering firm Arup partnered with YJK to launch "AI Designer" in Hong Kong (announced July 15, 2026), an AI-enabled structural-design optimization platform that cut design iteration time by roughly 82% and material usage by 10-20% in benchmark testing on reinforced concrete, steel and piled-foundation design. (https://www.arup.com/en-us/news/arup-partners-yjk-to-launch-ai-designer-in-hong-kong-to-advance-ai-enabled-structural-engineering/)
+
+📋 AI in Procurement & Proposal Writing
+
+The Pentagon is opening wider, faster AI-era contracting paths — including expanded Commercial Solutions Openings — for defense startups building drones, AI and autonomous systems, even as members of Congress raise oversight concerns about the pace of the procurement overhaul (reported July 20, 2026). (https://yournews.com/2026/07/20/7118700/pentagon-opens-wider-contracting-path-for-defense-startups-as-congress/)
+
+Following GSA's July 14 listening session, contractors told regulators the revised draft AI/LLM government-contracting clause has improved but still needs clearer technical definitions and closer alignment with commercial practice before the August 3 public-comment deadline. (https://www.nextgov.com/acquisition/2026/07/gsas-draft-ai-procurement-rule-has-improved-needs-further-reforms-contractors-say/414788/)
