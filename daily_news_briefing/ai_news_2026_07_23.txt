@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 23, 2026
+
+🤖 AI & LLMs
+
+OpenAI launched Presence (July 22, 2026), an enterprise platform for deploying trusted AI voice and chat agents with built-in guardrails and a Codex-powered feedback loop; on OpenAI's own support line it already resolves 75% of inbound calls without human help. (https://openai.com/index/introducing-openai-presence/)
+
+Microsoft and Mistral AI expanded their strategic partnership (announced July 21, 2026) via a multibillion-dollar deal bringing thousands of Nvidia Vera Rubin GPUs to European data centers and Mistral's models into Azure, Foundry and Copilot Studio, including fully offline "sovereign" deployments for regulated industries. (https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/)
+
+🚀 Startups
+
+Legal-AI unicorn Harvey acquired New York-based investment-platform startup Benchmark (announced July 16, 2026), its third acquisition of the year, to expand into AI-powered due-diligence and deal-document review for asset managers. (https://www.law.com/legaltechnews/2026/07/16/harvey-continues-acquisition-streak-with-addition-of-investment-platform-benchmark-/)
+
+AI-3D generation startup Meshy raised nearly $400 million in a Series B (announced July 21, 2026) at a $1.5 billion valuation — the largest round to date for an AI-3D specialist — as its annual recurring revenue grows roughly 12x year-over-year. (https://www.prnewswire.com/news-releases/meshy-raises-nearly-400-million-at-a-1-5-billion-valuation-the-largest-round-to-date-in-ai-3d-302828384.html)
+
+🏗️ AI in AEC, Construction & Engineering
+
+University of Miami researchers unveiled CivilBot, an AI tool that converts plain-language structural descriptions directly into structural-analysis model code, cutting modeling time from days to hours — it generated a full model of Miami's Freedom Tower in about five minutes. (https://techxplore.com/news/2026-07-civilbot-faster.html)
+
+McKinsey's new report "How agentic AI is transforming the AEC industry" (published July 15, 2026) found early adopters seeing real productivity gains in design, modeling and feasibility work, and urged firms to prioritize 3-5 high-value workflows rather than chase AI broadly. (https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights/how-ai-is-reshaping-the-future-of-the-aec-industry)
+
+📋 AI in Procurement & Proposal Writing
+
+New York startup Cascade raised a $3.5 million seed round (announced July 22, 2026) to help architecture, engineering and construction firms use AI to predict which upcoming projects they're most likely to win, already surfacing over $10 billion in opportunities for clients. (https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/)
+
+JAGGAER's AI-enabled source-to-pay platform went live for Daimler Truck AG's indirect procurement (announced July 22, 2026), centralizing and digitizing the manufacturer's requisition-to-order process for IT equipment, safety materials and production machines. (https://www.jaggaer.com/press-release/digital-procurement-vehicle-manufacturer-jaggaer-one)
