@@ -1,0 +1,28 @@
+Daily AI News Briefing — July 25, 2026
+
+🤖 AI & LLMs
+
+Anthropic launched Claude Opus 5 (July 24, 2026), a cheaper alternative to Fable 5 with a new low/medium/high effort toggle to balance cost and capability, becoming the default model on Claude Max and the strongest available on Claude Pro. (https://www.anthropic.com/news/claude-opus-5)
+
+Google published its first AI & Economy ATLAS report (July 23, 2026), analyzing 15 million Gemini interactions across 800 occupations and finding AI use has reached 68% of occupations but fully automates fewer than 10% of tasks. (https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/)
+
+
+🚀 Startups
+
+Travis Kalanick's industrial/physical-AI startup Atoms raised a $1.7 billion equity round led by Andreessen Horowitz (announced July 22, 2026), with Ben Horowitz joining the board and Uber also investing. (https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/)
+
+Chinese humanoid-robotics startup Psibot (Lingchu Intelligence) hit a $1.48 billion valuation (reported July 23, 2026) in a near-$100 million round led by carmaker Chery Automobile. (https://www.bloomberg.com/news/articles/2026-07-23/china-s-psibot-becomes-latest-ai-startup-to-hit-1-billion-value)
+
+
+🏗️ AI in AEC, Construction & Engineering
+
+Autodesk released a Tech Preview of its official open-source Revit Public MCP Server (announced June 17, 2026), giving any MCP-compatible AI agent — Claude, Cursor, Copilot — 102 tools to read and write live BIM data directly. (https://www.autodesk.com/blogs/aec/2026/06/17/revit-public-mcp-server/)
+
+Three ex-SpaceX engineers launched 1872, an AI-powered autonomous steel fabrication factory in Cincinnati, closing a $15 million seed round (announced July 22, 2026) to automate heavy steel fabrication for modular construction and infrastructure. (https://lasvegassun.com/news/2026/jul/22/1872-launches-autonomous-steel-fabrication-factory/)
+
+
+📋 AI in Procurement & Proposal Writing
+
+The Technology Modernization Fund is soliciting federal agency proposals for AI adoption and permitting-modernization projects, with initial submissions due July 24, 2026 and selections expected by September 30. (https://www.executivegov.com/articles/tmf-proposal-calls-federal-ai-permitting)
+
+Contract-AI platform IntelAgree launched Saige Assist: Agent (announced July 15, 2026), a general-purpose contract agent in private beta that works from a company's own clause library, playbooks and negotiation history to answer questions, compare versions, redline, and make approval-gated updates. (https://www.intelagree.com/press/intelagree-launches-saige-assist-agent-one-ai-agent-for-your-entire-contract-portfolio)
