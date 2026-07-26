@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 26, 2026
+
+🤖 AI & LLMs
+
+AMD and Anthropic announced a strategic partnership (July 22, 2026) under which Anthropic will deploy up to 2 gigawatts of AMD Instinct MI450 GPUs starting in 2027, with AMD making a strategic equity investment of up to $5 billion in the AI lab. (https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html)
+
+Alibaba previewed Qwen3.8-Max (announced July 19, 2026), a 2.4-trillion-parameter multimodal model that Alibaba claims performs second only to Anthropic's Claude Fable 5 among frontier models, arriving just days after Moonshot's Kimi K3 open-weight launch. (https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/)
+
+🚀 Startups
+
+Stripe is in talks to acquire AI model marketplace OpenRouter in a deal that could value the startup near $10 billion (reported July 24, 2026), roughly 8x its $1.3 billion valuation from a May funding round. (https://www.axios.com/2026/07/24/stripe-openrouter-merger-ai-currency)
+
+AI-native endpoint security startup Glow emerged from stealth as an instant unicorn (July 22, 2026), raising a $180 million all-equity Series A at a $1.2 billion valuation led by Sequoia, Cyberstarts and Greenoaks on a bet that legacy tools like CrowdStrike are already obsolete in the AI era. (https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Sitemetric launched the first agentic AI for integrated construction site access control and monitoring (announced July 2, 2026), unifying smart turnstiles, worker badges, AI cameras and site sensors so agents can autonomously surface risks and take action across a platform already live on hundreds of major U.S. projects. (https://www.prnewswire.com/news-releases/sitemetric-launches-the-first-agentic-ai-for-integrated-construction-site-access-control-and-monitoring-302816534.html)
+
+Siemens and HD Hyundai signed a nine-figure deal (announced July 24, 2026) establishing Siemens as technology partner for an AI-powered digital shipyard aimed at modernizing US shipbuilding. (https://www.hpcwire.com/aiwire/2026/07/24/siemens-and-hd-hyundai-to-establish-ai-powered-digital-shipyard-to-modernize-us-shipbuilding/)
+
+📋 AI in Procurement & Proposal Writing
+
+Levelpath was named a Leader in the IDC MarketScape for Worldwide AI-Enabled Spend Orchestration (announced July 21, 2026), recognizing its agentic procurement platform that lets teams design custom sourcing-to-payment workflows in plain language with human-in-the-loop control. (https://finance.yahoo.com/technology/ai/articles/levelpath-named-leader-idc-marketscape-153300891.html)
+
+Legal-tech startup Flank launched Flank Record (July 23, 2026), an autonomous agentic contract system of record that connects to a company's existing systems to consolidate contracts, extract metadata at signature, and answer questions under attorney supervision. (https://www.artificiallawyer.com/2026/07/23/flank-launches-record-agentic-contract-truth-system/)
