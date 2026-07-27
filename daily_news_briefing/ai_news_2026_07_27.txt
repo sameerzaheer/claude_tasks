@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 27, 2026
+
+🤖 AI & LLMs
+
+Moonshot AI released the full open-weight version of Kimi K3 — a 2.8-trillion-parameter model and the largest open-weight release in AI history — on Hugging Face on July 27, 2026, under a Modified MIT license. (https://www.techtimes.com/articles/321499/20260724/kimi-k3-open-weights-drop-july-27-near-frontier-coding-undisclosed-hallucination-risk.htm)
+
+Nvidia is in talks to guarantee roughly $250 billion of financing for OpenAI's planned 10-gigawatt AI data center campus in Ohio (reported July 26, 2026), a project that could ultimately top $500 billion and would give OpenAI its first path to owning its own infrastructure instead of renting it from Microsoft, Amazon and Oracle. (https://www.brecorder.com/news/40431959/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-wsj-reports)
+
+🚀 Startups
+
+Email-security startup AegisAI, which builds its own LLMs to defend the inbox, raised a $36 million Series A led by Battery Ventures (July 23, 2026) to fight a wave of AI-generated spear phishing that grew 5x in a year. (https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/)
+
+AI-native design platform Paper raised a $34 million Series A led by Accel and ICONIQ (July 23, 2026) to build a shared design canvas for humans and AI agents, after growing ARR 25x since its early-2026 launch. (https://www.businesswire.com/news/home/20260723608438/en/Paper-Raises-$34-Million-Series-A-with-Accel-and-ICONIQ-to-Build-the-Design-Platform-for-the-Agentic-Era)
+
+🏗️ AI in AEC, Construction & Engineering
+
+RIC Robotics and K4K Construction completed printing of Sacramento's first permitted 3D concrete-printed home in just 12 days (July 25, 2026), working with the City of Sacramento to create a code-compliant pathway for future concrete-printed residential construction. (https://www.constructionowners.com/press-release/ric-robotics-and-k4k-construction-complete-printing-of-sacramentos-first-permitted-3d-concrete-printed-home)
+
+Nemetschek Group India partnered with AEC-tech education platform Novatr (announced July 16, 2026) to embed BIM tools like Archicad and Vectorworks into hands-on training programs aimed at closing India's digital-construction skills gap. (https://www.nemetschek.com/en/news-media/nemetschek-and-novatr-join-hands-build-indias-industry-ready-aec-workforce)
+
+📋 AI in Procurement & Proposal Writing
+
+Major corporations including Walmart, Maersk and Vodafone are now running AI agents to negotiate binding supplier contracts at a volume and consistency no human team can match, according to new PYMNTS reporting published July 27, 2026. (https://www.pymnts.com/news/artificial-intelligence/2026/procurement-teams-use-ai-to-reach-deals-humans-cant)
+
+Gartner's "Predicts 2026: Procurement Taking Steps to Become AI-First" report warns that only 20% of procurement organizations will have the data and process maturity to run multi-agent systems by 2027, and nearly half of agentic AI procurement projects won't survive beyond a year. (https://procurementmag.com/news/how-agentic-procurement-rewards-the-prepared)
