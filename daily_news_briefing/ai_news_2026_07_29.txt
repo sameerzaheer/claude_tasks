@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 29, 2026
+
+🤖 AI & LLMs
+
+Over 1,100 employees at OpenAI, Anthropic, Google DeepMind and Meta — including chief scientists Jared Kaplan, Jakub Pachocki and Shengjia Zhao — signed a "Pacing the Frontier" statement (July 28, 2026) urging the U.S. government to help build international tools to slow frontier AI development before systems can improve themselves faster than humans can understand or control. (https://www.cnn.com/2026/07/28/tech/ai-development-tech-employees-open-letter)
+
+Nvidia is pursuing more than $750 billion in new AI infrastructure deals, including a $1.5 billion prepayment partnership with chip-packaging firm Amkor to rebuild U.S. AI chip supply chains and a tie-up with SK Hynix expected to generate over $500 billion in business (reported July 27-28, 2026). (https://finance.yahoo.com/technology/ai/articles/nvidia-pursues-750-billion-ai-205709197.html)
+
+🚀 Startups
+
+Tesla quietly closed a roughly $1.95 billion acqui-hire of an undisclosed AI hardware startup, revealed only in a footnote of its Q2 10-Q filing with no company name disclosed (reported July 24, 2026). (https://electrek.co/2026/07/24/tesla-secret-2-billion-ai-hardware-acquisition-closes/)
+
+Richard Socher's Recursive Superintelligence signed a $410 million multiyear compute deal with AWS (July 28, 2026) to scale its self-improving AI systems, with Socher calling it likely the smallest such deal the company will sign in the years ahead. (https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Autodesk agreed to acquire facility-maintenance platform MaintainX for $3.6 billion in its largest-ever deal, extending its platform beyond design into AI-driven building operations and maintenance data. (https://aecmag.com/operations/autodesk-buys-maintainx-for-3-6bn/)
+
+London/Paris industrial-AI startup Arrakis emerged from stealth with $38 million in total funding — including a $30 million Series A led by Blossom Capital (announced July 22, 2026) — to deploy AI agents into mission-critical operations across aerospace, energy, logistics, and construction/engineering. (https://fortune.com/2026/07/22/arrakis-a-startup-betting-ais-biggest-payoff-is-in-industrial-sectors-not-office-work-emerges-from-stealth-with-38-million-in-venture-funding/)
+
+📋 AI in Procurement & Proposal Writing
+
+An IPWatchdog legal analysis (July 21, 2026) warns that the step-by-step operation logs generative AI creates for contractors are inadvertently exposing proprietary "secret sauce" logic to government data-ownership claims under GSA's proposed AI procurement clause, opening a fault line between trade-secret protection and federal IP rights. (https://ipwatchdog.com/2026/07/21/seizing-secret-sauce-how-generative-ai-is-breaking-government-contracting-and-ip-law/)
+
+Federal agencies continued awarding AI-focused contracts this week, including a $4.3 million Air Force award to BAE Systems for AI Command and Control development and a Charles River Analytics contract for AI-powered military decision-making tools using neurosymbolic agents. (https://www.govconwire.com/articles/air-force-contract-opportunities-cso-baa)
