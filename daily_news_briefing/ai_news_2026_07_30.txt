@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 30, 2026
+
+🤖 AI & LLMs
+
+The U.S. FCC banned imports of new foreign-made humanoid and quadruped robots (announced July 28-29, 2026) on national-security grounds, targeting China's roughly 85% share of the global humanoid-robot market. (https://www.cnn.com/2026/07/29/tech/us-china-robot-ban-intl-hnk)
+
+Microsoft publicly launched Project Perception (July 27, 2026), an agentic AI cybersecurity system anchored by its first custom security model, MAI-Cyber-1-Flash, which it claims outperforms Anthropic's Mythos, Google Gemini and OpenAI's GPT on security benchmarks at roughly half the cost, entering public preview August 3. (https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/)
+
+🚀 Startups
+
+Foundational Industries emerged with a $25 million seed round (reported July 30, 2026) led by BoxGroup and Zigg Ventures to build "software-native" factories where AI runs the entire manufacturing operation rather than bolting automation onto an old assembly line, starting with data-center hardware. (https://fortune.com/2026/07/30/forget-robots-assembly-lines-foundational-industries-ai-to-run-entire-factory-manufacturing-china-robotics/)
+
+Nvidia partner ChipAgents raised a $60 million extension (announced July 29, 2026) led by B Capital to scale its AI-agent-driven chip design and verification software, bringing its total funding to $131 million. (https://finance.yahoo.com/technology/ai/articles/nvidia-partner-chipagents-raises-60-114953354.html)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Henry AI raised a $16.5 million Series A (announced July 29, 2026) led by FirstMark Capital with Thomson Reuters Ventures, launching "Henry Deal" to automate back-office deal production — offering memorandums, underwriting packages — for commercial real estate firms and cutting deliverable production time by 90%. (https://www.prnewswire.com/news-releases/henry-ai-raises-16-5m-series-a-and-launches-henry-deal-302837784.html)
+
+Dubai/London-based 1001 raised a $30 million Series A led by Lux Capital (announced late June 2026) to build "sovereign" AI operating systems that give organizations a live digital model of critical infrastructure — aviation, ports, energy and construction — across the GCC. (https://www.wamda.com/2026/06/1001-closes-30-million-series-a-build-sovereign-ai-gcc)
+
+📋 AI in Procurement & Proposal Writing
+
+Supply-chain AI startup Freehand raised $75 million (announced July 29, 2026) co-led by Battery Ventures and NewRoad Capital Partners; its AI agents already manage sourcing and spend for Meta, Unilever, Johnson & Johnson, Pfizer and Cardinal Health, recovering 5-10% of spend and completing workflows 5-7x faster. (https://www.globenewswire.com/news-release/2026/07/29/3335085/0/en/Freehand-Raises-75M-to-Scale-AI-Teams-Managing-Supply-Chain-Spend-for-Fortune-500-Companies.html)
+
+New Ardent Partners/Ivalua research (published July 2026) found more than one-third of procurement organizations have no formal AI governance in place even as over 80% plan to deploy agentic AI within three years — a widening gap between AI ambition and readiness. (https://www.prnewswire.com/news-releases/new-research-by-ardent-partners-and-ivalua-reveals-gap-between-ai-ambition-and-execution-in-procurement-302832556.html)
