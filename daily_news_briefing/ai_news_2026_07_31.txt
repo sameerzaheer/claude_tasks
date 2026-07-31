@@ -1,0 +1,25 @@
+Daily AI News Briefing — July 31, 2026
+
+🤖 AI & LLMs
+
+Google DeepMind unveiled Gemini Robotics 2 (July 30, 2026), a three-model suite — including an on-device variant and the ER 2 embodied-reasoning model — that gives humanoid robots whole-body coordination and hit a 92% success rate on complex multi-step dexterity tasks. (https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
+
+The European Commission formally opened its call for AI "gigafactory" proposals (July 30, 2026), offering up to €10 billion in public funding toward a €30 billion push to build up to seven AI compute hubs and close Europe's chip gap with the US and China. (https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1708)
+
+🚀 Startups
+
+Devin-maker Cognition acquired Poke, the personality-driven AI assistant native to iMessage and Telegram, in a low-nine-figure deal (announced July 23, 2026), aiming to bring Poke's conversational style into its coding agent. (https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/)
+
+Fei-Fei Li's World Labs acquired robotics simulation startup SceniX (announced July 21, 2026), marking its biggest step into embodied AI by pairing its 3D world-generation models with SceniX's sim-to-real robot training tech. (https://techstartups.com/2026/07/21/world-labs-acquires-scenix-to-bridge-generative-world-models-and-physical-robotics-for-embodied-ai/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Austin-based TerraFirma, founded by former SpaceX engineers, raised $115 million including a $100 million Series A led by Kleiner Perkins (announced July 14, 2026) to scale its AI-enabled, semi-autonomous heavy construction equipment fleet. (https://www.businesswire.com/news/home/20260714397606/en/TerraFirma-Raises-$115M-to-Accelerate-Construction-on-Earth-and-Beyond)
+
+Amsterdam-based Monumental, founded by ex-Palantir engineers, raised a $32 million Series B led by Khosla Ventures (announced July 15, 2026) to expand its fleet of 150 autonomous bricklaying robots from Europe into the US. (https://fortune.com/2026/07/15/construction-robotics-startup-monumental-raises-32-million-from-khosla-ventures-to-tackle-labor-shortages/)
+
+📋 AI in Procurement & Proposal Writing
+
+Agentic procurement platform Omnea announced it tripled revenue in the twelve months to June (reported July 28, 2026), its third straight year of 3x-plus growth, with PayPal, Riot Games, T. Rowe Price and Unity joining as customers. (https://itbusinessnet.com/2026/07/omnea-triples-revenue-in-twelve-months-as-enterprises-choose-agentic-operating-system-for-procurement/)
+
+KT Automation launched an AI-powered industrial procurement platform (July 28, 2026) that lets engineers, buyers and safety managers get instant answers on safety, security and automation products instead of digging through catalogues and vendor spec sheets. (https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/kt-automation-introduces-ai-platform-that-understands-industrial-safety-security-automation-procurement/2393048)
