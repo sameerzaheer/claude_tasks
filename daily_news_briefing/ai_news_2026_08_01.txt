@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 1, 2026
+
+🤖 AI & LLMs
+
+Nvidia announced a long-term strategic partnership with Ilya Sutskever's Safe Superintelligence on July 27, 2026, including a roughly $5 billion investment and access to Nvidia's next-generation Vera Rubin GPU platform to scale SSI's compute by an order of magnitude. (https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/)
+
+Anthropic's Claude Opus 5 became generally available across Microsoft 365 Copilot's full productivity suite — Word, Excel, PowerPoint, Copilot Chat, Cowork and Studio — on July 24, 2026, marking the first time a non-OpenAI frontier model has been offered across Microsoft's entire Office lineup. (https://techcommunity.microsoft.com/blog/microsoft365copilotblog/available-today-anthropic-claude-opus-5-in-microsoft-365-copilot/4540524)
+
+🚀 Startups
+
+New York-based Encore AI raised a $30 million Series A (announced July 29, 2026) led by Team8, Planven and The Garage — joined by several of the banks and insurers already using its product — to scale AI agents that learn from customer calls to drive revenue rather than just deflect service requests. (https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/)
+
+Ellis AI emerged from stealth on July 31, 2026 with a $10 million seed round from First Round Capital, Khosla Ventures, Thrive Capital and others, building AI agents to automate the fragmented documents, spreadsheets and correspondence private credit managers deal with daily. (https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Procore confirmed a definitive agreement to acquire visual-site-data platform DroneDeploy for $845 million (announced July 29, 2026), its clearest move yet from being construction's system of record toward becoming its "system of intelligence." (https://highways.today/2026/07/30/procore-dronedeploy-deal/)
+
+Tel Aviv-based GreenVibe, backed by Insight Partners, is scaling its AI-powered wireless concrete sensors — combining ultrasound and other sensing with AI to deliver real-time strength, temperature and curing data instead of waiting on lab cylinder tests, with reported ROI exceeding 10x on deployments. (https://highways.today/2026/07/30/greenvibe-concrete-verification/)
+
+📋 AI in Procurement & Proposal Writing
+
+Direct-materials sourcing platform LightSource launched "AI Workforce" on July 29, 2026, five new AI capabilities — including an "Ask LightSource" natural-language assistant — automating data analytics, item ingestion, RFQ creation and supplier activation for procurement teams. (https://www.morningstar.com/news/business-wire/20260729134218/lightsource-brings-ai-sourcing-to-the-82-of-procurement-teams-still-running-on-email-and-excel)
+
+Milan-based Compri raised a €3.2 million seed round (announced June 24, 2026) led by Picus Capital to build autonomous AI agents that connect to a company's ERP, email and document systems to handle supplier sourcing, RFQ coordination and spend analysis for industrial procurement teams. (https://tech.eu/2026/06/24/compri-secures-eur32m-to-build-ai-powered-procurement-teams/)
