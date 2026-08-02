@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 2, 2026
+
+🤖 AI & LLMs
+
+Meta rolled out autonomous capabilities for Meta AI built on its new Muse Spark 1.1 model (announced July 24, 2026), letting the assistant generate personalized daily briefings, calendar summaries and weekly meal plans while connecting to Google Calendar and Gmail to run recurring tasks with less prompting. (https://about.fb.com/news/2026/07/meta-ai-muse-spark-doesnt-just-think-it-acts/)
+
+Google canceled its planned standalone Google AI Studio mobile app for iOS and Android (announced July 31, 2026) despite more than 800,000 preorders since I/O 2026, opting instead to fold its app-building features into the Gemini app on mobile and desktop. (https://9to5google.com/2026/07/31/gemini-ai-studio-app/)
+
+🚀 Startups
+
+Supply-chain startup Auger, founded by former Amazon and Flexport executive Dave Clark, raised a $50 million Series B led by Eclipse (announced mid-July 2026), bringing total funding to $150 million to build an AI operating layer that automates day-to-day supply-chain execution for customers including Meta, Fanatics and Kimberly-Clark. (https://www.geekwire.com/2026/supply-chain-startup-auger-led-by-ex-amazon-operations-chief-raises-50m-and-lands-big-customers/)
+
+Video-AI startup Twelve Labs raised a $100 million Series B (announced July 1, 2026) co-led by NEA and Naver Ventures with Amazon participating, to expand beyond video-understanding models into a full-stack agentic video intelligence system and open new offices in New York and London. (https://www.globenewswire.com/news-release/2026/07/01/3320545/0/en/twelvelabs-raises-100-million-in-series-b-funding-to-build-video-superintelligence.html)
+
+🏗️ AI in AEC, Construction & Engineering
+
+UK infrastructure-asset firm KaarbonTech launched SMART Shot AI (announced July 31, 2026), an always-on monitoring tool that pairs continuous image capture with AI analysis to flag emerging risk at highway and drainage assets between routine inspection cycles, extending its resilience work with more than 70 UK authorities. (https://highways.today/2026/07/31/ai-monitoring-infrastructure-risk/)
+
+Austin-based Handoff launched H1 (announced July 21, 2026), the first AI model built for autonomous blueprint takeoffs, completing full residential material takeoffs in about two hours versus 8-20 hours for experienced estimators and outperforming major general-purpose AI models by more than 30 points on a construction-takeoff benchmark. (https://www.prnewswire.com/news-releases/handoff-launches-h1-the-first-ai-model-for-autonomous-blueprint-takeoffs-302830287.html)
+
+📋 AI in Procurement & Proposal Writing
+
+Highways Today's "The Next Frontier of Equipment Procurement" (published July 4, 2026) details how AI-led buying is reshaping construction-equipment purchasing decisions, folding telematics, data rights, software subscriptions and cyber exposure into what used to be a simple machine-vs-machine choice. (https://highways.today/2026/07/04/next-frontier-of-equipment-procurement/)
+
+The U.S. General Services Administration published its Elimination, Optimization and Automation (EOA) Playbook (released June 3, 2026), a federal handbook for using AI and automation to streamline procurement and administrative workflows, drawing on deployments at GSA, the Department of Education and NASA that have already saved more than 2 million work hours. (https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-releases-elimination-optimization-and-automation-handbook-06032026)
