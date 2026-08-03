@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 3, 2026
+
+🤖 AI & LLMs
+
+OpenAI announced on August 1, 2026 that an internal version of its next model, Astra, produced ten new machine-checked proofs for math and theoretical computer science problems that had been open for at least a decade — including the first explicit construction of a non-sofic group — publishing a 249-page manuscript with Lean 4 certificates on GitHub for roughly $2,000 in total compute. (https://siliconangle.com/2026/08/02/openais-astra-solves-10-long-open-math-problems-publishes-proofs/)
+
+The EU AI Act's general application began on August 2, 2026, handing the AI Office and member-state authorities enforcement power over GPAI models and activating new transparency rules requiring chatbots to disclose they're AI and AI-generated content to carry machine-readable marks. (https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august)
+
+🚀 Startups
+
+Synthetic-user startup Simile raised a $200 million round (announced July 30, 2026) at a $2 billion valuation — just five months after its $100 million Series A — to build AI models that predict human behavior so other AI systems make fewer errors from misreading intent. (https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/)
+
+Commonwealth Fusion Systems raised another $1 billion (announced July 30, 2026) from pension funds, sovereign wealth funds and industrial partners to keep scaling its fusion-power technology toward grid-scale demonstration. (https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Compliance startup Dili raised $21.7 million (a $15M Series A led by Khosla Ventures plus its earlier $6.7M seed, announced July 30, 2026) to expand AI that converts unstructured project records into structured data and checks them against federal wage, safety and environmental rules across 700+ infrastructure and construction projects. (https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/)
+
+SoftBank is in talks to acquire Swiss autonomous-construction-equipment startup Gravis Robotics for more than $500 million (reported late July 2026), folding the ETH Zurich spinout into its new Roze physical-AI holding company as part of a broader push into AI-driven heavy machinery. (https://techfundingnews.com/softbank-eyes-500m-gravis-robotics-deal-after-completing-its-boston-dynamics-exit/)
+
+📋 AI in Procurement & Proposal Writing
+
+Harness's 2026 State of AI in FinOps report (released July 29, 2026) found enterprise AI spend has outgrown the governance built to track it — costs are climbing across every LLM provider and category, but most organizations still can't answer who owns the bill or whether the spend is paying off. (https://www.prnewswire.com/news-releases/new-harness-report-reveals-enterprise-ai-spend-has-outgrown-the-systems-built-to-track-it-302837776.html)
+
+Ardent Partners' "AI Rising 2026" State of Procurement series (published in installments July 27-31, 2026) found 58% of the procurement market now actively using or piloting AI as the function shifts toward "AI-first" priorities, even as most organizations remain early on the maturity curve. (https://cporising.com/2026/07/27/ai-rising-2026-pt-1-state-of-procurement-series-transition-to-ai-first-procurement/)
