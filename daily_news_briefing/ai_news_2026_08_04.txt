@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 4, 2026
+
+🤖 AI & LLMs
+
+Alibaba unveiled Qwen3.8-Max on August 3, 2026, a 2.4-trillion-parameter open flagship model with a 1-million-token context window that the company says rivals leading OpenAI and Anthropic models, with weights due for public release the following week. (https://siliconangle.com/2026/08/03/alibaba-debuts-qwen3-8-max-model-2-4t-parameters/)
+
+The Trump administration is hosting OpenAI, Anthropic, Google and other AI developers at the White House on August 4, 2026 to review a finalized voluntary AI oversight framework requiring labs to submit frontier models for government safety testing before release. (https://www.cnn.com/2026/08/03/tech/white-house-meet-with-top-ai-companies-big-regulation-push)
+
+🚀 Startups
+
+Nuclear-reactor startup Valar Atomics closed a $1 billion Series B (announced August 3, 2026) led by Sequoia Capital at a $6 billion valuation, tripling its worth months after its first advanced reactor powered an Nvidia Blackwell AI chip. (https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/)
+
+Autonomous-pentesting startup Horizon3.ai raised a $250 million Series E (announced August 3, 2026) at a valuation topping $2 billion, co-led by NightDragon and NEA, to scale its AI-vs-AI cybersecurity platform. (https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+The Open Design Alliance is packaging its CAD and BIM SDKs into self-hosted MCP servers arriving in Q3 2026, letting AEC firms build in-house AI agents that interrogate BIM models, extract quantities and check standards compliance without project data ever leaving their network. (https://aecmag.com/cad/oda-opens-its-cad-and-bim-tools-to-ai/)
+
+New York's MTA-backed Transit Tech Lab selected 18 startups (reported by Forbes on July 23, 2026) to pilot AI-driven infrastructure inspection, predictive maintenance and digital-twin tools that target the patchy asset-condition data behind the US's $3.7 trillion infrastructure funding gap. (https://www.forbes.com/sites/daraabasiita/2026/07/23/ai-tackles-a-37-trillion-infrastructure-blind-spot/)
+
+📋 AI in Procurement & Proposal Writing
+
+New York-based Cascade raised a $3.5 million seed round (announced July 21-22, 2026) from a16z Speedrun and others for an AI platform that scans bond filings, permits and budget announcements to help AEC firms spot and pursue construction projects before the RFP is even issued. (https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/)
+
+A Lohfeld Consulting analysis (published July 2026) finds AI acquisition tools are pushing federal source selection toward structured, criteria-driven, audit-ready evaluation, meaning GovCon proposal teams now need compliance matrices tightly aligned to named evaluation factors to score well. (https://lohfeldconsulting.com/blog/2026/07/how-ai-acquisition-tools-are-reshaping-your-bids-now/)
