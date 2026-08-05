@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 5, 2026
+
+🤖 AI & LLMs
+
+The Ninth Circuit vacated Amazon's injunction against Perplexity's Comet AI shopping agent (August 4, 2026), ruling Amazon is unlikely to prove Perplexity itself "accessed" its servers under the CFAA since users — not the AI agent — operate the tool, in a decision the court said will shape how agentic AI law develops. (https://www.eff.org/deeplinks/2026/08/appeals-court-agrees-eff-building-web-browser-doesnt-violate-cfaa)
+
+Nvidia released Alpamayo 2 Super (August 4, 2026), a 32-billion-parameter open vision-language-action reasoning model for robotaxis and autonomous vehicles, making its entire Alpamayo model family available for commercial use under the Linux Foundation's permissive OpenMDW-1.1 license. (https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/)
+
+🚀 Startups
+
+AI cloud "neocloud" startup Volta Infra launched from stealth (August 4, 2026) with a $300 million seed-and-Series-A raise co-led by a16z and Altimeter at a $2.4 billion valuation, alongside a $10 billion six-year AI-compute partnership in Norway reportedly with Anthropic. (https://www.bloomberg.com/news/articles/2026-08-04/nvidia-dell-back-ai-cloud-startup-volta-at-2-4-billion-value)
+
+Anaconda acquired AI-security startup Enkrypt AI (announced August 4, 2026) to add red-teaming, runtime guardrails and compliance automation across models, agents and MCP servers to its platform, after Enkrypt found 143,000+ vulnerabilities scanning 25,000 MCP servers in the two months prior. (https://www.hpcwire.com/aiwire/2026/08/04/anaconda-acquires-enkrypt-ai-to-secure-the-trillion-token-enterprise/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+A Bentley Systems-commissioned Verdantix study (reported August 3, 2026) found infrastructure organizations are increasingly pairing digital twins with AI to strengthen climate resilience, though fragmented data and disconnected systems remain the top barrier even as 80%+ of organizations now have resilience strategies in place. (https://construction-property.com/bentley-systems-showcases-ai-and-digital-twins-to-strengthen-climate-resilient-infrastructure/)
+
+That Open Company previewed "That Open Platform," a cloud BIM operating system with authentication, versioning, collaboration and AI-driven application development built in out of the box, aiming to reshape BIM software economics for its 1,000+ SDK users including RIB, Bosch and Ferrovial. (https://aecmag.com/features/that-open-company-raises-the-stakes/)
+
+📋 AI in Procurement & Proposal Writing
+
+The Pentagon's counter-drone task force JIATF-401 launched an upgraded AI-driven Counter-UAS Marketplace built by startup Kaizen Laboratories under a $15 million contract (reported August 4, 2026), letting users with limited expertise input mission, budget and threat requirements to get agentically-generated equipment recommendations. (https://defensescoop.com/2026/08/04/pentagon-counter-drone-hub-picks-software-startup-kaizen-to-develop-c-uas-marketplace-for-15m/)
+
+GovDash's August 2026 GovCon Intel Brief warns federal contractors to move fast on short-sprint, outcome-tied AI proposals before the Technology Modernization Fund's money disappears September 30, after TMF's acting director signaled projects without measurable outcomes won't get funded. (https://www.govdash.com/blog/august-2026-govcon-intel-brief)
