@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 7, 2026
+
+🤖 AI & LLMs
+
+Microsoft confirmed on its July 29, 2026 earnings call that it will merge Copilot Chat, GitHub Copilot, Copilot Cowork and its Autopilot agents into one unified "super app" this quarter, adding a new paid AutoPilot tier for background AI tasks. (https://devops.com/microsoft-confirms-copilot-super-app-is-coming-this-year-and-its-about-more-than-convenience/)
+
+xAI's Grok Voice Think Fast 2.0 became the default voice model in the Grok app on August 5, 2026, cutting time-to-first-audio from 1.25 to 0.70 seconds and topping OpenAI's GPT-Realtime-2.1 and Google's Gemini 3.1 Flash on speech-to-speech benchmarks. (https://www.testingcatalog.com/spacexai-launches-grok-voice-think-fast-2-0-on-agent-builder/)
+
+🚀 Startups
+
+Enterprise AI-agent startup HappyRobot raised a $150 million Series C (announced August 4, 2026) led by Prysm Capital and co-led by Eurazeo at a $1.2 billion valuation, joining the unicorn club to scale AI agents that handle real-time phone and operations work for customers including DHL, Uber and Repsol. (https://siliconangle.com/2026/08/04/happyrobot-raises-150m-1-2b-valuation-bring-ai-agents-critical-enterprise-work/)
+
+June, founded by former Salesforce executive Efrat Rapoport, exited stealth (announced August 3, 2026) with a $20 million pre-seed led by Marc Benioff's Time Ventures — joined by Michael Dell, Aaron Levie and George Kurtz — to build AI that automatically resolves the legacy-system and workflow bottlenecks blocking enterprise AI deployment. (https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Arcadis made a strategic investment in AEC-focused AI platform Nomic and struck a long-term commercial partnership (announced August 3, 2026), after a six-month trial with roughly 150 engineers found 86% said Nomic's AI agents — used for drawing review, code compliance checks and BIM coordination — changed how they worked. (https://aecmag.com/data-management/arcadis-invests-in-aec-ai-platform-nomic/)
+
+BuiltWorlds' 2026 equipment and robotics benchmarking survey (reported August 5, 2026) found jobsite robotics adoption among general and specialty contractors more than doubled this year to 79%, up from 29% in 2025, with FieldAI, Boston Dynamics and Dusty Robotics rated the standout vendors. (https://concreteproducts.com/index.php/2026/08/05/builtworlds-survey-tracks-contractors-marked-uptake-in-robotics-adoption/)
+
+📋 AI in Procurement & Proposal Writing
+
+Ironclad launched new AI agents for procurement teams (reported August 5, 2026) — including a Contract Family Agent that maps related-contract hierarchies and AI redlining that reuses previously approved contract language — plus deeper SAP Ariba/S4HANA integration to pull contract risk data straight into procurement workflows. (https://www.sdcexec.com/software-technology/ai-ar/news/22971417/ironclad-ironclad-launches-aipowered-procurement-solution-for-risk-management)
+
+Loopio's seventh annual RFP Trends & Benchmarks Report found generative-AI adoption among proposal teams has doubled in a year, from 34% to 68%, even as RFP revenue influence hits a five-year high and team bandwidth hasn't kept pace with rising leadership expectations. (https://loopio.com/trends-report/)
