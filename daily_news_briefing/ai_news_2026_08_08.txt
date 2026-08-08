@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 8, 2026
+
+🤖 AI & LLMs
+
+Meta released Muse Spark 1.2 alongside its first coding agent, Muse Code (August 5, 2026), adding persistent async background sub-agents for large-repo software engineering tasks as it escalates its coding-agent rivalry with OpenAI and Anthropic. (https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents)
+
+Anthropic named Mariano-Florentino "Tino" Cuéllar — a former California Supreme Court justice and outgoing Carnegie Endowment for International Peace president — as its first Chief Global Affairs Officer (announced August 4, 2026), tasking him with steering engagement with heads of state and global policy leaders. (https://www.anthropic.com/news/tino-cuellar)
+
+🚀 Startups
+
+AMD agreed on August 6, 2026 to acquire Toronto-based AI inference chip startup Taalas, whose technology hardwires model weights directly into silicon to hit roughly 17,000 tokens/sec per user at about 200 watts, bolstering AMD's inference roadmap against Nvidia. (https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html)
+
+Obsidian Security raised an $85 million Series D (announced August 4, 2026) at a $1.1 billion valuation to expand its platform for securing AI agents and non-human identities, now with over 100 customers spending $100K+ a year. (https://siliconangle.com/2026/08/04/obsidian-security-raises-85m-ai-agents-create-cybersecuritys-next-major-attack-surface/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Procore launched its Asset Register capability (announced August 7, 2026) to support UK Building Safety Act "Golden Thread" duties and ISO 19650 compliance, pushing further into the owner/operations market where Autodesk, Trimble and Bentley are also competing to own post-handover building data. (https://highways.today/2026/08/07/procore-asset-register/)
+
+JemRock Organization unveiled its BUILT platform (August 6, 2026), an AI-powered, robotics-driven housing-manufacturing system aimed at addressing a global 155-million-unit housing deficit across 28 countries by anchoring regional factories with AI-guided production. (https://www.manilatimes.net/2026/08/06/tmt-newswire/globenewswire/jemrock-organization-unveils-built-platform-ai-powered-robotics-system-built-to-tackle-the-global-155-million-unit-housing-deficit/2399293)
+
+📋 AI in Procurement & Proposal Writing
+
+Contractor Trax International sued the Army in a complaint unsealed this week, alleging an experimental AI tool hallucinated evaluation errors that wrongly cost it a roughly $450 million White Sands Missile Range support contract — one of the first major bid-protest fights over AI's role in federal proposal evaluation. (https://www.defenseone.com/policy/2026/08/ai-army-contract-lawsuit/415261/)
+
+DefenseScoop reported (August 7, 2026) that the Pentagon's $821 million War Data Platform integration effort — awarded to Accenture Federal Services to accelerate AI and agentic-AI adoption across defense data — is facing scrutiny over its rollout and integration plans. (https://defensescoop.com/2026/08/07/pentagon-war-data-platform-integration-plans-under-scrutiny/)
