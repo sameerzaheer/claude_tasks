@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 9, 2026
+
+🤖 AI & LLMs
+
+OpenAI is reportedly developing its first hardware device with Jony Ive's LoveFrom design studio — a $300-400 donut-shaped, screenless smart speaker with an onboard camera and environmental sensors, targeting a 2027 launch (reported August 6-7, 2026). (https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/)
+
+DeepSeek released the official public-beta version of DeepSeek-V4-Flash (July 31, 2026), a coding model it says approaches Claude Opus 4.8's performance at roughly 99% lower cost while adding significantly stronger autonomous-agent capabilities. (https://www.caixinglobal.com/2026-08-01/deepseek-releases-official-v4-flash-model-as-chinas-ai-race-intensifies-102470292.html)
+
+🚀 Startups
+
+AI-powered automated-factory startup Hadrian raised a $1.37 billion Series D (announced August 6, 2026) at a nearly $7.9 billion valuation — more than quadrupling its worth since January — to build additional AI- and robotics-driven U.S. factories for defense and aerospace manufacturing. (https://www.cnbc.com/2026/08/06/hadrian-defense-tech-ai-manufacturing.html)
+
+Chip-interconnect startup Eliyan hit unicorn status with a $145 million Series C (announced July 29, 2026) led by Seligman Ventures, with Cisco Ventures backing, for electro-optical interconnect technology built to solve AI data-center connectivity bottlenecks. (https://siliconangle.com/2026/07/29/optical-interconnect-startup-eliyan-raises-145m-funding-solve-ai-chip-cluster-connectivity-crunch/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Procore introduced three "Digital Coworker" packages and expanded its AI agent library to 20 pre-built agents (announced July 23, 2026), including a Starter Pack bundling Submittal Review, RFI, Contract Review, Deep Search and Daily Log agents for construction teams. (https://www.procore.com/press/procore-introduces-digital-coworker-packages-expands-ai-agent-library-and-previews-skills-to-help-construction-teams-put-ai-to-work)
+
+Homebuilding AI platform Higharc raised a $95 million Series C led by Insight Partners (announced mid-July 2026), pushing total funding past $170 million as it expands into AI-powered estimating for building-materials distributors, starting with partner US LBM. (https://www.higharc.com/newsroom/higharc-95m-series-c-for-homebuilding-ai)
+
+📋 AI in Procurement & Proposal Writing
+
+Palantir urged the GSA to withdraw its draft large-language-model acquisition rule entirely (reported August 2026), arguing the clause is unlawful, exceeds GSA's authority under the Federal Acquisition Streamlining Act, and would push agencies toward non-GSA contract vehicles instead. (https://www.nextgov.com/acquisition/2026/08/palantir-calls-gsa-withdraw-draft-ai-acquisition-rule/415253/)
+
+Spare-parts supply chain startup Intropy raised $11 million (announced August 7, 2026) to build an AI-native operating system automating inventory, pricing and sourcing decisions for industrial spare-parts businesses. (https://theaiinsider.tech/2026/08/07/intropy-raises-11m-in-funding-to-build-the-ai-native-operating-system-for-the-spare-parts-supply-chain/)
