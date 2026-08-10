@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 10, 2026
+
+🤖 AI & LLMs
+
+DARPA and the U.S. Air Force flew a modified F-16 fully under AI control at Eglin Air Force Base under the VENOM program, letting an AI agent handle flight controls and combat functions in real-world flight while a safety pilot monitored from the cockpit — a major milestone for autonomous combat aviation. (https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
+
+Google reshuffled Google DeepMind's leadership (announced August 6, 2026), handing day-to-day control of Gemini development to new SVP Koray Kavukcuoglu while co-founder Demis Hassabis becomes Chair of DeepMind and Alphabet's Chief Scientist, as Google races to keep pace with Anthropic and OpenAI. (https://www.bloomberg.com/news/articles/2026-08-06/google-shifts-ai-power-to-california-in-race-against-anthropic-openai)
+
+🚀 Startups
+
+Longtime Google AI leaders Jeff Dean, Sanjay Ghemawat, Oriol Vinyals and Quoc Le left the company (announced August 5, 2026) to launch Discovery Loop, a public-benefit startup aiming to fully automate complex scientific and engineering research, with Radical Ventures and Khosla Ventures co-leading the seed round. (https://www.geekwire.com/2026/the-startup-idea-that-convinced-a-uw-computer-science-legend-to-leave-google-after-27-years/)
+
+OpenAI acquired presentation startup NextSlide (disclosed August 8, 2026), an acqui-hire whose team will build AI-driven creation and communication tools into ChatGPT as OpenAI keeps assembling an office-suite rival to Microsoft one small acquisition at a time. (https://www.unite.ai/openai-acquires-nextslide-the-ai-presentation-startup/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Menlo Park general contractor Novo Construction is using AI startup BuildCheck's "Diffs" tool to automatically compare successive drawing packages and flag inconsistencies between revisions, catching coordination errors before they become costly field issues (Construction Dive, August 5, 2026). (https://www.constructiondive.com/news/novo-construction-buildcheck-drawing-diffs-ai/826758/)
+
+Toronto startup Provision launched Scope Agent (August 5, 2026), an AI tool specialized in extracting construction scope items from drawings that it says outperforms Claude on the same documents — 97% match accuracy and zero fabricated items versus Claude's roughly 73% accuracy with frequent invented details. (https://techli.com/provision-launches-scope-agent-ai-tool-to-close-constructions-multibillion-dollar-scope-gap/11217/)
+
+📋 AI in Procurement & Proposal Writing
+
+Amazon Business, now surpassing $60 billion in annualized sales, is rolling out its biggest AI expansion yet — agentic buying that completes purchases automatically, a new "Amazon Quick" assistant, and a $50 billion compute partnership with OpenAI — to rewire B2B procurement workflows. (https://www.marketscale.com/industries/business-services/the-early-scale-2026-07-31)
+
+General counsel are increasingly building explicit AI-disclosure requirements into legal vendor RFPs, per new ABA/Litera guidance, as the EU AI Act, state AI laws in Texas, Utah and Colorado, and federal LLM-procurement rules push AI governance documentation from a differentiator toward a baseline expectation in RFP evaluation. (https://www.litera.com/blog/what-general-counsel-should-ask-about-ai-in-legal-vendor-rfps)
