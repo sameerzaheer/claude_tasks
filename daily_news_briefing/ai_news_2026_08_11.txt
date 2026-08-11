@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 11, 2026
+
+🤖 AI & LLMs
+
+Anthropic, Macquarie Asset Management and GIC announced "Theseus Infrastructure" (August 10, 2026), a new venture that will develop, own and lease dedicated AI data centers to Anthropic at scale, with Anthropic pledging to cover 100% of grid-upgrade costs and any consumer electricity price increases tied to the buildout. (https://www.bloomberg.com/news/articles/2026-08-10/anthropic-macquarie-and-gic-form-venture-for-ai-data-centers)
+
+Meta released Muse Glimmer (August 10, 2026), a 30-billion-parameter open-weight (Apache 2.0) agentic model tuned for local coding, tool use and LLM-as-judge tasks that runs on a single consumer GPU once 4-bit quantized to under 20GB. (https://siliconangle.com/2026/08/10/meta-releases-open-source-muse-glimmer-model-30b-parameters/)
+
+🚀 Startups
+
+Corma, a Tel Aviv/San Francisco startup building what it calls the first frontier AI lab for defensive cybersecurity, raised a $60 million seed round led by Sequoia Capital with Khosla Ventures and Coatue (announced August 10, 2026), saying early Fortune 100/500 deployments cut threat response times over 94%. (https://fortune.com/2026/08/10/exclusive-corma-raises-60-million-from-sequoia-for-ai-trained-to-defend-against-cyberattacks/)
+
+Arrakis emerged from stealth with $38 million in total funding, including a $30 million Series A led by Blossom Capital at a $140 million valuation (announced July 22, 2026), to deploy AI agents into mission-critical operations across aerospace, energy, manufacturing, logistics and construction. (https://fortune.com/2026/07/22/arrakis-a-startup-betting-ais-biggest-payoff-is-in-industrial-sectors-not-office-work-emerges-from-stealth-with-38-million-in-venture-funding/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Trimble added new AI takeoff capabilities across its MEP estimating solutions (announced June 30, 2026) that automate object recognition and symbol counting directly from drawings, with contractors reporting up to 60% cuts in manual estimating time. (https://news.trimble.com/New-Trimble-AI-Takeoff-Capabilities-Cut-MEP-Estimating-Time-and-Increase-Accuracy)
+
+Amsterdam startup Monumental raised a $32 million Series B led by Khosla Ventures (announced July 15, 2026) to scale its fleet of 150+ autonomous, computer-vision-guided bricklaying robots across Europe and push into the US. (https://fortune.com/2026/07/15/construction-robotics-startup-monumental-raises-32-million-from-khosla-ventures-to-tackle-labor-shortages/)
+
+📋 AI in Procurement & Proposal Writing
+
+LightSource launched "AI Workforce" (August 3, 2026), five new AI capabilities aimed at the 82% of procurement teams still running sourcing on email and spreadsheets, automating data analytics, item ingestion, RFQ creation and supplier activation. (https://www.globenewswire.com/news-release/2026/08/03/3337826/0/en/lightsource-brings-ai-sourcing-to-the-82-of-procurement-teams-still-running-on-email-and-excel.html)
+
+MarketScale reported (August 8, 2026) that AI now acts as the "first gatekeeper" in B2B procurement — mediating supplier shortlists and evaluations before any human contact — and warned most suppliers aren't yet prepared to be assessed by AI-driven buying tools. (https://www.marketscale.com/industries/marketing-tech/ai-is-now-the-first-gatekeeper-in-b2b-procurement-and-most-suppliers-arent-ready)
