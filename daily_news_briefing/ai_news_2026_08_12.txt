@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 12, 2026
+
+🤖 AI & LLMs
+
+NVIDIA released Nemotron 3.5 Lightning (August 11, 2026), a 30-billion-parameter open-source mixture-of-experts model (3B active params) distilled from Nemotron 3 Ultra that runs on a single consumer GPU and ships alongside NeMo Switchyard, a router that sends each agent request to the most efficient model. (https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
+
+ByteDance opened the public developer API for Seedance 2.5 (August 7, 2026), its video-generation model that produces up to 30 seconds of synchronized audio-video in a single pass with timestamp-level editing and expanded multimodal references. (https://evolink.ai/blog/seedance-2-5-api-status)
+
+🚀 Startups
+
+Autonomous-drone defense startup Neros Technologies raised a $250 million Series C (announced August 11, 2026) led by Sequoia Capital and ASTF to scale production of AI-guided attack drones. (https://techstartups.com/2026/08/11/venture-capital-startup-funding-roundup-august-11-2026-bessemer-venture-partners-citi-sequoia-capital-thiel-capital-more/)
+
+June, founded by former Salesforce/Bonobo AI executives, exited stealth with a $20 million pre-seed round (announced August 3, 2026) led by Marc Benioff's Time Ventures to help enterprises connect AI agents to legacy systems and approval workflows. (https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+SoftBank is in talks to acquire Swiss ETH-Zurich spinout Gravis Robotics for more than $500 million (reported July 24, 2026), aiming to fold its AI system for turning heavy earthmoving equipment into autonomous machines into SoftBank's new robotics holding company, Roze. (https://www.bloomberg.com/news/articles/2026-07-24/softbank-weighs-deal-for-robotics-startup-gravis)
+
+TerraFirma, founded by former SpaceX engineers, raised $115 million including a $100 million Series A led by Kleiner Perkins (announced July 14, 2026) to expand its AI-enabled pre-construction software and remote command center for semi-autonomous heavy construction equipment. (https://www.businesswire.com/news/home/20260714397606/en/TerraFirma-Raises-$115M-to-Accelerate-Construction-on-Earth-and-Beyond)
+
+📋 AI in Procurement & Proposal Writing
+
+GovCon ProposalEngine's weekly RFP watch (August 10, 2026) found federal agencies pressing ahead with major solicitations — including Space Force's $300 million ground-ops contract and DHS's $1.5 billion counter-drone vehicle program — even as the suspended CMMC Phase 2 cybersecurity certification requirements undergo a reform review that's complicating compliance planning for proposal teams. (https://govconproposalengine.com/blog/govcon-rfp-watch-2026-08-10/)
+
+The Department of War's July 13, 2026 suspension of CMMC Phase 2 assessment requirements — launched with a 60-day reform review — continues to reshape how defense contractors document cybersecurity posture in RFP responses, with Phase 1 self-assessment and DFARS 252.204-7012 obligations still in force. (https://federalnewsnetwork.com/cybersecurity/2026/07/pentagon-suspends-cmmc-phase-two-requirements-launches-review-of-program/)
