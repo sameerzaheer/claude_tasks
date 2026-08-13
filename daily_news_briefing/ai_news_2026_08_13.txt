@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 13, 2026
+
+🤖 AI & LLMs
+
+xAI released Grok 4.6 (August 12, 2026), a 1.5-trillion-parameter model that reuses its Grok 4.5 foundation but delivers gains through heavier post-training, focusing on long-running agentic tasks while pricing in at $2/$6 per million input/output tokens. (https://x.ai/news/grok-4-6)
+
+Anthropic is meeting with potential investors as it prepares for a possible public-market debut as early as this fall (reported by the Wall Street Journal, August 10, 2026), seeking to reassure backers about its growth prospects amid a pre-IPO valuation north of $900 billion. (https://techstartups.com/2026/08/12/top-tech-news-today-august-12-2026-anthropic-google-ibm-lovable-nvidia-openai-more/)
+
+🚀 Startups
+
+Stockholm-based AI coding startup Lovable raised a $400 million Series C (announced August 12, 2026) led by Menlo Ventures and the EU-backed Scaleup Europe Fund, valuing the natural-language app-building platform at $13.3 billion. (https://www.bloomberg.com/news/articles/2026-08-12/ai-coding-startup-lovable-raises-400-million-at-13-3-billion-valuation)
+
+AI code-testing startup Blacksmith raised a $45 million Series B led by Peak XV Partners (announced August 12, 2026), pushing its valuation to $550 million — nearly 10x higher than less than a year ago — as its customer base grew from 700 to over 5,000. (https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+A new CMiC/Dodge Construction Network study (announced August 5, 2026) found only 41% of contractors can catch cost overruns while they're still manageable on at least half their projects, and just 19% rank AI a high priority, citing lack of expertise, integration challenges and uncertain ROI as adoption barriers. (https://www.globenewswire.com/news-release/2026/08/05/3339530/0/en/most-u-s-contractors-still-struggle-to-catch-cost-overruns-in-time-new-study-finds.html)
+
+Engineering giant WSP Global reported accelerating Q2 2026 results (August 6, 2026) — net revenue up 23% to $4.3 billion and a record $20.1 billion backlog — results analysts say ease investor fears that AI would erode fees at large engineering consultancies. (https://www.theglobeandmail.com/business/article-wsp-engineering-earnings-revenue-growth-investor-ai/)
+
+📋 AI in Procurement & Proposal Writing
+
+A draft Pentagon memo (reported August 11, 2026) would direct up to $243.9 million to Palantir for AI-enabled data-analytics services through March 2027 without competitive bidding, drawing scrutiny over the no-bid justification tied to defense-industrial-base insights. (https://www.theregister.com/public-sector/2026/08/11/palantir-could-receive-244m-pentagon-no-bid-contract/5286438)
+
+Executive Order 14415 (signed July 20, 2026) will require defense prime contractors and subcontractors to use AI to map and disclose their entire critical supply chains within 180 days, tracing components back to raw-material origin as part of new domestic-sourcing procurement rules. (https://defensescoop.com/2026/07/23/trump-authorizes-ai-map-defense-supply-chains/)
