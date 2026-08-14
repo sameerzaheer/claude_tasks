@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 14, 2026
+
+🤖 AI & LLMs
+
+Google's Gemini app surpassed 1 billion monthly active users (announced August 13, 2026), becoming the company's fastest-growing product ever, with 63% of users interacting by voice and the app generating over 150 million images a day. (https://www.buildfastwithai.com/blogs/ai-news-today-august-13-2026)
+
+Mirage (formerly Captions) put what it bills as the world's first AI news network on the air (August 12, 2026), streaming nonstop on X via @TryMirage with four fully AI-generated anchors and no human on camera. (https://variety.com/2026/digital/news/mirage-ai-generated-24-hour-news-channel-1236834107/)
+
+🚀 Startups
+
+Anthropic is in talks to buy Israeli AI startup Decart AI for about $6 billion (reported August 13, 2026) — its largest-ever acquisition — to help its computing infrastructure absorb surging demand ahead of a planned IPO. (https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion)
+
+AI coding startup Cognition, maker of the Devin agent, is reportedly already in talks to raise a new round at a $40 billion valuation (reported August 12, 2026), just months after raising $1 billion at a $26 billion valuation in May. (https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Bentley Systems' Q2 2026 earnings presentation (August 6, 2026) unveiled a new "Bentley Infrastructure 500" ranking sizing a $21 trillion AI-addressable infrastructure market, though executives cautioned that AI monetization won't begin until 2027. (https://ca.investing.com/news/company-news/bentley-q2-2026-slides-ai-push-21t-market-opportunity-amid-stock-slip-93CH-4783392)
+
+Skanska USA Building formed a new Digital Transformation and Solutions Team (announced July 2026) to unify its data, emerging-tech and AI efforts, scaling tools like its Expert Sidekicks AI assistant to more than 1,000 employee users across 500+ projects. (https://www.skanska.com/us/en/media/press-releases/2026/skanska-usa-building-establishes-digital-transformation-and-solutions-team-to-expand-the-use-of-ai-across-the-business)
+
+📋 AI in Procurement & Proposal Writing
+
+Global enterprises including Walmart, Maersk and Vodafone are running AI negotiation agents at scale to close supplier deals no human team could manage (PYMNTS, reported this week), with research citing over 180,000 AI-to-AI negotiations logged across more than 40 countries. (https://www.pymnts.com/news/artificial-intelligence/2026/procurement-teams-use-ai-to-reach-deals-humans-cant/)
+
+GovDash detailed how AI agents are reshaping federal opportunity discovery (August 2026), continuously monitoring SAM.gov, USASpending.gov and agency forecast portals to flag new solicitations and RFP amendments, recovering an estimated 250-500 analyst hours a year for contractors. (https://www.govdash.com/blog/ai-agents-government-contract-opportunity-discovery)
