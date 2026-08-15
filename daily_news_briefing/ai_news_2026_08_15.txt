@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 15, 2026
+
+🤖 AI & LLMs
+
+Stanford and Arc Institute researchers used AI genome models (Evo 1/Evo 2) to design complete viral genomes from scratch, building 16 that became fully functional bacteriophages able to infect and kill E. coli — some outperforming natural viruses — in a Science study (published August 6, 2026) that raises both medical and biosecurity questions. (https://dataconomy.com/2026/08/07/ai-designed-viruses-infect-bacteria-science-study/)
+
+Anthropic began embedding invisible watermarks and signed C2PA provenance metadata in all Claude-generated text and files worldwide, without an opt-out, starting August 2, 2026 — a global rollout driven by the EU AI Act's transparency mandate. (https://www.forbes.com/sites/anishasircar/2026/08/13/claude-will-now-leave-a-watermark-on-everything-it-writes-what-does-that-mean/)
+
+🚀 Startups
+
+Databricks closed a $5 billion strategic funding round at a $190 billion valuation (announced August 13, 2026), led by Coatue with Blackstone, MGX, T. Rowe Price and new investor Sixth Street Growth, as the company crossed a $7 billion revenue run-rate growing 80%+ year-over-year. (https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html)
+
+Australian AI-infrastructure firm Firmus secured a fully subscribed $2 billion strategic equity investment (announced August 7, 2026) from Blackstone, Coatue, Nvidia and Jane Street at a $10.5 billion valuation, to accelerate its Nvidia-based "AI Factory" buildout across Australia and expand into Indonesia. (https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia)
+
+🏗️ AI in AEC, Construction & Engineering
+
+L&T Technology Services launched AgenticIQ (announced August 10, 2026), an end-to-end agentic AI platform that turns its engineering capabilities into reusable, multi-agent workflows across product development, manufacturing and industrial operations for automotive, medical-device, semiconductor and plant-engineering clients. (https://www.businesswire.com/news/home/20260810580127/en/LT-Technology-Services-Launches-AgenticIQ-an-End-to-End-Agentic-AI-Platform-for-Engineering-Manufacturing-and-Customer-Experience)
+
+San Francisco startup FormX raised a $12.5 million seed round led by Grove Ventures (reported around August 10, 2026) to automate and connect architecture, engineering, permitting, procurement and construction into one software workflow for residential projects and ADUs across California. (https://www.einpresswire.com/article/930559604/formx-raises-12-5-million-to-build-the-platform-transforming-residential-construction)
+
+📋 AI in Procurement & Proposal Writing
+
+New Tussell tracker data (reported August 14, 2026) found the UK public sector has awarded 2,129 AI contracts worth £5 billion since 2018, with 2026 already the record year by value, though AI still accounts for only about 4% of total government IT spend — Palantir and Microsoft lead the supplier rankings. (https://www.resultsense.com/news/2026-08-14-public-sector-ai-contracts-5bn/)
+
+New B2G sales startup RFPs.ai is building a multi-agent AI platform (reported August 10, 2026) that continuously discovers, ingests and ranks government RFPs against a company's capabilities and certifications, with additional agents in development to flag opportunities from council meetings and budgets before an RFP is even published. (https://aithority.com/machine-learning/rfps-ai-builds-ai-platform-for-government-procurement-discovery/)
