@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 16, 2026
+
+🤖 AI & LLMs
+
+Google released Gemini 3.7 Flash (August 13, 2026), a faster "workhorse" multimodal model for coding, web development and agent workflows that jumps to 65.3% on DeepSWE v1.1 (from 49.0% for Gemini 3.6 Flash) and is now live in AI Studio, Android Studio, Antigravity and the Gemini Enterprise platform. (https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
+
+Alibaba's Qwen team released Qwen3.8-27B (August 14, 2026), a 27.8-billion-parameter open-weight (Apache 2.0) multimodal model with a 262K-token context window that Alibaba says outperforms Meta's 30B Muse Glimmer on every benchmark and beats Claude Opus 4.6 on 15 of 19 overlapping tests while running on a single 24GB consumer GPU. (https://aireleasetracker.com/model/qwen/qwen3.8-27b)
+
+🚀 Startups
+
+SpaceX closed its $60 billion acquisition of AI coding startup Cursor (Anysphere), finalized August 15, 2026, folding the popular coding tool into Elon Musk's now-merged SpaceX/xAI structure alongside Grok. (https://www.heise.de/en/news/SpaceX-acquires-AI-coding-tool-Cursor-for-60-billion-11334594.html)
+
+OpenAI-backed Thrive Holdings raised $2 billion at a $12 billion valuation (announced August 12, 2026) from SoftBank, D1 Capital and Altimeter, continuing its private-equity-style strategy of buying traditional accounting and IT firms and rebuilding their workflows around OpenAI's AI. (https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Global engineering giant AECOM acquired Norwegian AI startup Consigli for roughly $390 million (reported August 11, 2026), a rare case of an AEC firm buying rather than licensing an "autonomous engineer" AI agent that Consigli says can automate up to 80% of today's engineering work. (https://aecmag.com/news/aecom-acquires-ai-start-up-consigli/)
+
+AI compliance startup Dili raised $21.7 million in total funding, including a $15 million Series A led by Khosla Ventures (reported August 11, 2026), to automate Davis-Bacon prevailing-wage and other regulatory compliance checks for the US infrastructure and construction boom. (https://theaiinsider.tech/2026/08/11/ai-compliance-startup-dili-announces-15m-series-a-to-tackle-infrastructure-regulatory-burden/)
+
+📋 AI in Procurement & Proposal Writing
+
+GSA's OneGov program has saved the federal government about $1.62 billion since launching in April 2025 — including roughly $1.4 billion via time-limited AI-tool discounts — as officials debate how to extend the AI purchasing framework once current deals expire this fall (Government Executive, reported mid-August 2026). (https://www.govexec.com/technology/2026/08/onegov-savings-balloon-over-16-b-agencies-weigh-future-ai-contracting/415437/)
+
+The EU AI Act's high-risk-system obligations became legally enforceable on August 2, 2026, requiring public-sector deployers to run fundamental-rights impact assessments and demand new risk documentation from AI vendors — turning AI governance proof into a standard line item in EU government RFPs and vendor evaluations. (https://www.aiacto.eu/en/blog/ai-act-what-changes-august-2-2026)
