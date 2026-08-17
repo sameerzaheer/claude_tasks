@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 17, 2026
+
+🤖 AI & LLMs
+
+OpenAI's unreleased Astra model generated solutions to 10 long-standing open problems in mathematics and theoretical computer science — each unsolved for a decade or more, including a new construction of non-sofic groups and tighter sphere-packing density bounds — for under $2,000 in inference cost, with all proofs formally verified in Lean 4 (published August 2, 2026). (https://siliconangle.com/2026/08/02/openais-astra-solves-10-long-open-math-problems-publishes-proofs/)
+
+OpenAI opened a limited preview of "Ultrafast" mode for GPT-5.6 Sol (announced August 13, 2026), powered by Cerebras hardware, delivering up to 750 output tokens per second — as much as 14x standard throughput — at the same intelligence level, aimed at real-time uses like voice support and live coding. (https://openai.com/index/previewing-ultrafast/)
+
+🚀 Startups
+
+Stripe finalized a deal to acquire AI model-routing platform OpenRouter for more than $7 billion (announced August 16, 2026), a roughly 5x markup from the $1.3 billion valuation OpenRouter fetched in its Series B just three months earlier. (https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
+
+AI video-generation startup Higgsfield raised a $400 million Series B at a $5.4 billion valuation (announced August 17, 2026), led by DST Global with Goldman Sachs Alternatives, Intel Capital and others participating, more than quadrupling its $1.3 billion valuation from January. (https://techfundingnews.com/higgsfield-raises-400m-from-goldman-sachs-dst-global-at-5-4b-valuation/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Construction-intelligence platform Buildots added survey-grade laser scanning through a partnership with reality-capture specialist NavVis (reported August 11, 2026), unifying precision 3D scans with its existing progress-tracking and BIM data on large projects including Intel semiconductor fab builds. (https://aecmag.com/news/buildots-adds-laser-scanning-through-navvis-partnership)
+
+MEP-engineering automation startup Endra expanded into the US and UK after a $50 million raise (reported early August 2026), pitching AI that ingests engineering firms' existing files to automate system design, routing and documentation as data-center, electrification and net-zero projects outstrip the supply of qualified engineers. (https://hackernoon.com/endra-expands-to-the-us-with-$50m-firepower-as-data-center-boom-outruns-engineering-workforce)
+
+📋 AI in Procurement & Proposal Writing
+
+GEP detailed the capabilities separating "AI-ready" procurement teams from the rest (published August 13, 2026), arguing AI is restructuring procurement's entire operating model as agentic systems increasingly execute sourcing events autonomously and reshape what CPOs must evaluate, negotiate and govern. (https://www.gep.com/blog/technology/ai-ready-procurement-team-capabilities)
+
+The Pentagon is field-testing prototypes of its forthcoming Joint Sustainment Decision Tool (reported early August 2026) with logisticians at INDOPACOM, the Defense Logistics Agency, and US Army Europe and Africa, using AI to predict and mitigate supply-chain risks and make complex logistics data usable by non-specialists. (https://federalnewsnetwork.com/army/2026/08/dod-building-ai-tools-to-predict-mitigate-risks-to-sustainment-supply-chain/)
