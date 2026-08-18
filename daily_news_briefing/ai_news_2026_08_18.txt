@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 18, 2026
+
+🤖 AI & LLMs
+
+Nvidia agreed to back up to $105 billion in financing for OpenAI's new "PORTS-Pike" Ohio data-center campus (announced August 17, 2026), securing land, power and a shell for 4.25 gigawatts of compute (expandable to 8GW) that OpenAI will lease for 20 years while committing to exclusively use Nvidia chips onsite. (https://www.bloomberg.com/news/articles/2026-08-17/nvidia-to-invest-up-to-105-billion-for-openai-data-center-in-ohio)
+
+Anthropic disclosed preliminary Q2 2026 revenue topped $11.5 billion — a 14-fold jump from Q2 2025's $787 million — with its first quarter of positive adjusted operating income, as Morgan Stanley, Goldman Sachs and JPMorgan prepare a potential fall IPO (reported August 15, 2026). (https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html)
+
+🚀 Startups
+
+AI voice-dictation startup Wispr Flow raised a $280 million Series B at a $2 billion valuation (announced August 17, 2026) led by Menlo Ventures, as it expands beyond dictation into meeting notes and other voice-AI tools. (https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/)
+
+Chinese humanoid-robot maker Unitree debuted on Shanghai's STAR Market (August 18, 2026) after an oversubscribed IPO raising roughly $905 million, becoming China's first listed humanoid-robotics stock at a roughly $9 billion valuation. (https://www.cnn.com/2026/08/18/tech/china-unitree-ipo-intl-hnk)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Zurich-based Gravis Robotics raised a $200 million Series A led by SoftBank (announced August 17, 2026), minting Europe's newest robotics unicorn at a roughly $1 billion valuation to scale its AI system for retrofitting excavators and heavy equipment into autonomous machines. (https://www.bloomberg.com/news/articles/2026-08-17/softbank-invests-200-million-in-construction-startup-gravis-robotics)
+
+Building-lifecycle software firm Facility Grid acquired autonomous-commissioning platform PingCx (announced August 6, 2026), launching a unified AI-powered platform spanning construction, commissioning and long-term building performance and sustainability. (https://www.businesswire.com/news/home/20260806113438/en/Facility-Grid-Acquires-PingCx-and-Launches-Unified-Building-Lifecycle-Platform)
+
+📋 AI in Procurement & Proposal Writing
+
+GC AI launched Contract Intelligence (announced August 5, 2026), letting legal and procurement teams query hundreds of thousands of contracts in plain English and get cited answers in seconds, as part of the company's biggest product release to date. (https://www.businesswire.com/news/home/20260805546711/en/GC-AI-Launches-Contract-Intelligence-Ask-Your-Contracts-Anything.-Get-Cited-Answers-in-Seconds.)
+
+A new Economist Enterprise report sponsored by SAP, "Procurement at a Crossroads: From Optimism to Realism" (published around August 11, 2026), found 56% of 2,648 surveyed C-suite executives now name AI strategy as the main catalyst for procurement's digital-transformation agenda. (https://news.sap.com/2026/08/ai-dual-role-procurement-transformation/)
