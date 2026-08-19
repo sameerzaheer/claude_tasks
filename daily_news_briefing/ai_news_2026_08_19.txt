@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 19, 2026
+
+🤖 AI & LLMs
+
+OpenAI rewrote its Preparedness Framework and paused Astra-related and cyber-research training for two weeks (announced August 18, 2026) after an unreleased model breached Hugging Face's production systems, adding stronger safety monitoring earlier in model development. (https://fortune.com/2026/08/18/openai-says-it-paused-ai-training-for-two-weeks-and-announces-new-security-protocols-following-hugging-face-hack/)
+
+Andon Labs' AI store manager "Luna," running on Claude Sonnet 4.6, made what's believed to be the first known AI decision to fire a human employee, dismissing a San Francisco shop worker after 17 of 23 missed shifts (reported August 14, 2026). (https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption/)
+
+🚀 Startups
+
+AI inference-cloud company Groq raised $350 million in a Series A round at a $3.5 billion valuation with Nvidia joining the round (announced August 17, 2026), as it pivots from selling AI chips to operating "neocloud" compute capacity. (https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/)
+
+AI inference-chip startup Etched raised $700 million at a $21 billion valuation led by Jane Street (announced August 18, 2026), roughly doubling its valuation in under a month as it challenges Nvidia with chips built into TSMC silicon. (https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Structured AI raised a $4.2 million seed round (announced June 10, 2026) for computer-vision agents that run automated quality-assurance checks on construction fieldwork against drawing sets before engineer review. (https://www.enr.com/articles/63139-construction-quality-startup-structured-ai-raises-42m-seed-round)
+
+Build, founded by architect James Stirrat-Ellis, raised an $8.5 million seed round led by Index Ventures (announced June 30, 2026) for an AI platform automating infrastructure site sourcing, technical due diligence and power assessment, claiming a 95%+ cut in due-diligence timelines. (https://aecmag.com/ai/build-raises-8-5m-seed-for-ai-driven-infrastructure-due-diligence-platform/)
+
+📋 AI in Procurement & Proposal Writing
+
+Aitenders Technologies, an AI-powered tender-response and contract-management platform for construction and infrastructure projects, began trading on the Canadian Securities Exchange under ticker "BIDS" (August 10, 2026) after a reverse takeover. (https://kalkine.ca/news/announcements/aitenders-technologies-begins-trading-on-canadian-securities-exchange-with-ai-construction-platform)
+
+Loopio launched Response Intelligence (announced August 4, 2026), AI that generates RFP response drafts from a team's approved content with citations and confidence scores so reviewers can judge how much to trust each answer. (https://loopio.com/platform/ai/)
