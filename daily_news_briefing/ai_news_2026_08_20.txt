@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 20, 2026
+
+🤖 AI & LLMs
+
+Z.ai released GLM-5.3 (August 14, 2026), an open-weight coding model that reused its GLM-5.2 base but gained sharply on long-horizon coding and cybersecurity benchmarks from post-training alone, prompting the company to delay the public weights release for safety hardening. (https://siliconangle.com/2026/08/14/z-ai-debuts-glm-5-3-long-horizon-coding-cybersecurity-upgrades/)
+
+Nvidia received approval to export H200 AI chips to China in limited batches (reported August 19, 2026), with ByteDance and Tencent each already receiving roughly 10,000 chips as Beijing eases restrictions to help domestic firms train frontier models. (https://www.engadget.com/2239738/china-reportedly-allows-bytedance-tencent-import-10000-h200-chips/)
+
+🚀 Startups
+
+Nvidia is in talks to invest in AI data-annotation firm Mercor at a $20 billion valuation (reported August 20, 2026), doubling its worth from October 2025 as its annualized revenue tops $2 billion supplying human-expert training data to labs including OpenAI, Google and Nvidia itself. (https://www.pymnts.com/news/investment-tracker/2026/nvidia-weighs-investment-in-round-valuing-mercor-at-20-billion/)
+
+Queen One raised $25 million (announced August 19, 2026) to scale its "fully AI-governed" Commerce CRM platform, bringing total funding past $37.5 million after signing more than 300 launch partners in just over a year. (https://www.prnewswire.com/news-releases/queen-one-raises-25-million-to-blitz-legacy-martech-302854605.html)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Bedrock Robotics, founded by ex-Waymo engineers, launched its first fully autonomous excavator deployments on critical U.S. infrastructure projects (announced August 17, 2026), running live jobsites with general contractors Sundt Construction, Zachry Construction, Champion Site Prep and Capitol Aggregates. (https://www.globenewswire.com/news-release/2026/08/17/3346247/0/en/bedrock-robotics-launches-first-fully-autonomous-excavator-deployments-on-critical-u-s-infrastructure-projects.html)
+
+Grid-intelligence startup Buzz Solutions closed an oversubscribed $20 million Series A led by S3 Ventures (reported early August 2026) to scale its computer-vision AI that turns inspection imagery from power lines, substations and utility-scale solar into actionable asset intelligence for utilities like Dominion Energy and AEP. (https://aithority.com/machine-learning/buzz-solutions-raises-20-million-series-a-led-by-s3-ventures-to-power-the-next-generation-of-grid-intelligence/)
+
+📋 AI in Procurement & Proposal Writing
+
+After the GAO denied its bid protest, contractor TRAX International escalated to the U.S. Court of Federal Claims (reported this week) seeking a re-evaluation of the Army's $450 million White Sands Missile Range award, arguing AI hallucinations distorted its technical scoring in a case that could force more transparency into agencies' use of AI in proposal evaluation. (https://federalnewsnetwork.com/contracting/2026/08/lawsuit-over-armys-use-of-ai-in-contract-award-could-increase-transparency-around-proposal-evaluations/)
+
+New UK government data (reported August 18, 2026) found public bodies awarded £1.41 billion in AI-related contracts in 2026 alone, with large incumbents like Microsoft, Palantir, KPMG and IBM capturing most of the value even as US and UK suppliers' overall contract totals converge. (https://www.thinkdigitalpartners.com/news/2026/08/18/big-tech-dominates-as-government-ai-procurement-surges/)
