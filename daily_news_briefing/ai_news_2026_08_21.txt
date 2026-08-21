@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 21, 2026
+
+🤖 AI & LLMs
+
+CISA added a critical remote-code-execution flaw (CVE-2025-62593, CVSS 9.4) in Ray, the open-source AI compute framework used by Amazon, Apple and OpenAI, to its Known Exploited Vulnerabilities catalog on August 17, 2026, giving federal agencies just three days to patch amid active exploitation by a cryptomining botnet. (https://www.cisa.gov/news-events/alerts/2026/08/17/cisa-adds-one-known-exploited-vulnerability-catalog)
+
+OpenAI launched ChatGPT for Teens on August 18, 2026, an age-restricted experience for 13-17 year olds with automatic age-prediction, default content restrictions around self-harm and romantic/sexual conversations, and study-mode homework support, while letting misclassified adults verify their age via a selfie. (https://www.usnews.com/news/technology/articles/2026-08-18/openai-launches-chatgpt-for-teens-promising-a-more-age-appropriate-chatbot)
+
+🚀 Startups
+
+AI code-review startup CodeRabbit raised a $143 million Series C at a $1.5 billion valuation (announced August 12, 2026), co-led by Atomico and Smash Capital, as revenue jumped more than 5x amid the AI-generated code surge and it expanded into agentic change management. (https://www.businesswire.com/news/home/20260812311754/en/CodeRabbit-Raises-$143-Million-at-$1.5-Billion-Valuation-and-Introduces-Agentic-Change-Management)
+
+Enterprise data-platform startup Prevalent AI raised $22 million (announced August 20, 2026) — its first outside capital in nine years after growing purely on profitability — to expand its "sovereign knowledge graph," which unifies scattered enterprise data sources, into the US market. (https://fintech.global/2026/08/20/prevalent-ai-raises-22m-as-agentic-ai-risk-mounts/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+RICS's "AI in Commercial Property and Construction Report 2026" (published August 18, 2026) found two-thirds of construction professionals now use AI in some form, up from just over half in 2025, but firms are struggling to turn pilots into routine practice as privacy and security concerns become a growing barrier to adoption. (https://www.newcivilengineer.com/latest/rising-privacy-and-security-concerns-hindering-ai-adoption-in-construction-industry-18-08-2026/)
+
+Munich-based spatial-data startup NavVis raised an $85 million Series D led by The Jordan Company (announced August 6, 2026) to build out what it calls the "data foundation for physical AI," scanning construction sites and factories at survey grade to power digital twins. (https://www.navvis.com/blog/navvis-raises-usd-85m-series-d-round-to-supply-the-data-foundation-for-physical-ai)
+
+📋 AI in Procurement & Proposal Writing
+
+Industry comments filed after the August 3 deadline show GSA's revised AI/LLM government-contracting clause still hasn't satisfied critics, with Palantir, Nvidia and Microsoft warning the "overly broad" rule could chill contractor adoption of open-source and third-party AI models (reported August 20, 2026). (https://fedscoop.com/revised-gsa-ai-clause-hasnt-fully-calmed-industry-concerns-comments-show/)
+
+The FBI issued an amendment to its RFP for enterprise AI hardware infrastructure — covering AI compute servers, rack-scale systems and high-speed networking gear for two to four planned IDIQ contracts — with revised proposals now due August 25, 2026. (https://www.executivegov.com/articles/fbi-rfp-amendment-ai-hardware-infrastructure)
