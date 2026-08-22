@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 22, 2026
+
+🤖 AI & LLMs
+
+Anthropic is set to add Citigroup to its top IPO banks (joining Morgan Stanley, Goldman Sachs and JPMorgan) and now expects its offering to match or exceed SpaceX's record $75 billion IPO as it targets a September–October 2026 listing (reported August 20-21, 2026). (https://www.bloomberg.com/news/newsletters/2026-08-21/anthropic-expects-to-match-or-top-spacex-s-record-ipo-size)
+
+OpenAI will expand ChatGPT Ads to 31 European markets starting August 24, 2026 — its largest ads rollout yet — showing sponsored, clearly-labeled results below responses to Free and Go users only, without personalization to comply with GDPR (announced August 21, 2026). (https://openai.com/index/chatgpt-ads-expands-across-europe/)
+
+🚀 Startups
+
+Nvidia will pay AI-coding startup Poolside $6 billion to non-exclusively license its "Model Factory" AI model-development platform and hire 109 of its staff, plus invest $1 billion at a $12 billion valuation — the third such licensing deal Nvidia has structured this year rather than an outright acquisition (reported August 20, 2026). (https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says)
+
+Orbital-data-center startup Starcloud raised a $250 million extension to its Series A at a $2.3 billion valuation (announced August 21, 2026) to open a larger manufacturing facility and advance Starcloud-3, its largest in-space AI-inference satellite, ahead of a planned launch on SpaceX's Starship. (https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Global engineering firm Arcadis took a strategic stake in AEC AI platform Nomic and struck a long-term partnership after a six-month trial with roughly 150 engineers found 86% said the AI agents — which check drawings against 380+ codes, review submittals and research RFIs — changed how they approached their work (reported early August 2026). (https://aecmag.com/data-management/arcadis-invests-in-aec-ai-platform-nomic/)
+
+Industrial computer-vision startup SiteVue AI raised a $7.5 million seed round co-led by Penny Jar Capital and Overture (announced August 6, 2026) for fixed and wearable AI cameras that monitor manufacturing, food-processing and construction sites in real time for defects, PPE compliance and injuries. (https://www.prnewswire.com/news-releases/sitevue-ai-secures-7-5m-in-seed-funding-to-bring-ai-powered-vision-to-the-frontlines-of-manufacturing-food-processing-and-construction-302845163.html)
+
+📋 AI in Procurement & Proposal Writing
+
+Austin startup Fluxco raised a $26 million seed round co-led by 8VC and Congruent Ventures (reported mid-August 2026) for an AI platform that parses complex electrical-transformer specs and matches them against bids from 150+ global OEMs, tackling a supply-chain bottleneck that has been stalling infrastructure and data-center projects. (https://www.finsmes.com/2026/08/fluxco-raises-26m-in-seed-funding.html)
+
+DHS awarded Oracle America a potential $568 million single-award IDIQ contract under its Cumulus commercial cloud acquisition program (published August 11, 2026), covering AI-ready PaaS, SaaS and IaaS services plus professional training as agencies race to build out AI infrastructure through streamlined procurement vehicles. (https://www.govconwire.com/articles/oracle-568m-dhs-cumulus-cloud-contract-award)
