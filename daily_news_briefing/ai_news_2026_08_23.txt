@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 23, 2026
+
+🤖 AI & LLMs
+
+Google DeepMind's open-weight Gemma model family passed 1 billion cumulative downloads with more than 100,000 community-built variants (announced August 20, 2026), now running everywhere from NASA and Starcloud's orbital-inference satellites to India's national health app and dolphin-vocalization research. (https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/)
+
+Israeli cybersecurity firm Dream documented what it says is the first fully autonomous, end-to-end AI cyberattack on a government, with suspected China-linked hackers running up to eight parallel open-source AI agents that breached 85 Taiwanese government accounts and extracted over 2,500 personnel records across a four-day campaign in July (reported August 12, 2026). (https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/)
+
+🚀 Startups
+
+Satellite maker Muon Space raised a $250 million Series C at a $1.5 billion valuation (announced August 20, 2026), backed by Google and Salesforce Ventures, to scale its manufacturing to 500 satellites a year and expand into orbital AI-computing capabilities. (https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production/)
+
+MIT spinoff Apollo Atomics raised a $31 million seed round (announced August 20, 2026) to mass-produce factory-built, truck-shippable compact nuclear reactors aimed at powering AI data centers, already claiming more than 20 gigawatts in signed letters of intent. (https://techstartups.com/2026/08/20/mit-spinoff-apollo-atomics-raises-31m-to-build-factory-made-nuclear-reactors-for-ai-data-centers/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+BIM and virtual-design-and-construction firm ENG acquired AI-powered AEC software studio e-verse (announced August 11, 2026), folding e-verse's custom Revit integrations, predictive analytics and computer-vision tools into ENG's 800-person VDC practice. (https://www.einpresswire.com/article/933378428/eng-acquires-e-verse)
+
+Imad Ventures, the venture arm of Saudi contractor Nesma & Partners, launched a new fund targeting AI, advanced materials and digital tools for construction (reported mid-August 2026), building on its existing bets in Gravis Robotics, Neuron Factory and Kaya AI. (https://contechroundup.substack.com/p/last-week-in-contech-17-august-2026)
+
+📋 AI in Procurement & Proposal Writing
+
+IBM announced a strategic partnership with OpenAI (August 13, 2026), embedding GPT-5.6, Codex and ChatGPT Work into IBM Consulting Advantage and launching a dedicated "OpenAI Practice" aimed at procurement, finance, HR and customer-operations workflows for financial-services, government, telecom and retail clients. (https://newsroom.ibm.com/2026-08-13-ibm-partners-with-openai-to-accelerate-secure-ai-deployment-for-enterprises-across-core-operations)
+
+Federal officials from GSA, NASA and the Transportation Department told GovCIO Media & Research's Federal AI Forum (August 13, 2026) that traditional acquisition timelines can't keep pace with fast-evolving AI models, pointing to GSA's OneGov bulk-purchasing strategy as one workaround for faster AI procurement. (https://govciomedia.com/ai-forces-agencies-to-rethink-federal-procurement/)
