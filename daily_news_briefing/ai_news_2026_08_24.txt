@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 24, 2026
+
+🤖 AI & LLMs
+
+DeepSeek released DeepSeek-V4-Flash-Vision-Exp (August 21, 2026), its first experimental multimodal model, adding image and screenshot understanding to its existing text and agentic capabilities while claiming performance approaching Anthropic's Claude Opus 4.8 on several benchmarks. (https://siliconangle.com/2026/08/21/deepseek-debuts-multimodal-language-model-competitive-with-opus-4-8/)
+
+Google Cloud formally donated its Agent2Agent (A2A) protocol to the Linux Foundation-directed Agentic AI Foundation (August 20, 2026), placing it alongside Anthropic's Model Context Protocol under neutral governance as the foundation's membership grew past 250 organizations including AWS, Microsoft and OpenAI. (https://developers.googleblog.com/en/google-cloud-donates-a2a-to-linux-foundation/)
+
+🚀 Startups
+
+Colossal Biosciences spinout Astromech raised $20 million at a $3.8 billion valuation (announced August 20, 2026), led by biotech investor Bob Nelsen, to build predictive AI models of biological and evolutionary change trained on genomic data spanning roughly 3.8 billion years of evolution. (https://siliconangle.com/2026/08/20/astromech-raises-20m-to-build-a-biological-operating-system-that-can-forecast-evolutionary-change/)
+
+Twin1 AI emerged from stealth with a $20 million seed round co-led by Bessemer Venture Partners, Tribeca Venture Partners and Aramco Ventures (announced August 20, 2026), building privacy-first AI "digital twins" of knowledge workers that already automate 30-50% of communications work for clients including Linklaters and Orrick. (https://techstartups.com/2026/08/20/twin1-ai-emerges-from-stealth-with-20m-in-funding-to-give-every-professional-an-ai-powered-digital-twin/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Construction Dive reported (mid-August 2026) that jobsite robotics adoption is accelerating fast, with Bedrock Robotics, Gravis Robotics and FieldAI together raising nearly $1 billion from investors including Nvidia, Bill Gates and Tishman Speyer to put autonomous excavators and heavy equipment to work on live contractor sites. (https://www.constructiondive.com/news/construction-robotics-adoption-investment-nvidia-gravis-bedrock-field-ai/828294/)
+
+Homebuilding startup Rehza launched a connected AI platform for builders and homeowners (announced August 20, 2026), unifying the buyer journey from first interaction through construction, closing and ongoing homeownership into a single digital experience. (https://www.globenewswire.com/news-release/2026/08/20/3348163/0/en/rehza-launches-ai-platform-transforming-the-home-builder-and-homeowner-experience.html)
+
+📋 AI in Procurement & Proposal Writing
+
+aPriori Technologies launched general availability of aiSource (announced August 19, 2026), an AI sourcing and negotiation tool that gives direct-materials procurement teams manufacturing cost intelligence to negotiate more effectively with suppliers, already deployed across automotive and industrial-equipment manufacturers since its May early-access launch. (https://www.morningstar.com/news/business-wire/20260812970314/apriori-technologies-launches-aisource-giving-procurement-teams-the-manufacturing-product-intelligence-to-negotiate-on-equal-terms-with-suppliers)
+
+Supply-chain startup Freehand raised a $75 million Series B co-led by Battery Ventures and NewRoad Capital Partners (announced July 29, 2026) to scale autonomous AI agents that manage complex supply-chain spend and back-office procurement operations for Fortune 500 companies including Meta and Dunkin'. (https://news.crunchbase.com/transportation/freehand-pando-enterprise-supply-chain-spend-management-startup/)
