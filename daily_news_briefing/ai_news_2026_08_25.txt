@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 25, 2026
+
+🤖 AI & LLMs
+
+OpenAI launched "AI Futures" (announced August 24, 2026), the blog of a new Strategic Futures team dedicated to preventing any single actor from dominating AI-driven economic or political power, spanning policy, economics, law and forecasting on how free societies should adapt to transformative AI. (https://openai.com/index/introducing-ai-futures/)
+
+AWS pushed Web Search on Amazon Bedrock AgentCore to general availability (August 21, 2026), a managed server-side tool that lets AI agents fetch live, cited web knowledge without customer data ever leaving their AWS account. (https://aws.amazon.com/bedrock/agentcore/)
+
+🚀 Startups
+
+Logistics software company Descartes Systems Group acquired AI-powered freight-brokerage platform Tai for about $100 million in cash (announced August 24, 2026), adding Tai's AI transportation-management tools for quoting, carrier sourcing and load execution to its freight-brokerage offering. (https://www.freightwaves.com/news/descartes-acquires-tai-for-100m)
+
+AI-native accounting platform Rillet raised a $100 million Series C led by ICONIQ at a $1 billion valuation (announced August 19, 2026), two years after emerging from stealth, to build what it calls "accounting superintelligence" for finance teams. (https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+San Ramon startup Illoca launched the beta of Plamo (announced August 21, 2026), a browser-based "agentic 3D workspace" that brings vibe-coding-style intent-driven design to architecture and engineering, turning sketches, reference images and natural language into editable, parametric BREP geometry. (https://aecmag.com/cad/illoca-brings-vibe-modelling-to-aec-with-plamo/)
+
+RSM US Chief Economist Joe Brusuelas told Construction Dive (published August 12, 2026) that a "historic exit" of older workers from the US labor force — the 55-and-over participation rate fell to 36.9% — is strengthening the business case for construction firms to substitute AI and automation for scarce labor. (https://www.constructiondive.com/news/historic-labor-market-shrinkage-highlights-for-ai-brusuelas-jobs-employment/827657/)
+
+📋 AI in Procurement & Proposal Writing
+
+DHS's Procurement Innovation Lab launched a Commercial Solutions Opening (reported mid-to-late August 2026) to identify production-ready commercial AI tools that reduce administrative burden and strengthen acquisition decision-making department-wide, with a solicitation release targeted for August 2026 and award expected in Q4 FY2026. (https://orangeslices.ai/dhs-procurement-innovation-lab-launches-commercial-solutions-opening-for-ai-procurement-modernization/)
+
+Indian AI firm Valiance Solutions launched Tender Intelligence (August 17, 2026), an enterprise SaaS platform built on India-hosted, open-source models that automates government tender evaluation and has already processed more than 16,000 bids in production at one of India's largest oil-sector PSUs. (https://www.business-standard.com/content/press-releases-ani/valiance-solutions-launches-tender-intelligence-an-enterprise-saas-for-government-procurement-126081700637_1.html)
