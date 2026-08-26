@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 26, 2026
+
+🤖 AI & LLMs
+
+Thomson Reuters launched "Thomson" (announced August 24, 2026), its first proprietary large language model, trained on decades of Westlaw, Practical Law and Reuters content and initially powering the Tabular Analysis feature in CoCounsel Legal. (https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
+
+OpenAI retired the o3 model from ChatGPT's model picker on August 26, 2026, closing a 90-day sunset window as part of ongoing model consolidation, though the higher-compute o3-pro remains available for Pro, Team, Enterprise and Edu subscribers. (https://www.techradar.com/ai-platforms-assistants/chatgpt/openai-just-quietly-retired-the-last-of-the-gpt-4-models-and-it-feels-like-the-end-of-an-ai-era)
+
+🚀 Startups
+
+Autonomous trucking startup Gatik raised a $200 million round led by Qatar Investment Authority and Koch Disruptive Technologies (announced August 25, 2026), just two months after striking a multiyear driverless-delivery deal with PepsiCo. (https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/)
+
+Stability AI, maker of the Stable Diffusion image generator, raised $76 million in fresh funding (announced August 25, 2026). (https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Porsche signed a €1.25 billion ($1.5 billion) deal with Tata Consultancy Services to deploy AI across its engineering, manufacturing, operations and customer-experience functions, with TCS also acquiring Porsche's consulting unit MHP for €320 million (announced August 24, 2026). (https://www.bloomberg.com/news/articles/2026-08-24/porsche-inks-1-5-billion-ai-deal-with-india-s-tata-consultancy)
+
+Millwork and casework platform MillworkSuite launched an AI estimating and direct-to-CAD tool (announced August 22, 2026) that turns architectural PDF drawings into priced, CAD-ready cabinet layouts for HOMAG iX, Microvellum or CabinetVision, cutting drafting time in half, and demoed it this week at the International Woodworking Fair in Atlanta. (https://www.prnewswire.com/news-releases/millworksuite-launches-ai-estimating-and-direct-to-cad-platform-that-cuts-drafting-time-in-half-302857729.html)
+
+📋 AI in Procurement & Proposal Writing
+
+Coupa unveiled Navi Connect (announced August 20, 2026), an MCP-powered framework with more than 30 tools that lets external AI systems like Microsoft Copilot securely tap into live Coupa spend data, ahead of a September release expanding agentic AI across sourcing, payments and supplier management. (https://www.coupa.com/newsroom/powering-the-future-of-global-trade-coupa-introduces-next-generation-agentic-ai-to-accelerate-autonomous-spend-management-vision/)
+
+A Northwestern Kellogg study published in PNAS (reported mid-August 2026) found NIH grant proposals showing heavier AI assistance were about four percentage points more likely to win funding, but tended to be less original and to mirror ideas the agency had already funded. (https://news.northwestern.edu/stories/2026/08-2/chatbots-are-changing-who-wins-research-grants-study-finds)
