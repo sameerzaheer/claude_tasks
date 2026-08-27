@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 27, 2026
+
+🤖 AI & LLMs
+
+Alibaba's Qwen team released Qwen3.8-Flash-Next (August 26, 2026), an experimental 125-billion-parameter model activating just 6 billion params per token that previews the upcoming Qwen4 architecture, matching Qwen3.7-Plus performance at roughly one-ninth the training cost. (https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency/)
+
+IBM released Granite 4.2 (August 25, 2026), an open-weight (Apache 2.0) family of 3B/8B/30B reasoning models trained with agentic reinforcement learning inside real software-engineering, terminal and web-search environments, supporting context windows up to 512K tokens. (https://research.ibm.com/blog/introducing-granite-4-2)
+
+🚀 Startups
+
+Power-flexible AI data-center startup Emerald AI raised an oversubscribed $150 million Series A at a $1.05 billion valuation (announced August 25, 2026), co-led by Energize Capital and DCVC, to help AI data centers dynamically adjust electricity use and unlock over 100GW of untapped U.S. grid capacity. (https://www.businesswire.com/news/home/20260825127649/en/Emerald-AI-Raises-$150-Million-Series-A-at-$1.05-Billion-Valuation-to-Scale-Power-Flexible-AI-Data-Centers)
+
+South Korean AI platform WRTN Technologies raised about $72.2 million in a Series C (announced August 25-26, 2026) at a valuation topping $722 million, becoming the first Korean consumer AI startup to cross that mark as it funds global expansion. (https://www.bloomberg.com/news/articles/2026-08-25/korean-ai-startup-wrtn-raises-funds-at-870-million-value-to-fund-global-growth)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Homebuilding AI startup Digs raised a $25.3 million Series A led by Builders FirstSource (announced August 25, 2026), alongside a five-year partnership integrating its AI platform — covering pre-construction estimates, blueprint collaboration and post-move-in warranty care — into Builders FirstSource's network of 140,000 builder clients. (https://www.geekwire.com/2026/homebuilding-ai-startup-digs-raises-25-3m-and-partners-with-building-products-giant/)
+
+At BEX Asia 2026 in Singapore (August 26, 2026), organizers said roughly 60% of the event's 200+ exhibiting brands showcased AI-driven solutions spanning BIM workflows, tendering, contract management, inspections and construction robotics. (https://highways.today/2026/08/26/bex-asia-2026/)
+
+📋 AI in Procurement & Proposal Writing
+
+AWS brought Amazon Bedrock AgentCore Payments to general availability (reported mid-to-late August 2026), letting AI agents autonomously discover, access and pay for APIs, MCP servers and content — built with Coinbase and Stripe, with configurable spending limits and end-to-end observability. (https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/)
+
+Cloudflare launched Cloudflare Wallets and cloudflare.pay (announced August 4, 2026), giving AI agents a stablecoin wallet and a permanent verified identity so they can autonomously pay for goods and services within spending caps, merchant allowlists and other guardrails set by their human owners. (https://www.cloudflare.com/press/press-releases/2026/cloudflare-gives-ai-agents-an-identity-and-a-wallet/)
