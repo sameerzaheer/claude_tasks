@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 28, 2026
+
+🤖 AI & LLMs
+
+Anthropic signed a $45 billion, six-year compute deal with UK infrastructure firm Nscale (announced August 26, 2026), securing 460 megawatts of Nvidia Vera Rubin-chip capacity at a West Virginia data center as it stacks up compute commitments ahead of a planned IPO. (https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html)
+
+Nvidia reported record fiscal Q2 revenue of $96.2 billion, up 106% year-over-year, with data-center sales of $75.2 billion, and guided to $108 billion next quarter as CEO Jensen Huang forecast 70% revenue growth for fiscal 2028 (reported August 26, 2026). (https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html)
+
+🚀 Startups
+
+AI assistant startup Instinct raised a $250 million Series B at a $2.5 billion valuation led by Index Ventures and Benchmark (announced August 26, 2026), just three weeks after a $75 million Series A at a $500 million valuation, as its SMS- and phone-based "superhuman operator" agent goes viral. (https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/)
+
+UK livestock-tech platform Breedr raised a $27 million Series B led by Partech's impact fund (announced August 27, 2026) to scale its AI-powered, data-verified cattle marketplace and digitize the global beef supply chain, bringing total funding to $46.6 million. (https://techfundingnews.com/breedr-raises-27m-to-digitise-beef-supply-chain/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Austin-based TerraFirma raised $115 million, including a $100 million Series A led by Kleiner Perkins (announced July 14, 2026), to build AI software that turns heavy construction equipment into semi-autonomous robots and reverse construction's decades-long productivity decline. (https://siliconangle.com/2026/07/14/construction-automation-startup-terrafirma-raises-115m/)
+
+Amsterdam-based Monumental raised a $32 million Series B led by Khosla Ventures (announced July 15, 2026) to expand its fleet of 150+ AI-powered autonomous bricklaying robots from Europe into the US construction market. (https://siliconangle.com/2026/07/15/construction-robot-startup-monumental-reels-32m/)
+
+📋 AI in Procurement & Proposal Writing
+
+Loopio's 2026 RFP Trends & Benchmarks Report found generative-AI adoption among proposal teams nearly doubled year-over-year, from 34% to 68%, with most teams now treating AI as an operational baseline rather than an experiment. (https://www.businesswire.com/news/home/20260311267176/en/New-Loopio-Research-Finds-AI-Adoption-and-Leadership-Expectations-Are-Climbing-as-RFP-Revenue-Influence-Reaches-a-Five-Year-High)
+
+Predictive-procurement platform Arkestro added a new president/COO and CTO to its leadership team (announced August 6, 2026) as customer spend flowing through its AI-driven bid and sourcing platform more than tripled year-to-date. (https://arkestro.com/press-releases/arkestro-drives-significant-customer-momentum-growth-across-industries-heading-into-2026/)
