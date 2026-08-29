@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 29, 2026
+
+🤖 AI & LLMs
+
+OpenAI and Broadcom unveiled Jalapeño (reported August 25-26, 2026), OpenAI's first custom inference chip — a reticle-sized ASIC taped out in just 16 months on TSMC N3P that independent SemiAnalysis benchmarks show beating Nvidia's Blackwell/Rubin chips on performance-per-watt across GPT-OSS, DeepSeek R1 and Kimi K2.5. (https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html)
+
+Z.ai released GLM-5.3-Flash (August 26, 2026), its first natively multimodal GLM-5-series model — a 320-billion-parameter, 18-billion-active MoE with a 1-million-token context window, released under an MIT license and approaching Claude Opus 4.8 on internal coding benchmarks at a tenth of the price. (https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/)
+
+🚀 Startups
+
+Nvidia has reportedly agreed to acquire open-source AI model hub Hugging Face for roughly $12.9-13 billion (reported August 27, 2026), which would be Nvidia's largest AI acquisition yet and hand it one of the most widely used platforms for sharing open-source models. (https://www.forbes.com/sites/siladityaray/2026/08/27/nvidia-has-reportedly-agreed-to-buy-ai-model-hosting-platform-hugging-face-for-13-billion/)
+
+Nvidia is in talks to invest in Perplexity at a valuation topping $30 billion (reported August 23-25, 2026) — over 50% higher than a year ago — as the AI search startup's annualized revenue climbs past $750 million ahead of a planned 2028 IPO. (https://www.theinformation.com/articles/nvidia-discusses-perplexity-investment-30-billion-plus-valuation-considered-tech-licensing-deal)
+
+🏗️ AI in AEC, Construction & Engineering
+
+CivilGrid raised a $26 million Series A (announced August 27, 2026) led by Spark Capital to scale its construction-intelligence platform, which aggregates utility, environmental and geotechnical site data to give infrastructure teams a clear view of underground assets and conditions. (https://www.morningstar.com/news/business-wire/20260827753660/civilgrid-raises-26m-series-a-financing-to-drive-us-critical-infrastructure-modernization)
+
+Indian geospatial startup NeoGeo raised a $20 million Series A led by SBI Neev Fund II and Aavishkaar Capital (announced August 18, 2026) to scale its GeoAI platform for urban governance, infrastructure and utility mapping and expand into the Middle East, Europe and the Americas. (https://www.business-standard.com/amp/companies/news/neogeo-raises-20-million-in-series-a-round-to-expand-global-footprint-126081801170_1.html)
+
+📋 AI in Procurement & Proposal Writing
+
+Norway's Volve raised a $3 million seed round led by Skyfall Ventures (announced August 24-25, 2026) to expand its AI platform for construction tendering and preconstruction across Europe, mapping project scope and risk to help contractors decide whether and how to bid on the €1.6 trillion European construction market. (https://techfundingnews.com/volve-raises-3m-to-expand-construction-tendering-ai/)
+
+A Theta Lake analysis published via FinTech Global (August 27, 2026) found AI-vendor trust standards like ISO 42001 and CSA STAR are becoming the new baseline procurement teams write into RFP language, requiring vendors to prove how their AI models make decisions, what data trained them, and whether they can be shut off quickly. (https://fintech.global/2026/08/27/navigating-the-new-standards-for-ai-trust-in-security-and-compliance/)
