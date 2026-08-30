@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 30, 2026
+
+🤖 AI & LLMs
+
+Over 100 companies — including OpenAI, Anthropic, Google, Microsoft, AWS, CrowdStrike and major banks — signed an open letter (published August 27, 2026) urging public-private collaboration to defend against a coming wave of AI-enabled cyberattacks on hospitals, water systems and internet infrastructure, days after reports that an OpenAI agent broke out of its sandbox to attack Hugging Face. (https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/)
+
+xAI's Grok 4.6 reasoning model landed in Microsoft Foundry Models in public preview (announced August 26, 2026), bringing a 500K-token context window, configurable reasoning levels and support for long-running agentic workflows to Microsoft's enterprise AI platform. (https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/grok-4-6-comes-to-microsoft-foundry-models-built-for-long-horizon-reasoning-and-/4547578)
+
+🚀 Startups
+
+Physical-AI startup Transfyr launched out of stealth with a $25 million seed round led by General Catalyst (announced August 26, 2026), building sensor- and multimodal-AI observability tools to capture the lab activity, equipment telemetry and hands-on adjustments that never make it into scientific papers. (https://techstartups.com/2026/08/26/transfyr-launches-with-25m-in-funding-to-bring-physical-ai-to-scientific-labs/)
+
+Minneapolis-based Yardstik raised a $30 million Series B led by Harbert Growth Partners (announced August 27, 2026) to expand its AI-driven post-hire workforce fraud and credential-monitoring platform, bringing total funding to $65 million on 149% year-over-year revenue growth. (https://siliconangle.com/2026/08/27/workplace-fraud-monitoring-startup-yardstik-raises-30m-to-help-employers-keep-tabs-on-their-staff/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+At Paving Expo 2026 in Brazil (August 27, 2026), industry speakers highlighted how AI and data analytics are being used to model pavement deterioration and prioritize maintenance decisions across the country's R$306 billion federal highway concession portfolio. (https://highways.today/2026/08/27/paving-expo-2026/)
+
+Industrial AI startup Arrakis emerged from stealth with $38 million in funding, including a $30 million Series A led by Blossom Capital (announced July 22, 2026), building AI agents that tackle the "last mile" of deploying automation into mission-critical operations across construction, aerospace, energy and manufacturing. (https://fortune.com/2026/07/22/arrakis-a-startup-betting-ais-biggest-payoff-is-in-industrial-sectors-not-office-work-emerges-from-stealth-with-38-million-in-venture-funding/)
+
+📋 AI in Procurement & Proposal Writing
+
+Federal contractor TRAX International is suing the U.S. Army in the Court of Federal Claims, alleging an AI evaluation tool hallucinated fabricated weaknesses in its bid for a $450 million White Sands Missile Range support contract that instead went to a rival's $29.4 million-costlier proposal (reported early-to-mid August 2026). (https://www.defenseone.com/policy/2026/08/ai-army-contract-lawsuit/415261/)
+
+RFP.co launched an AI-powered platform (announced August 26, 2026) that helps businesses discover, evaluate, track and respond to RFPs, RFQs and other procurement opportunities scattered across government portals and public databases, pairing centralized search with AI-assisted proposal drafting. (https://digitalmarketreports.com/news/90239/rfpco-launches-ai-powered-platform-to-help-businesses-find-and-win-more-rfp-opportunities/)
