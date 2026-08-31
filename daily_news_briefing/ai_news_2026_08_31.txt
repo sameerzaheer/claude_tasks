@@ -1,0 +1,25 @@
+Daily AI News Briefing — August 31, 2026
+
+🤖 AI & LLMs
+
+DeepSeek is nearing a $7.4 billion funding round at a $74 billion pre-money valuation (reported August 28-29, 2026), with Tencent and CATL among the backers, as it gears up for a possible 2027 Shanghai STAR Market IPO. (https://techstartups.com/2026/08/28/deepseek-nears-7-4-billion-funding-round-at-74-billion-valuation-ahead-of-2027-ipo/)
+
+OpenAI announced it will end Cursor's access to its models (November 12, 2026 shutoff), including future models like Astra, after SpaceX completed its acquisition of the AI coding startup, citing distrust that SpaceX will honor OpenAI's terms of service (announced August 29, 2026). (https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html)
+
+🚀 Startups
+
+Andreessen Horowitz raised $1.1 billion for a new "Machine Age Fund" dedicated to the physical buildout of AI — chips, memory, networking, data centers, robotics and home AI appliances (announced August 28, 2026), marking a formal push into hardware investing for the firm. (https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/)
+
+Robotics startup Generalist, founded by former Google DeepMind and Boston Dynamics engineers, hit a $3 billion valuation after raising a roughly $200 million extension to its Series B (reported August 25, 2026), as its Gen 1.5 model lets robots learn new tasks from short video demos. (https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+PlanRadar added AI Agents to its construction documentation and reporting platform (posted August 20, 2026) — including a Response agent that reads an incoming RFI, searches project documents and drafts a sourced reply, cutting first-response time from hours to minutes. (https://aecmag.com/project-management/planradar-adds-ai-agents-to-automate-routine-tasks/)
+
+Egnyte embedded its first domain-specific AI agents for AEC (posted August 11, 2026) — a Specifications Analyst and a Building Code Analyst — to extract details from large spec files and speed up code-compliance checks across the bid-to-completion process. (https://aecmag.com/news/egnyte-puts-aec-ai-agents-to-work/)
+
+📋 AI in Procurement & Proposal Writing
+
+GSA's Federal Acquisition Service is pushing to assemble an AI-powered federal procurement system that consolidates agency and supplier data before year-end, with industry RFI responses due August 29, 2026, per FAS Commissioner Josh Gruenbaum. (https://news.bgov.com/bloomberg-government-news/ai-powered-procurement-revamp-on-gsas-to-do-list-by-december)
+
+The Hackett Group's 2026 Procurement Agenda and Key Issues Study found 80% of procurement executives now call AI the function's most transformational trend, with agentic AI adoption nearly doubling year-over-year to 56%. (https://www.thehackettgroup.com/the-hackett-group-reports-rapid-progress-in-procurements-ai-agenda/)
