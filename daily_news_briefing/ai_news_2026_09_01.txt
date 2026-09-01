@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 1, 2026
+
+🤖 AI & LLMs
+
+The Pentagon added OpenAI's ChatGPT Mil and xAI's Grok for Government to its GenAI.mil platform alongside Google Gemini (announced August 31, 2026), giving 3 million DoD personnel access to frontier AI tools — notably excluding Anthropic's Claude amid an ongoing dispute over contract terms. (https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/)
+
+Anthropic's Model Context Protocol passed 400 million monthly SDK downloads (reported around August 31, 2026), a fourfold jump during 2026 that cements it as the dominant standard for connecting AI agents to external tools and enterprise data. (https://eu.36kr.com/en/p/3916379879861638)
+
+🚀 Startups
+
+AI-powered sales and marketing platform Clay is raising a new round led by Wellington Management at a $7 billion pre-money valuation (announced August 31, 2026), up sharply from the $5 billion mark set in a January employee tender. (https://www.axios.com/pro/all-deals/2026/08/31/clay-7-billion-pre-money-valuation)
+
+Neocloud GPU provider Lambda secured $1 billion in short-dated private debt (announced August 28, 2026) to buy Nvidia chips it will lease to Microsoft, its latest billion-dollar raise as it races to build out gigawatt-scale AI data-center capacity. (https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Rundoo, an AI-first operating system for independent building-supply stores (hardware, lumber, paint, farm and feed), raised a $30 million Series B led by Battery Ventures (announced August 19, 2026), bringing total funding to $48 million as it scales past 500 stores. (https://siliconangle.com/2026/08/19/rundoo-raises-30m-to-expand-its-ai-native-operating-system-for-small-supply-stores/)
+
+A new market report (published August 29, 2026) forecasts the global AI-in-construction market growing from $1.43 billion in 2025 to $36.86 billion by 2033 (33.7% CAGR), as buyers increasingly weigh data readiness and integration burden before adopting AI tools. (https://www.openpr.com/news/4616526/artificial-intelligence-in-construction-market-to-reach)
+
+📋 AI in Procurement & Proposal Writing
+
+RFP.co launched an AI-powered RFP intelligence platform (announced August 26, 2026) that discovers, evaluates, tracks and helps respond to RFPs, RFQs and bids sourced from across the web, aiming to spare businesses from manually searching dozens of procurement portals. (https://digitalmarketreports.com/news/90239/rfpco-launches-ai-powered-platform-to-help-businesses-find-and-win-more-rfp-opportunities/)
+
+GovDash rolled out new AI agents for federal opportunity discovery (reported August 2026) that continuously scan SAM.gov, USASpending.gov and agency forecast portals and score each solicitation against a contractor's past performance, aiming to save 250-500 analyst hours a year. (https://www.govdash.com/blog/ai-agents-government-contract-opportunity-discovery)
