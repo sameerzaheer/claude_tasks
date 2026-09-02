@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 2, 2026
+
+🤖 AI & LLMs
+
+The European Commission classified ChatGPT as a "Very Large Online Search Engine" under the Digital Services Act (August 31, 2026), joining Reddit and Roblox under the EU's strictest platform-safety rules and requiring systemic risk assessments and independent audits by January 2027. (https://www.euronews.com/next/2026/08/31/eu-places-chatgpt-reddit-and-roblox-under-strictest-digital-safety-rules)
+
+Anthropic signed a $35 billion cloud-computing deal with Nvidia-backed Lambda for a new Texas data center (announced August 31, 2026), its second multibillion-dollar compute commitment in a week as it races to secure GPU capacity ahead of a possible fall IPO. (https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda)
+
+🚀 Startups
+
+AI trust-and-safety company Alice (formerly ActiveFence) raised $140 million at a valuation nearing $1 billion (announced August 25, 2026), as its AI-security business — used by eight of the ten leading AI labs — grew more than 500% and approaches $100 million in ARR. (https://siliconangle.com/2026/08/25/alice-raises-140m-as-its-ai-security-business-grows-more-than-500/)
+
+Miami-based AI-powered WhatsApp remittance platform Félix raised $200 million in Series C funding (announced September 1, 2026), reaching unicorn status as it expands from money transfers into loans and savings for Latino immigrants. (https://www.bloomberg.com/news/articles/2026-09-01/felix-pago-raises-200-million-to-expand-into-financial-services)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Total Synergy acquired Monograph (announced August 10, 2026) to build what the companies call a global, AI-enabled standard for architecture and engineering practice-management software, backed by additional capital from M33 Growth and PSG. (https://lasvegassun.com/news/2026/aug/10/total-synergy-and-monograph-join-forces-to-build-a/)
+
+Caterpillar acquired drone-based geospatial-AI company Skycatch (announced July 7, 2026) to feed near-real-time, AI-processed spatial data into its RPM and MineStar mining software, aiming to boost site safety and productivity. (https://investors.caterpillar.com/news/news-details/2026/Caterpillar-expands-mining-technology-capabilities-with-Skycatch-acquisition/default.aspx)
+
+📋 AI in Procurement & Proposal Writing
+
+The UK government opened the first public-service procurement competitions under its new £100 million Sovereign AI R&D Procurement Scheme (announced August 31, 2026), giving British AI startups a funded path to bid on challenges like cutting NHS waiting lists. (https://www.gov.uk/government/news/100-million-competition-to-back-british-ai-companies-to-fix-public-services)
+
+Coupa shipped its September 2026 procurement release with 250+ updates (announced early September 2026), extending its agentic Navi AI across sourcing, payments and supplier management and targeting an 80% cycle-time cut for fully automated sourcing intake-to-award flows. (https://www.coupa.com/blog/september-2026-procurement-automation/)
