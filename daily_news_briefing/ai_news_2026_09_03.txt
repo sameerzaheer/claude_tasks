@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 3, 2026
+
+🤖 AI & LLMs
+
+OpenAI disclosed that its unreleased Astra model is the first to cross the company's "Critical" cybersecurity capability threshold (announced September 1, 2026), scoring 100% on ExploitBench and independently chaining two zero-day exploits, prompting OpenAI to restrict Astra's most powerful cyber capabilities to a vetted coalition of partner organizations. (https://openai.com/index/path-to-astra/)
+
+Anthropic released Claude Fable 5.1 and Claude Mythos 5.1 (announced September 1, 2026), its most advanced coding and knowledge-work models yet, adding a 1-million-token context window, a 75% cut to cache-read pricing, and a new customer-hosted "Enterprise Frontier Safeguards" data-retention option. (https://www.anthropic.com/claude-fable-and-mythos-5-1)
+
+🚀 Startups
+
+San Francisco-based Tripo AI raised roughly $446 million (3 billion yuan) in Series B and B+ funding (announced September 1-2, 2026) led by China-focused VC firm MPCi, to push its 3D-native foundation models and 3D data infrastructure toward foundation-model scale. (https://www.finsmes.com/2026/09/tripo-ai-raises-approx-446m-in-series-b-funding.html)
+
+AI-agent security startup AIR emerged from stealth with $50 million raised across two seed rounds (announced September 1, 2026), led by Sequoia Capital and Greenoaks, to help enterprises vet the skills and third-party add-ons their AI agents rely on. (https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+MEP-engineering AI startup Endra will unveil an AI-native electrical module for MEP engineers at its inaugural "Epoch" launch event in Las Vegas on September 14, 2026, setting out its vision for engineering-logic-aware AI software after its $50 million US/UK expansion raise. (https://www.endra.ai/epoch)
+
+Swedish engineering consultancy group XPartners acquired Gothenburg-based PLM specialist Virtual Engineering (announced August 2026), adding its AI-supported product-lifecycle-management applications — used across Swedish industrial, defence and energy clients — to XPartners' engineering offering. (https://www.tradingview.com/news/modular_finance:08a933b6f7ca2:0-swedish-plm-specialist-virtual-engineering-joins-xpartners/)
+
+📋 AI in Procurement & Proposal Writing
+
+GovDash's September 2026 GovCon Intel Brief flags GSA's newly disclosed $13 billion in suspected federal-contractor fraud (announced August 25, 2026) as a signal that invoice and compliance scrutiny across GSA contracting vehicles — a key data point for federal proposal teams — is about to tighten. (https://www.govdash.com/blog/september-2026-govcon-intel-brief)
+
+The Global Procurement Awards 2026 ceremony takes place September 8 in London, with its "AI in Procurement" category shortlist — Macquarie Group, MTN Group, UCI Health and Vodafone Procure & Connect — spotlighting how large buying organizations are putting agentic AI to work in sourcing and supplier evaluation. (https://procurementmag.com/press-releases/global-procurement-awards-2026-shortlist-announced)
