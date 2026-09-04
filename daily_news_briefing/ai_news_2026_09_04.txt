@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 4, 2026
+
+🤖 AI & LLMs
+
+OpenAI launched GPT-6 Astra in limited preview (announced September 3, 2026), a model president Greg Brockman said marks "the AGI era" for cybersecurity, software engineering and science, ahead of a broader public rollout to ChatGPT and API users planned for September 5. (https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman)
+
+Google shipped Gemini 3.8 Flash (September 2, 2026), its third Flash release in six weeks, adding a 1-million-token context window and beating Claude Opus 5 on several benchmarks while topping its own predecessor, 3.7 Flash, on every published test. (https://9to5google.com/2026/09/02/gemini-3-8-flash-launch/)
+
+🚀 Startups
+
+AI coding startup Cognition, maker of the Devin agent, is set to close roughly $1 billion in new funding at a $47 billion valuation (reported September 2, 2026) — nearly double its $26 billion mark from three months earlier — after fielding almost $10 billion in investor interest. (https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value)
+
+Palo Alto Networks paid $500 million in cash and stock to acquire AI IT-helpdesk startup Console (announced September 2, 2026), folding the two-year-old, Thrive Capital-backed company's autonomous support agents into its Cortex security platform. (https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Caterpillar and FieldAI announced a collaboration (September 2, 2026) to bring FieldAI's robot foundation models to Caterpillar's heavy equipment, starting with autonomous jobsite inspections, digital twins and situational-awareness tools for construction and mining sites. (https://www.prnewswire.com/news-releases/caterpillar-and-fieldai-advance-ai-powered-industrial-innovation-302866862.html)
+
+Compu Dynamics Modular launched an expanded AI data-center infrastructure platform (announced September 1, 2026), offering prefabricated, factory-built modules ranging from a 750-kilowatt edge unit up to a 5-6 megawatt "Turnkey AI Factory" to speed construction of AI compute capacity. (https://www.globenewswire.com/news-release/2026/09/01/3354172/0/en/compu-dynamics-modular-launches-scalable-ai-infrastructure-platform-for-next-generation-data-centers.html)
+
+📋 AI in Procurement & Proposal Writing
+
+Munich-based Atira raised $17.5 million in seed funding (announced September 3, 2026) led by Accel to deploy AI agents that read incoming industrial sales requests and automatically generate the technical documentation, configuration proposals and pricing that make up a bid. (https://fortune.com/2026/09/03/exclusive-german-ai-startup-atira-raises-17-5-million-to-unclog-the-paperwork-bottleneck-in-industrial-dealmaking/)
+
+Nucleus Research released its 2026 Source-to-Pay Technology Value Matrix (September 1, 2026), naming Coupa, Esker, GEP, Vroozi and Zip as market leaders as AI-driven intake and orchestration reshape how procurement platforms are evaluated. (https://www.prnewswire.com/news-releases/nucleus-research-releases-2026-source-to-pay-technology-value-matrix-302866336.html)
