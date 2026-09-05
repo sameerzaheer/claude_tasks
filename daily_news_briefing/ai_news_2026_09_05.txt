@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 5, 2026
+
+🤖 AI & LLMs
+
+Tencent released and open-sourced Hy4 preview (announced August 28, 2026), a 770-billion-parameter Mixture-of-Experts model with a 1-million-token context window and Apache 2.0 license, positioning it as a coding- and research-focused rival to Kimi K3 and GLM-5.3. (https://technode.global/2026/09/04/tencent-hy4-preview-open-source-model/)
+
+Microsoft AI launched MAI-Transcribe-2 (announced September 3, 2026), a speech-recognition model it says tops the FLEURS benchmark across 60 languages and runs up to 10x faster than OpenAI's GPT-Transcribe, priced at an introductory $0.10 per audio hour through year-end. (https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed)
+
+🚀 Startups
+
+Adobe acquired Indian AI startup Rilo (announced September 3, 2026), absorbing the six-person, ten-month-old team and its natural-language workflow tech for competitor intelligence, content repurposing and lead generation into Adobe's agentic marketing push. (https://americanbazaaronline.com/2026/09/03/adobe-just-acquired-this-indian-ai-startup-487510/)
+
+AI data-center developer Crusoe raised over $3 billion at a $30 billion valuation (reported September 3, 2026), nearly tripling its October 2025 mark, co-led by Atreides Management and Valor Equity Partners on the heels of a $13 billion Jane Street GPU supply deal. (https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Total Synergy and Monograph announced they are joining forces (August 10, 2026) to build a combined, AI-enabled practice-management platform for architecture and engineering firms, merging Monograph's U.S. firm-management tools with Total Synergy's project accounting and resourcing software. (https://lasvegassun.com/news/2026/aug/10/total-synergy-and-monograph-join-forces-to-build-a/)
+
+AI-powered subsurface intelligence company Exodigo acquired civil engineering consultancy V&A, Inc. (announced July 8, 2026) in an estimated $25-30 million deal, adding V&A's utility and traffic engineering expertise on clients like Caltrans and LA Metro to Exodigo's AI infrastructure-delivery platform. (https://www.calcalistech.com/ctechnews/article/rjky3po7mx)
+
+📋 AI in Procurement & Proposal Writing
+
+Euna Solutions launched Solicitation Advisor (unveiled April 29, 2026), an AI feature inside its Euna Procurement platform that reviews draft RFPs before they're published, flagging ambiguous language, conflicting criteria and mismatches between evaluation criteria and requested supplier information. (https://www.constructiondive.com/news/ai-procurement-tool-evaluates-local-government-contract-euna-solutions/819485/)
+
+SpendHQ acquired Sligo AI (announced April 2, 2026) to launch what it calls the first agentic enterprise procurement platform, aiming to let AI agents execute sourcing, contract and spend-analysis workflows rather than just assist with them. (https://www.prnewswire.com/news-releases/spendhq-acquires-sligo-ai-to-bring-agentic-ai-to-enterprise-procurement-302731928.html)
