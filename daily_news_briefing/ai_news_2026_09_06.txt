@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 6, 2026
+
+🤖 AI & LLMs
+
+Anthropic said Claude autonomously produced the first end-to-end, computer-checked proof of Fermat's Last Theorem in the Lean language over 11 days (announced September 4, 2026), generating 13 million lines of Lean code and proving 30,300 theorems along the way. (https://www.anthropic.com/research/formalizing-fermats-last-theorem)
+
+OpenAI pledged $1 billion for "Daybreak for Frontline Defenders" (announced September 3, 2026), subsidizing access to its Daybreak cyber-defense models for water utilities, power grids, local governments and nonprofits, alongside a new "Defense Factory" architecture for continuously finding and patching vulnerabilities. (https://openai.com/index/daybreak-for-frontline-defenders/)
+
+🚀 Startups
+
+Gimlet Labs raised a $300 million Series B led by Andreessen Horowitz at a $3 billion valuation (announced September 4, 2026), with new backers Arm and Microsoft's M12, for its "multi-silicon inference cloud" that splits agentic AI workloads across GPUs, CPUs and custom accelerators. (https://siliconangle.com/2026/09/04/gimlet-labs-nabs-300m-for-its-disaggregated-inference-platform/)
+
+Wonderful AI raised a $550 million Series C led by Insight Partners at a $5 billion valuation (announced September 2, 2026) to scale its AI automation platform for enterprise workflows. (https://siliconangle.com/2026/09/02/wonderful-raises-550m-at-5b-valuation-for-its-ai-automation-platform/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Bentley Systems' Year in Infrastructure 2026 finalists (announced August 20, 2026) showed two-thirds of the 36 finalist projects used AI, up from roughly half in 2025, signaling AI on flagship infrastructure projects has shifted from novelty to expectation. (https://highways.today/2026/08/20/bentley-yii-2026-finalists/)
+
+ENR's 2026 Top 400 Contractors report (published September 3, 2026) found contractor revenue jumped 11.8% to $671.4 billion in 2025, propelled largely by a surge in AI data-center construction work. (https://www.enr.com/articles/63598-enr-top-400-review-data-center-boom-raises-stakes)
+
+📋 AI in Procurement & Proposal Writing
+
+GSA began charging federal agencies a platform fee to use its USAi AI-testing platform (reported September 3, 2026), reversing the free-access model it launched a year earlier as agencies expand AI experimentation. (https://www.nextgov.com/artificial-intelligence/2026/09/agencies-now-have-pay-use-usai/415816/)
+
+Procol's "State of Procurement in India 2026" report (released September 2, 2026) found 73% of surveyed enterprises have deployed autonomous AI agents to execute sourcing events, validate invoices and manage supplier risk without human intervention. (https://smestreet.in/technology/procol-report-highlights-ai-shift-in-indias-procurement-12479627)
