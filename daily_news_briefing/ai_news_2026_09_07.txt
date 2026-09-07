@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 7, 2026
+
+🤖 AI & LLMs
+
+Perplexity rolled out "Hybrid Compute" for its Mac app (announced September 1, 2026), letting users run sensitive AI tasks locally via a one-click download of a Perplexity-tuned Qwen 3.8 27B model while the rest of the task runs in the cloud. (https://9to5mac.com/2026/09/01/perplexity-launches-privacy-minded-hybrid-compute-ai-feature-for-mac/)
+
+Meta launched a cut-rate "Contributor" tier of its Muse Spark 1.3 model (announced September 2, 2026) that is up to 21x cheaper than the standard tier in exchange for Meta training on users' prompts and completions. (https://venturebeat.com/technology/meta-says-muse-spark-1-3-has-frontier-performance-but-its-best-results-come-from-a-model-developers-cant-broadly-use-yet)
+
+🚀 Startups
+
+AI agent security startup HiddenLayer raised a $100 million Series B (announced September 2, 2026) led by Delta-v Capital, with Microsoft's M12 and Booz Allen Ventures also participating, to secure AI agents enterprises are putting into production. (https://siliconangle.com/2026/09/02/hiddenlayer-raises-100m-and-huskeys-27m-for-ai-security/)
+
+Viral AI startup Instinct raised $350 million at a $2.5 billion valuation (announced August 26, 2026), roughly tripling its valuation within months. (https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+SoftBank led a $200 million Series A into Gravis Robotics (announced August 17, 2026) — the largest Series A in construction-robotics history — to scale the ETH Zurich spinout's AI systems that retrofit excavators for autonomous operation. (https://siliconangle.com/2026/08/17/gravis-robotics-gets-200m-funding-softbank-retrofit-excavators-self-driving-ai-systems/)
+
+Bedrock Robotics announced its first fully autonomous excavator deployments on live U.S. infrastructure jobsites (August 17, 2026), including projects with Sundt Construction and Zachry Construction Corporation. (https://www.constructiondive.com/news/bedrock-robotics-fully-autonomous-excavators-jobsites/828267/)
+
+📋 AI in Procurement & Proposal Writing
+
+Contractor TRAX International sued the Army in the U.S. Court of Federal Claims (complaint filed late July, reported August 2026), alleging its AI evaluation tool "FAST TRACK" hallucinated fabricated weaknesses that cost TRAX a $450 million White Sands Missile Range contract award. (https://www.nextgov.com/acquisition/2026/08/contractor-alleges-army-inappropriately-used-ai-make-450m-contract-award/415225/)
+
+Procurement LIVE's London Summit (September 8-9, 2026) will spotlight a "Future of Agentic AI" panel with CPOs from Kantar and Revolut, as Gartner forecasts agentic AI spend in supply-chain software growing from under $2 billion in 2025 to $53 billion by 2030. (https://procurementmag.com/news/the-future-of-agentic-ai-procurements-next-big-leap)
