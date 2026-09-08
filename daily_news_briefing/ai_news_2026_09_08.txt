@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 8, 2026
+
+🤖 AI & LLMs
+
+OpenAI is preparing to unveil "Managed Agents" at DevDay 2026 on September 29 in San Francisco (reported September 7, 2026), a new platform letting developers build and deploy AI agents with customizable environments, skills and plugins directly on the OpenAI Platform. (https://www.testingcatalog.com/openai-prepares-managed-agents-for-devday-2026/)
+
+MiniMax released Sol-H3 (announced September 7-8, 2026), an inference stack that generates five seconds of 1344x768 video with stereo audio in just 1.653 seconds on an 8x Nvidia B300 system — up to 15.54x faster than its base H3 model and, for the first time, faster than real-time playback. (https://x.com/xieenze_jr/status/2097000082927399012)
+
+🚀 Startups
+
+Indian space-tech startup Pixxel raised a $100 million Series C led by Temasek and Seraphim (announced September 7, 2026) — the largest single round ever raised by an Indian space startup — to expand its Honeybee satellite constellation and its Aurora geospatial-AI software platform. (https://techstartups.com/2026/09/07/startup-funding-news-today-september-7-2026-pixxel-jet-zero-navana-ai-more/)
+
+Indian voice-AI startup Navana.ai raised ₹40 crore (about $4.2 million) in a Series A led by upGrad co-founder Ronnie Screwvala (announced September 7, 2026) to scale its enterprise voice-AI platform for regulated sectors like banking and insurance across India's multilingual markets. (https://www.cxodigitalpulse.com/navana-ai-raises-%E2%82%B940-crore-in-series-a-to-scale-voice-ai-platform/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Reframe Systems raised a $40 million round led by Energy Impact Partners (announced August 31, 2026) to expand its network of robotics- and AI-driven homebuilding "microfactories," which it says can deliver homes three times faster and 35% cheaper than traditional construction. (https://www.businesswire.com/news/home/20260831532459/en/Reframe-Systems-Raises-$40M-to-Industrialize-Homebuilding-and-Expand-Microfactory-Network)
+
+California startup Groundbook AI emerged from stealth (reported September 7, 2026) with an AI plan reviewer that automatically scans PDF drawing sets and flags conflicts across drawings, checklists, reports and building codes. (https://contechroundup.substack.com/p/last-week-in-contech-7-september)
+
+📋 AI in Procurement & Proposal Writing
+
+Milan startup Cato raised a €6 million seed round led by Keen Venture Partners (announced September 7, 2026) to help European businesses discover, analyze and prepare bids for public tenders using AI, targeting Europe's roughly €2.5 trillion annual public-procurement market. (https://techfundingnews.com/cato-raises-6m-seed-keen-venture-partners-public-tenders-ai/)
+
+Y Combinator-backed Capveon emerged from stealth (reported September 7, 2026) with a platform that mines government budgets, board minutes and capital plans to surface public-infrastructure projects up to 18 months before an RFP is published, so contractors and manufacturers can shape the spec and win the bid earlier. (https://www.ycombinator.com/companies/capveon)
