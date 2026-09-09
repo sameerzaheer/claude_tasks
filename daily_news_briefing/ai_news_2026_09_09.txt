@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 9, 2026
+
+🤖 AI & LLMs
+
+OpenAI said a swarm of 10,000 coordinating AI agents solved the 90-year-old Navier-Stokes fluid-dynamics problem in just 88 hours (reported September 8-9, 2026), though outside mathematicians are still verifying that the proof meets every requirement. (https://www.cnbc.com/2026/09/09/openai-navier-stokes-math-problem-solved.html)
+
+Qualcomm and Amazon signed a multi-generation deal (announced September 8, 2026) to co-develop custom AI inference chips and high-speed optical interconnects for AWS data centers, a partnership that could see Amazon purchase up to $60 billion in hardware over time. (https://www.bloomberg.com/news/articles/2026-09-08/qualcomm-signs-deal-to-provide-amazon-with-custom-ai-chips)
+
+🚀 Startups
+
+French AI lab Mistral AI closed a €3 billion Series D round (announced September 8, 2026) at a valuation above €21 billion, backed by Samsung Electronics, Nvidia, ASML, BlackRock-managed funds, a16z and others. (https://siliconangle.com/2026/09/08/open-source-ai-developer-mistral-closes-e3b-funding-round/)
+
+Data-center networking-chip startup Celero Communications raised $275 million in a Series C (announced September 8, 2026) led by Alphabet's CapitalG, Atreides Management and Valor Equity Partners. (https://siliconangle.com/2026/09/08/celero-reels-in-275m-for-its-coherent-digital-signal-processors/)
+
+🏗️ AI in AEC, Construction & Engineering
+
+Norwegian construction-software firm SmartCraft acquired UK cost-control platform LiveCosts, whose AI-powered invoice extraction and 3-way matching tool serves SME contractors, in an €8.45 million deal to expand its UK footprint. (https://smartcraft.com/news/strengthens-our-uk-position-through-the-acquisition-of-livecosts/)
+
+Asia-Pacific engineering giant Aurecon joined Arcadis as a strategic investor and commercial partner in AEC AI platform Nomic (announced early September 2026), scaling its drawing- and code-checking agents across Aurecon's 6,700-person workforce. (https://www.nomic.ai/news/announcing-nomics-strategic-funding-round-and-partnerships-with-aurecon-and-arcadis)
+
+📋 AI in Procurement & Proposal Writing
+
+The Pentagon authorized Salesforce's Agentforce 360 AI-agent platform to operate at DoD Impact Level 5 (announced August 5, 2026), building on the company's $5.6 billion Army IDIQ contract as it pushes to be treated as a defense prime contractor rather than working only through systems integrators. (https://defensescoop.com/2026/08/05/salesforce-plans-deliver-newly-authorized-ai-agents-across-dod/)
+
+Predictiv AI announced (September 9, 2026) that Public Services and Procurement Canada qualified it across all three bands of the Government of Canada's Artificial Intelligence Source List, giving it a pre-qualified path to bid on federal AI procurement opportunities. (https://www.finanzwire.com/press-release/predictiv-ai-inc-cve-pai-predictiv-ai-qualifies-across-all-three-bands-of-government-of-canada-artificial-intelligence-source-list-hoAiwFNjM65)
