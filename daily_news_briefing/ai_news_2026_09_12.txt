@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 12, 2026
+
+🤖 AI & LLMs
+
+Meta launched Muse (announced September 8, 2026), a personal AI agent that books travel, fills forms and checks out on a user's behalf from a visible in-browser session running inside a dedicated secure cloud VM, offered free with $20 and $100 monthly tiers. (https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/)
+
+Anthropic accused Chinese labs Moonshot AI and DeepSeek of covertly routing millions of customer requests to Claude models and passing the outputs off as their own — including nearly 300,000 Moonshot requests in one 10-day span and 12+ million DeepSeek "distillation" attempts over 14 days in July — to train their competing models (reported September 11, 2026). (https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html)
+
+🚀 Startups
+
+Legal-AI unicorn Harvey acquired San Francisco-based AI-agent security platform Guardrails AI (announced September 9, 2026), its fourth acquisition of 2026 as it builds out safety tooling for agentic legal workflows. (https://www.unite.ai/harvey-acquires-guardrails-ai-its-fourth-acquisition-of-2026/)
+
+Shenzhen-based embodied-AI and humanoid-robotics startup Kinetix AI raised more than RMB500 million across Angel+ financing rounds (announced September 11, 2026) from Vertex Ventures, Fangguang Capital and Wanshi Capital. (https://techstartups.com/2026/09/11/startup-funding-news-today-september-11-2026-kinetix-ai-aidin-robotics-enigmata-more/)
+
+⛏️ AI in Mining
+
+Nokia launched Cognitive Operations (announced September 10, 2026), a platform built with Microsoft Azure and Rajant that unifies mission-critical communications, edge computing and operational AI — including 3D digital twins, video analytics and predictive maintenance — for mining, construction, public-safety and defense field sites. (https://www.globenewswire.com/news-release/2026/09/10/3359208/0/en/nokia-launches-ai-and-edge-platform-to-help-mining-and-construction-industries-public-safety-and-defense-organizations-run-safer-more-resilient-field-operations.html)
+
+Mariana Minerals raised a $310 million Series B at a $1.5 billion valuation (announced August 2026) led by Khosla Ventures, with a16z and Breakthrough Energy returning, to build and operate US copper and lithium mines using its own AI, sensor and robotics stack rather than selling software to other miners. (https://theaiinsider.tech/2026/08/05/mariana-minerals-raises-310m-in-series-b-funding-to-expand-end-to-end-ai-driven-mining-operations-tech/)
+
+🌐 Browser Automation Startups
+
+Polar, founded by former Perplexity Comet engineer Kevin Jiang, launched an AI-first browser that carries out hours of repetitive knowledge work with little human input and raised a $5.7 million seed round led by Madrona (announced July 29, 2026). (https://techstartups.com/2026/07/29/polar-ai-startup-founded-by-former-perplexity-engineer-behind-comet-raises-5-7m-for-ai-browser-that-automates-knowledge-work/)
+
+Seltz raised a $12.5 million seed round (announced June 24, 2026) to build a web-search engine designed for AI agents and chatbots to query and browse rather than human users. (https://fortune.com/2026/06/24/exclusive-seltz-a-startup-rebuilding-web-search-for-ai-agents-raises-12-5-million-in-seed-funding/)
