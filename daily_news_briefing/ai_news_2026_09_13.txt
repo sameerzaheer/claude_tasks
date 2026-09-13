@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 13, 2026
+
+🤖 AI & LLMs
+
+Stealth security startup Accomplish disclosed leaky sandbox vulnerabilities it found across Claude Code, OpenAI Codex and Cursor (reported September 2026) — Cursor and OpenAI patched within about a week, while Anthropic took roughly 50 days and 30 releases to fix its "Beltdown" bug that let an untrusted repo escape the Claude Code sandbox without a permission prompt. (https://www.upstartsmedia.com/p/accomplish-claims-leaky-sandboxes-in-claude-codex-cursor)
+
+Sakana AI launched Fugu Max and Fugu Ultra v2.0 (announced September 11, 2026), a "multi-agent system delivered as one model" with a 1-million-token context window that dynamically routes each request across a pool of open-weight and specialized models, landing in the top two on seven of eight benchmarks without including a single frontier model in its pool. (https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/)
+
+🚀 Startups
+
+French cardiac-monitoring startup Implicity raised $40 million in growth funding led by IRIS with Five Arrows participating (announced September 9, 2026) to scale its AI-driven remote cardiac monitoring platform, which it says cuts mortality by 26%, into the US and beyond. (https://www.globenewswire.com/news-release/2026/09/09/3358622/0/en/implicity-secures-40m-growth-equity-funding-to-scale-its-ai-driven-cardiac-monitoring-platform-globally.html)
+
+Optical-interconnect startup Ayar Labs raised an additional $150 million Series E (announced September 10, 2026), pushing its 2026 primary funding to $650 million and its valuation above $5 billion, to scale manufacturing of co-packaged optics that move data between AI chips faster than copper as clusters keep growing. (https://siliconangle.com/2026/09/10/ayar-labs-bags-150m-in-additional-series-e-funding-to-help-make-bigger-ai-chip-clusters/)
+
+⛏️ AI in Mining
+
+The US Department of Energy awarded $73 million across four "Mine of the Future" projects (announced September 11, 2026), including a nearly $25 million testbed led by Innovative Wireless Technologies for "Autonomous Operations, Connected Systems & AI-Driven Mining Innovation" spanning mine sites in West Virginia, Colorado and Virginia. (https://northamericanmining.com/index.php/2026/09/11/iwt-project-among-four-selected-for-funding-by-doe/)
+
+Zambia's Konkola Copper Mines partnered with Zensar Technologies (announced September 4, 2026) to deploy AI-enabled operations, intelligent automation and digital-workplace tools across its business, marking Zensar's first operational presence in Zambia. (https://www.prnewswire.com/news-releases/konkola-copper-mines-partners-with-zensar-to-accelerate-technology-led-business-transformation-302869911.html)
+
+🌐 Browser Automation Startups
+
+Accel-backed Keenable exited stealth with a $26 million seed round (announced August 25, 2026) to build a web-search index designed for AI agents — rather than humans — to query and browse. (https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/)
+
+AI security startup AIR emerged from stealth with $50 million raised across two seed rounds (announced September 1, 2026) to help enterprises vet the skills, plugins and add-ons that let their AI agents interact with the internet. (https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/)
