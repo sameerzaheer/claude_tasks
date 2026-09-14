@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 14, 2026
+
+🤖 AI & LLMs
+
+Anthropic CEO Dario Amodei published an essay calling on the AI industry to slow its pace of capability development, and OpenAI's Sam Altman quickly agreed the labs need to "pace the frontier" and take more safety steps (announced September 12, 2026) — though former White House AI czar David Sacks countered that the labs don't need regulators' permission to slow down themselves. (https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing)
+
+OpenAI launched GPT-Live-1 in its API (announced September 10, 2026), a full-duplex voice model with sub-300ms latency that listens and speaks simultaneously and handles interruptions naturally, priced at $0.05 per minute and extending ChatGPT Voice's conversational tech to third-party developers. (https://openai.com/index/introducing-gpt-live-1-in-the-api/)
+
+🚀 Startups
+
+AI inference-chip startup Positron AI raised $875 million — a $375 million Series C plus a follow-on Series C-1 of up to $500 million — at a $5 billion valuation (announced September 10, 2026), backed by NEA, Atreides Management, Valor Equity Partners and Netscape co-founder Jim Clark, to bring its memory-first "Asimov" inference chip to market. (https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html)
+
+Paris-based Arlequin AI raised a €28 million Series A (announced September 10, 2026) led by redalpine and OTB Ventures, with Bpifrance's Defence Innovation Fund and Xavier Niel participating, to scale its "topological neural network" architecture — an alternative to LLM-style models aimed at security, defense and fraud-detection use cases. (https://techfundingnews.com/arlequin-ai-raises-28m-series-a-redalpine-otb-defence-intelligence/)
+
+⛏️ AI in Mining
+
+Sandvik unveiled "Sami," a fully autonomous, battery-electric concept surface drill with no operator cabin, at its Future of Mining 2026 event in Tampere, Finland (announced early September 2026) — coordinated by its AI agent "Sandi," which assigns drilling tasks and coordinates activity across the wider mine fleet via a continuously updated digital twin. (https://im-mining.com/2026/09/01/sandvik-introduces-autonomous-electric-concept-drill-for-the-future-of-surface-mining/)
+
+Mining-tech startup Terra AI raised a $20 million Series A led by Khosla Ventures with strategic investment from BHP Ventures (announced June 3, 2026) to scale its AI platform, which fuses geophysics, geochemistry and drilling data into probabilistic underground models for faster, lower-cost critical mineral exploration. (https://www.axios.com/pro/climate-deals/2026/06/03/terra-ai-khosla-bhp-series-a)
+
+🌐 Browser Automation Startups
+
+Anthropic's "Claude in Chrome" browser-agent extension reached general availability on all paid Claude plans (announced August 26, 2026), letting Claude read pages, click buttons, fill forms and move between tabs on a user's behalf, now with autonomous actions that no longer require approval for every step. (https://claude.com/blog/claude-in-chrome-generally-available)
+
+Web-data startup Nimble raised a $47 million Series B backed by Norwest and Databricks (announced February 24, 2026), bringing its total funding to $75 million, to give AI agents real-time, structured access to web data through its AI-powered search, verification and validation platform. (https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/)
