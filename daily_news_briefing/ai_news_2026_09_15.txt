@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 15, 2026
+
+🤖 AI & LLMs
+
+OpenAI launched ChatGPT for Financial Services (announced September 10, 2026), pairing its GPT-6 Astra model with embedded institutional data from PitchBook, Daloopa, LSEG News and Crunchbase to automate research drafting, financial modeling and pitchbook creation for investment bankers and equity researchers, shaped through design partnerships with Morgan Stanley and Evercore. (https://openai.com/index/introducing-chatgpt-financial-services/)
+
+Alibaba's Qwen team open-sourced Qwen-Drive-1.0-4B (announced September 7, 2026), an autonomous-driving vision-language model built on Qwen3.5-4B that adds a BEV perception head for 3D object detection and an RL-optimized planning expert for trajectory generation, released with code and weights under Apache 2.0. (https://technode.com/2026/09/07/qwen-drive-autonomous-driving/)
+
+🚀 Startups
+
+Highstock raised a $30 million Series A led by Andreessen Horowitz (announced September 10, 2026) to expand its AI-powered B2B marketplace that helps consumer brands sell excess inventory to vetted wholesale buyers, having already listed over $1 billion in inventory with more than 100 brand partners in just over a year. (https://pulse2.com/highstock-raises-30-million-series-a-led-by-a16z-for-ai-powered-excess-inventory-marketplace/)
+
+Hong Kong-based Qupital secured $300 million in combined Series C and asset-backed financing led by M Capital with MUFG and Quester Capital (announced September 13, 2026) to scale its AI-driven cross-border e-commerce trade-finance platform, which has processed over $9.5 billion in cumulative loans, as it also weighs an IPO. (https://www.manilatimes.net/2026/09/14/tmt-newswire/pr-newswire/qupital-raises-300m-in-series-c-led-by-m-capital-and-new-mufg-abs-financing-eyes-overseas-markets-and-ipo/2424128)
+
+⛏️ AI in Mining
+
+Chinese autonomous-haulage provider CiDi reported its MetaMine system has scaled to more than 1,900 mining trucks shipped across nearly 40 mines worldwide (H1 2026 results, announced August 13, 2026), with autonomous-driving revenue up 107% year-over-year to RMB784 million, now 97.6% of total revenue. (https://im-mining.com/2026/08/13/cidis-metamine-ahs-deployment-grows-to-1900-mining-trucks-at-nearly-40-mines/)
+
+Canadian startup LoopX raised a $4.05 million seed round led by BDC Seed Venture Fund and Orion Industrial Ventures (announced August 4, 2026) to scale its thermal-vision "Physical AI" that gives underground mining equipment collision-avoidance and safety intelligence in GPS-denied environments, already deployed across eight mine sites including with Vale Base Metals. (https://www.businesswire.com/news/home/20260804630169/en/LoopX-Raises-$4.05M-Seed-Round-Led-by-BDC-Seed-Venture-Fund-and-Orion-Industrial-Ventures-with-Participation-from-Hatch)
+
+🌐 Browser Automation Startups
+
+Lightsage raised $4 million in seed funding led by Nexus Venture Partners (announced September 8, 2026) to build the infrastructure for "Agent-Led Growth," helping software companies understand and optimize how autonomous AI agents discover, browse and use their products instead of human visitors. (https://www.globenewswire.com/news-release/2026/09/08/3357801/0/en/lightsage-raises-4m-to-build-the-growth-stack-for-internet-software-s-newest-customer-ai-agents.html)
+
+AI agent security and governance platform Zenity raised a $125 million Series C led by Norwest (announced August 3, 2026), with SoftBank Vision Fund 2 and Hitachi Ventures also participating, to expand protections for enterprises against risks from autonomous agents that browse the web, invoke tools and execute workflows on their own. (https://www.businesswire.com/news/home/20260803963850/en/Zenity-Raises-$125-Million-to-Secure-the-Era-of-1-Billion-AI-Agents)
