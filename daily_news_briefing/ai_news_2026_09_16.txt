@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 16, 2026
+
+🤖 AI & LLMs
+
+DeepSeek officially released V4.1-Flash (September 10, 2026), its first natively multimodal Flash-tier model — a 552-billion-parameter MoE with a new causal encoder-decoder architecture (8B active params on input, 16B on output), a 1M-token context window and MIT-licensed weights, adding image understanding to the Flash line at as little as $0.22 per million input tokens. (https://llm-stats.com/models/deepseek-v4.1-flash)
+
+Shanghai AI Laboratory quietly shipped Atria Dawn Preview (appeared on GitHub September 11, 2026, with a 140-author technical report following three days later), a 744-billion-parameter open-weight agentic MoE built on GLM-5.2 with a 256K context window, aimed at long-horizon research and engineering tasks that require continuous tool use and failure recovery. (https://aiweekly.co/alerts/shanghai-ai-lab-ships-atria-dawn-preview-a-744b-agentic-moe)
+
+🚀 Startups
+
+AI answer-engine-optimization startup Profound hit unicorn status, raising a $180 million Series D at a $1.8 billion valuation (announced September 15, 2026) led by Sequoia and Kleiner Perkins, just seven months after its $96 million Series C. (https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/)
+
+Eindhoven-based AI chip startup Euclyd raised more than $231 million (over €200 million) in a Series A (announced September 15, 2026) co-led by Samsung, Somerset Capital Partners, EQT-managed Scaleup Europe Fund and Innovation Industries, to build AI inference infrastructure positioned as a challenger to Nvidia. (https://techstartups.com/2026/09/15/samsung-backs-dutch-ai-chip-startup-euclyd-in-231m-funding-round-to-challenge-nvidia/)
+
+⛏️ AI in Mining
+
+At Electra Mining Africa 2026 in Johannesburg (September 7-11, 2026), exhibitors including Kal Tire showcased AI-enabled tyre-monitoring technology — such as electromagnetic non-destructive scanning that spots cracks and defects early — that is cutting mining tyre downtime by up to 20% while improving safety and sustainability. (https://www.miningweekly.com/article/ai-helping-reduce-mining-tyre-downtime-by-up-to-20-electra-mining-africa-showcases-2026-09-09)
+
+Epiroc expanded its Deep Automation platform for autonomous underground mine trucks to operate in surface environments too (announced September 3, 2026), using 3D LiDAR for localization, mapping and obstacle detection to enable seamless underground-to-surface autonomous hauling and dumping cycles. (https://rockproducts.com/2026/09/03/epirocs-expands-capabilities-of-autonomous-underground-mine-trucks/)
+
+🌐 Browser Automation Startups
+
+Tokyo-based Yoom raised ¥700 million (announced September 15, 2026) in its first outside funding, from DUAL BRIDGE CAPITAL, Mizuho Capital, Shizuoka Capital, Harizury and Canon Marketing Japan's venture arm, to scale a platform that pairs AI agents with rule-based automation to run multi-step business workflows across more than 750 connected web services. (https://techstartups.com/2026/09/15/startup-funding-news-today-september-15-2026-euclyd-yincheng-intelligence-nutshell-therapeutics-yoom-more/)
+
+Agent-infrastructure startup Keewano launched KeewanoDB and raised $12 million (announced September 15, 2026) from Hetz Ventures, a16z's Speedrun and others, building an event-oriented database that gives AI agents the real-time context they need to act and browse the web reliably. (https://siliconangle.com/2026/09/15/startup-keewano-launches-agent-focused-database-and-pulls-in-12m-in-funding/)
