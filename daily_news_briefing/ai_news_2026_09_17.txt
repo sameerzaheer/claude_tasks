@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 17, 2026
+
+🤖 AI & LLMs
+
+Novo Nordisk and Anthropic announced a collaboration (September 16, 2026) under which the drugmaker will use Anthropic's frontier models and test its new Claude Science workbench across specific R&D workflows to speed biological reasoning and accelerate the path from research insight to new medicines. (https://www.globenewswire.com/news-release/2026/09/16/3363106/0/en/novo-and-anthropic-will-collaborate-to-advance-drug-discovery-with-claude.html)
+
+OpenAI unveiled "Sponsored Agents" for ChatGPT (announced September 16, 2026), letting users who click an ad start a separate, clearly labeled chat with a business's AI agent to ask follow-up questions before being routed to the advertiser's site, launching with Wayfair and Angi among the first advertisers. (https://openai.com/index/reimagining-advertising-with-ai/)
+
+🚀 Startups
+
+Manufacturing-AI startup CADDi raised $114 million in Series D funding at a $1.2 billion valuation (announced September 15-16, 2026), more than doubling its March 2025 valuation, to expand its blueprint-search and production-data platform — already used by over half of Japan's 100 largest manufacturers — into North America. (https://siliconangle.com/2026/09/16/caddi-raises-114m-at-1-2b-valuation-to-bring-manufacturing-ai-to-north-america/)
+
+Rune raised a $40 million Series A led by Spark Capital (announced September 16, 2026) and debuted RELIC, a modular data-center system that installs directly at solar sites to turn curtailed, otherwise-wasted solar power into AI compute capacity within as little as six weeks. (https://siliconangle.com/2026/09/16/rune-raises-40m-for-its-modular-solar-powered-data-centers/)
+
+⛏️ AI in Mining
+
+Colorado copper explorer Metallic Minerals' AI-driven exploration program at its La Plata project — part of the US Department of Energy's AGAPEX critical-minerals initiative — drew a bullish research note from Couloir Capital (published September 16, 2026) citing the AI program among the catalysts behind a 374% share-price upside target. (https://www.streetwisereports.com/article/2026/09/16/metallic-minerals-la-plata-ai-program-supports-couloir-374-upside-view.html)
+
+The WA Mining Conference & Exhibition 2026 opened in Perth (September 16-17, 2026) with a sold-out show floor of 140+ exhibitors and a new "Transformative Tech Zone" spotlighting AI-driven automation and decarbonization tools for mine sites, including exhibitor Strata Bot AI. (https://www.australianmining.com.au/decarbonisation-and-transformative-tech-zones-feature-at-wa-mining-2026)
+
+🌐 Browser Automation Startups
+
+Brett Adcock's AI startup Hark, which raised a $700 million Series A at a $6 billion valuation in May 2026 backed by Nvidia, AMD, Intel Capital and Qualcomm Ventures, previewed its first product Handoff (August 5, 2026), a web-browsing AI agent that navigates sites with no official API — like Target, Walmart and OpenTable — and posted the highest-ever score on the Online-Mind2Web benchmark. (https://www.businesswire.com/news/home/20260805041028/en/Hark-Announces-Handoff-the-Worlds-Best-Web-Browsing-AI-Agent)
+
+Runable raised a $21 million Series A (announced August 26, 2026) for AI agents that not only build a small business's website and apps but then run its day-to-day growth — managing paid campaigns, social content and outbound outreach across the web. (https://siliconangle.com/2026/08/27/runable-raises-21m-to-realize-small-businesses-growth-vision-using-ai-agents/)
