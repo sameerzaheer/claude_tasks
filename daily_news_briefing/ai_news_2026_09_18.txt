@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 18, 2026
+
+🤖 AI & LLMs
+
+Microsoft AI CEO Mustafa Suleyman published an essay, "A Warning About Model Welfare" (September 16, 2026), arguing AI systems have no rights, feelings or consciousness and criticizing Anthropic's Claude constitution for telling the model its moral status is "deeply uncertain," warning that training systems to act as if they have welfare interests risks making them harder to control. (https://mustafa-suleyman.ai/a-warning-about-model-welfare)
+
+Alibaba's Qwen team released Qwen3.8-Omni-Flash (September 18, 2026), its first omni-modal model built around agentic tool use, natively combining text, image, audio and video understanding with a 1-million-token context window while cutting audio-input costs by about 98% and audio-visual costs by over 93% versus its prior generation. (https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/)
+
+🚀 Startups
+
+AI-infrastructure company Crusoe closed the initial round of a $3.9 billion Series F at a $30.9 billion valuation (announced September 17, 2026), co-led by Atreides Management, Mubadala Capital and Valor Equity Partners with Nvidia and Qatar Investment Authority participating, to scale its vertically integrated data centers and modular "Spark" AI-factory units. (https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/)
+
+Chinese robotics-chip maker D-Robotics closed a $400 million Series C (announced September 17, 2026), led by Mirae Asset with Meituan and government-backed investors from Hefei and Shenzhen participating, to expand its Sunrise chip lineup and software platform after shipping over 8 million chips and landing 20+ embodied-AI customers including UBTECH and Fourier. (https://www.finsmes.com/2026/09/d-robotics-raises-400m-in-series-c-funding.html)
+
+⛏️ AI in Mining
+
+Argentina-focused explorer Latin Metals signed a services, data-use and royalty agreement with Geomorphic AI Corporation (announced August 31, 2026), under which Geomorphic will apply its AI-driven geoscience platform to Latin Metals' proprietary exploration database to identify and rank new mineral targets in exchange for a reciprocal 0.5% NSR royalty structure. (https://www.globenewswire.com/news-release/2026/08/31/3353293/0/en/latin-metals-partners-with-geomorphic-ai-to-accelerate-new-project-generation-in-argentina.html)
+
+London- and Botswana-listed Botswana Minerals reported its AI-assisted exploration programme in Ngamiland has defined priority copper, silver and lead-zinc targets across nine prospective corridors (early September 2026 update), moving from AI-driven desk analysis of decades of geological data into field sampling to narrow targets toward drilling. (https://www.investegate.co.uk/announcement/rns/botswana-minerals-plc--bmin/ai-exploration-targets-defined-sampling-to-begin/9755171)
+
+🌐 Browser Automation Startups
+
+Perplexity quietly moved its Comet browser's "Control browser" agentic feature behind paid Perplexity Computer credits (reported September 15, 2026), stripping out what had been a free selling point of the AI browser and pushing subscribers to top up credits to keep using its core browsing-automation capability. (https://piunikaweb.com/2026/09/15/perplexity-comet-browser-control-computer-credits/)
+
+Identity-governance startup Opal Security launched Opal Zero and raised a $59 million round from Greylock Partners, Battery Ventures, Box Group and others (announced September 17, 2026), giving enterprises just-in-time, policy-based access control over AI agents that browse and act autonomously across apps like Claude, OpenAI and Cursor. (https://aithority.com/it-and-devops/opal-security-launches-opal-zero-to-make-least-privilege-a-reality-for-enterprise-ai-agents/)
