@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 19, 2026
+
+🤖 AI & LLMs
+
+Anthropic pretraining researcher Jacob Coxon resigned (announced September 8, 2026), giving up equity worth millions to warn in a viral Slack message and X thread that both OpenAI and Anthropic are "racing straight to self-improving superintelligence and gambling with our lives" without adequate safety cooperation. (https://www.washingtonpost.com/business/2026/09/09/anthropic-ai-safety-jacob-coxon/d4bf86ac-ac7f-11f1-b498-8697f35a6743_story.html)
+
+OpenAI, Anthropic and Google DeepMind have quietly been in talks for weeks to establish shared AI safety standards (reported September 15, 2026), even as the three labs continue to compete fiercely on frontier model releases. (https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/)
+
+🚀 Startups
+
+Data-center robotics startup Watney raised an $80 million Series A (announced September 17-18, 2026), co-led by Valor Atreides AI Fund and Hummingbird Ventures, pushing total funding past $100 million to scale its dual-arm robots that handle cable replacement and server maintenance, already being trialed by Meta at facilities in Iowa and Ohio. (https://en.wowtale.net/2026/09/18/235152/)
+
+Beijing-based AI computing-chip unicorn EVAS Intelligence closed nearly RMB2 billion (about $280 million) in new financing (announced September 18, 2026) from more than 20 investors, pushing its post-money valuation to roughly RMB15 billion (about $2.1 billion) as it expands from RISC-V AI silicon into boards, servers and full compute clusters. (https://panews.io/articles/01a0b550-87ae-7648-9aed-66069a3873d2)
+
+⛏️ AI in Mining
+
+Zijin Mining's investment arm agreed to commit RMB1 billion (about $140 million) to a new venture fund (signed September 15, 2026) targeting artificial intelligence, embodied intelligence and related deep-tech sectors, aiming to track cutting-edge AI trends relevant to its mining operations. (https://news.metal.com/newscontent/104118683-zijin-mining-subsidiary-plans-to-invest-1-billion-yuan-in-fund-targeting-ai-embodied-ai-and-other-sectors)
+
+Vale signed a strategic partnership with ABB (announced August 11, 2026) to expand automation and AI across its Brazilian iron-ore processing plants, building on results from its Conceição II model plant that logged a 25% productivity increase and a 26% cut in iron losses to tailings since going AI-enabled. (https://seekingalpha.com/news/4631691-vale-abb-to-partner-for-more-ai-automation-solutions-at-iron-ore-processing-plants)
+
+🌐 Browser Automation Startups
+
+Chinese autonomous-agent startup Manus is in talks to raise $500 million at a $4 billion valuation (reported September 17-18, 2026) — double what Meta had agreed to pay before Chinese regulators blocked that acquisition — as it resumes independent operations and weighs a Hong Kong IPO. (https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/)
+
+Cloudflare launched Kitesurf (announced August 7, 2026), a free-in-beta, cloud-hosted browser built specifically for AI agents rather than humans, running on its Workers serverless platform and using far less CPU and memory than Chromium for common agentic browsing tasks like screenshots and HTML extraction. (https://blog.cloudflare.com/kitesurf/)
