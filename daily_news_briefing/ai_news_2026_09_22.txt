@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 22, 2026
+
+🤖 AI & LLMs
+
+xAI released Grok 4.7 (September 21, 2026), a 2.1-trillion-parameter reasoning model — up 40% from Grok 4.6 — trained with supplemental data from SpaceX (Starlink telemetry, manufacturing records, engineering failure logs) to reason better about hardware and physical systems, launching in Cursor, Grok Build, the xAI API and GitHub Copilot at unchanged pricing. (https://siliconangle.com/2026/09/21/spacex-launches-grok-4-7-with-long-horizon-processing-safety-upgrades/)
+
+President Trump announced (September 19-20, 2026) he is forming an "AI Force," modeled on Space Force, and will soon name an AI "czar" to lead it, framing the effort as protecting and accelerating AI development — which he said could add the equivalent of 25% of US GDP — while offering no details on the unit's budget, authority or structure. (https://www.axios.com/2026/09/19/trump-ai-czar-space-force-safety)
+
+🚀 Startups
+
+Corridor launched with a $25 million seed round (announced September 21, 2026) led by Bain Capital Ventures, with BoxGroup, Definition Capital and angels from OpenAI, Ramp and Scale AI, building an AI-native health-benefits brokerage for small businesses where AI agents handle network checks, scheduling and paperwork behind human advisors. (https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/)
+
+Vantora secured more than $100 million from Silversmith Capital Partners (announced September 16, 2026) — its first outside capital — to expand its model of embedding founder-led teams inside industrial giants like Porsche, Alaska Airlines and J.B. Hunt to build and co-own AI-native "physical AI" ventures, having launched 17 so far with revenue up 79% year-over-year. (https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/)
+
+⛏️ AI in Mining
+
+China's Dexing Copper Mine in Jiangxi deployed AI-powered optical-electronic ore-sorting equipment (reported September 21, 2026) that separates ore from waste rock at 300 tons per hour, turning previously uneconomical low-grade ore into a viable resource. (https://news.cgtn.com/news/2026-09-21/CGTN-s-Mike-at-Dexing-AI-Sorting-Turns-Waste-Ore-to-Gold-1QCtEVZLj56/p.html)
+
+Ahead of African Mining Week 2026 in Cape Town (October 14-16), organizers confirmed KoBold Metals Africa CEO Mfikeyi Makayi will headline a dedicated AI panel (announced mid-September 2026) on using AI to compress exploration cycles and cut the cost of de-risking ground across the continent's roughly $8.5 trillion mining sector. (https://african-miningweek.com/news/kobold-metals-africa-ceo-speak-amw-2026-ai-reshapes-mineral-exploration-continent)
+
+🌐 Browser Automation Startups
+
+TypeSafe AI released Jev (announced September 19, 2026), a "System One" model that returns typed, calibrated decisions instead of text and, wired into a browser agent, cut a web-automation task's completion time to 7 seconds and its browser protocol calls from 1,092 to 101 — 40-200x faster than frontier LLMs at $0.042 per million input tokens. (https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/)
+
+AWS open-sourced Strands Harness (announced September 21, 2026), a ready-to-use AI agent with built-in web-search and file/shell tools that runs any frontier or local model across AWS, Google Cloud, Azure, Cloudflare and other environments while using 28% fewer tokens than comparable agent harnesses. (https://siliconangle.com/2026/09/21/aws-debuts-strands-harness-an-open-source-ai-agent-that-can-be-deployed-in-any-environment/)
