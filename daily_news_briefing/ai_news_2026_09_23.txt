@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 23, 2026
+
+🤖 AI & LLMs
+
+OpenAI launched GPT-6 Sol and GPT-6 Luna (announced September 22, 2026), two cheaper tiers built on its flagship Astra model — Sol priced at $2/$10 per million input/output tokens (down from $4/$20) and Luna even cheaper for high-volume use — arriving just 19 days after GPT-6 Astra's debut and cutting mistake rates roughly in half versus GPT-5.6. (https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/)
+
+Cisco Talos disclosed CLOSEDQUORUM (reported September 22, 2026), the first publicly documented Windows malware to delegate its command-and-control decisions to a four-model committee of commercial LLMs (DeepSeek, Qwen, Mistral and Gemini) that vote on which post-compromise action — like credential or crypto-wallet theft — to execute next. (https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/)
+
+🚀 Startups
+
+Finnish AI-cloud startup Verda raised a $189 million round led by Emergence Capital (announced September 22, 2026), becoming Europe's newest unicorn at a $1 billion-plus valuation as its annualized revenue run rate hit $165 million, up from $60 million just months earlier. (https://siliconangle.com/2026/09/22/european-neocloud-verda-raises-189m-to-build-the-ai-infrastructure-of-tomorrow/)
+
+Data-security platform Cyera raised a $400 million Series G extension from Goldman Sachs Alternatives (announced September 22, 2026), pushing its valuation past $12 billion and its 2026 total raised to $1.4 billion as it builds out guardrails to govern what AI agents can access across the enterprise. (https://siliconangle.com/2026/09/22/cyera-raises-another-400m-amid-ai-agent-security-push/)
+
+⛏️ AI in Mining
+
+Asteroid-mining startup AstroForge unveiled Solo (announced September 22, 2026), an in-house transformer-based AI control stack trained on roughly 2,500 spacecraft sensors that will fly its Autonomy-1 probe with zero commands from Earth, managing navigation and anomaly resolution during a 2027 near-Earth asteroid flyby. (https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/)
+
+China's Ministry of Natural Resources unveiled AI-GeoMapping and AI-OreSeeking systems at the China Mining Conference (reported mid-September 2026), anchoring a new 2026-2030 exploration offensive that pairs roughly 300 new resource bases with AI-driven deep-underground and undersea searches for copper, gold, lithium and other critical minerals. (https://asianews.network/china-launches-ai-powered-geological-mapping-and-mineral-exploration-systems/)
+
+🌐 Browser Automation Startups
+
+Aloha launched AlohaJet (announced September 22, 2026), a browser purpose-built for AI agents that cut token usage by 54% and ran tasks 2.2x faster than standard automation in benchmarks, hitting an 88% task-success rate versus 51% for Chrome automation and just 11% for Playwright. (https://www.einpresswire.com/article/943992851/aloha-launches-alohajet-to-cut-the-cost-of-ai-web-automation-while-running-tasks-2-2x-faster)
+
+Web-data API startup Firecrawl closed an $82 million Series B led by Smash Capital (announced September 22, 2026) and launched Alexandria, a single interface unifying specialized datasets from 100+ sources, just months after a $14.5 million Series A. (https://runtimewire.com/article/firecrawl-raises-75m-series-b-alexandria-ai-agent-data)
