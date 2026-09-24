@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 24, 2026
+
+🤖 AI & LLMs
+
+Anthropic released Claude Opus 5.5 (September 22, 2026), cutting flagship pricing 20-40% to $4/$20 per million input/output tokens (cache reads down 60% to $0.20), running 30%+ faster than Opus 5 while matching or beating it on every coding and computer-use benchmark — landing hours after OpenAI's own GPT-6 Sol/Luna price cuts in an emerging "price war" between the labs. (https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/)
+
+OpenAI's Sam Altman and Anthropic's Dario Amodei briefed the UN Security Council in person and remotely (September 23, 2026), jointly warning that AI is "the most important global security issue facing the world today" and calling for international standards and incident-reporting channels — a push that puts them at odds with President Trump, who told the UN a day earlier that the US "rejects" global AI regulation. (https://www.cnn.com/2026/09/23/tech/altman-amodei-ai-safety-un-security-council)
+
+🚀 Startups
+
+AI training-data company Snorkel AI raised a $350 million Series E at a $3.5 billion valuation (announced September 22, 2026), led by Insight Partners and S32, nearly tripling its valuation from 17 months ago as its "data-as-a-service" offering grew 18x and crossed a $375 million annualized revenue run rate. (https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/)
+
+CPG back-office AI platform Confido raised a $55 million Series B led by Insight Partners (announced September 22, 2026), with Y Combinator and Footwork returning for a third straight round, bringing total funding to $77 million after 5x year-over-year growth since its Series A. (https://www.businesswire.com/news/home/20260922033622/en/Confido-Raises-$55M-Series-B-to-Take-AI-Powered-Automation-Across-the-Entire-Consumer-Brand-Back-Office)
+
+⛏️ AI in Mining
+
+Australian robotics maker Jevons Robotics launched its battery-electric ARTEV1000 Pre-Split System (announced September 23, 2026), a robot that autonomously locates blast holes and loads packaged pre-split explosives on the highwall, now deployed for the first time globally at Newmont's Boddington mine to pull workers out of the blast-prep zone. (https://im-mining.com/2026/09/23/jevons-robotics-launches-battery-electric-artev1000-pre-split-system/)
+
+SAP Canada outlined how Canadian miners are moving "beyond the digital mine" toward an AI-orchestrated Autonomous Enterprise model (published September 2, 2026) — where an AI-powered natural-language "front door" replaces dozens of separate screens for mine supervisors — as declining ore grades and fractured supply chains push the industry past simple digitization. (https://news.sap.com/canada/2026/09/beyond-the-digital-mine-how-ai-is-forging-the-autonomous-future-of-canadian-mining/)
+
+🌐 Browser Automation Startups
+
+Enterprise "secure browser" startup Island raised a $400 million Series F at a $6.4 billion valuation (announced September 24, 2026), led by Evolution Equity Partners and more than doubling its valuation since 2024, as it positions its browser to defend enterprises against risks from autonomous AI agents. (https://www.globenewswire.com/news-release/2026/09/24/3368154/0/en/island-announces-400-million-series-f-bringing-valuation-to-6-4-billion.html)
+
+Software holding company Beacon acquired AI-reliability startup Haize Labs (announced September 17, 2026), folding its red-teaming, guardrails and observability tech — built to catch failures in autonomous, web-browsing AI agents — into a new Applied AI Research Group serving Beacon's 45 portfolio companies. (https://finance.yahoo.com/technology/ai/articles/beacon-acquires-haize-labs-power-143000206.html)
