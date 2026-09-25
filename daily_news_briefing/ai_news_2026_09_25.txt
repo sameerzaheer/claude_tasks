@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 25, 2026
+
+🤖 AI & LLMs
+
+Amazon opened its Seller Central APIs to outside AI agents at Amazon Accelerate (September 23, 2026), launching a US beta plugin that lets third-party sellers manage inventory, pricing, listings and analytics through Anthropic's Claude on Bedrock or Amazon's own Quick assistant, with persistent memory and always-on background workflows replacing manual dashboard logins. (https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/)
+
+Anthropic launched a new life sciences research group and disclosed its first result (September 23-24, 2026): during a 21.5-hour, 949-session autonomous research campaign consuming 215.6 million tokens, Claude independently flagged a previously uncharacterized CRISPR-like enzyme system in bacteriophages, dubbed "array-associated reverse transcriptases" (ART). (https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
+
+🚀 Startups
+
+Portuguese-British AI drone maker Tekever raised the first close of a $580 million Series D (announced September 23, 2026) at a $6.4 billion valuation, led by UC Investments — the University of California's investment arm, marking its first direct European bet — and Baillie Gifford, just a week after Tekever signed a contract worth up to £400 million to replace the British Army's Watchkeeper drones. (https://www.cnbc.com/2026/09/23/ai-drone-maker-ukraine-war-defense-tech.html)
+
+Databricks acquired Row Zero (announced September 24, 2026), a Seattle spreadsheet startup founded by former AWS engineers, folding its live, governed grid-interface technology into Databricks' "Genie" AI coworker so business teams can explore and model enterprise data with familiar spreadsheet tools instead of separate dashboards. (https://www.databricks.com/company/newsroom/press-releases/databricks-acquires-row-zero-bringing-live-governed-spreadsheets)
+
+⛏️ AI in Mining
+
+Billionaire-backed KoBold Metals is using AI-driven exploration technology to hunt for lithium and other critical minerals in the Democratic Republic of Congo (reported September 25, 2026), having secured 14 exploration permits in Manono and planning to invest more than $50 million by 2027 as it works to loosen China's grip on the region's critical-mineral supply chains. (https://www.malaymail.com/news/money/2026/09/25/billionaire-backed-us-mining-company-uses-ai-to-hunt-critical-minerals-in-dr-congo/236492)
+
+Sandvik unveiled "Sami," a fully autonomous, cabinless, battery-electric surface drilling concept, at its Future of Mining 2026 event in Tampere, Finland (early September 2026), built with robotic tooling for bit changes and hammer swaps as part of an AI-driven, mine-wide operating system connecting planning, drilling and decision-making. (https://im-mining.com/2026/09/01/sandvik-introduces-autonomous-electric-concept-drill-for-the-future-of-surface-mining/)
+
+🌐 Browser Automation Startups
+
+YC-backed Aside rolled its AI browser agent out to Windows with near-total feature parity to its Mac version (announced mid-September 2026), letting an agent complete tasks across sites a user is already logged into via a built-in password manager that autofills credentials without exposing them to the model, with access limited per site and logged in an audit trail. (https://piunikaweb.com/2026/09/14/aside-ai-browser-windows-release/)
+
+Perplexity moved to dismiss Amazon's remaining computer-fraud claims over its Comet browser's shopping agent (filed September 11, 2026), leaning on the Ninth Circuit's August ruling that a user — not Perplexity — is the one "accessing" Amazon's site when Comet's Assistant shops, logs in and compares prices on their behalf. (https://www.pymnts.com/news/artificial-intelligence/2026/ninth-circuit-narrows-cfaa-reach-in-perplexity-agentic-commerce-ruling/)
