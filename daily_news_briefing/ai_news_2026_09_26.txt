@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 26, 2026
+
+🤖 AI & LLMs
+
+Meta unveiled Muse Charm at Meta Connect 2026 (September 23-24, 2026), a palm-sized, Tamagotchi-style dedicated device for its Muse AI agent with a fingerprint sensor and built-in 5G modem, shipping in December to give users glasses-free, always-on access to the assistant. (https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go)
+
+Alibaba released Qwen-Audio 3.1 (announced September 23-24, 2026), a five-model voice stack covering speech recognition, synthesis and real-time dialogue, while cutting its audio API prices by up to 95%. (https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/)
+
+🚀 Startups
+
+Ando emerged from stealth (September 24, 2026) with $20 million in seed funding from Accel, Index Ventures and Emergence Capital for an agent-native team messaging platform positioning itself as a Slack rival where AI agents work alongside humans as first-class members of a conversation. (https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/)
+
+Baselayer raised a $35 million Series A (announced September 22, 2026) led by M13, launching an Agentic Identity Suite that helps banks and businesses verify autonomous AI agents and assess fraud risk before commerce driven by agents outpaces the safeguards meant to support it. (https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/)
+
+⛏️ AI in Mining
+
+Barrick's North American mining business selected Avathon's Physical AI Autonomy Platform (announced September 23-25, 2026) to connect data, operational knowledge and AI reasoning across its full value chain, from exploration and mine planning through safety, production and maintenance. (https://im-mining.com/2026/09/23/barrick-to-put-avathon-ai-solution-to-work-at-north-american-assets/)
+
+DGC Africa's Vision AI platform (reported August 28, 2026) is giving mining operators real-time visibility into the condition of assets in hazardous or hard-to-reach areas, supporting predictive maintenance and reducing unplanned equipment outages. (https://www.miningweekly.com/article/vision-ai-enhances-asset-visibility-across-mining-operations-2026-08-28)
+
+🌐 Browser Automation Startups
+
+Insurance AI startup Strada launched browser automation (announced September 24, 2026) that lets its agents record and replay workflows inside carrier portals and legacy systems that have no API, with full run-time logging for audit and no engineering work required to set up. (https://itbusinessnet.com/2026/09/strada-launches-browser-automation-for-carrier-portals-and-legacy-systems-without-apis/)
+
+A coalition of banks including Bank of America, NatWest and Capital One warned regulators (September 22, 2026) that AI browser-based shopping agents are advancing faster than fraud protections and consumer safeguards, urging mandatory disclosure whenever an AI agent handles a transaction. (https://www.cnbc.com/2026/09/22/banks-warn-ai-shopping-bots-raise-scam-fraud-data-privacy-risks.html)
