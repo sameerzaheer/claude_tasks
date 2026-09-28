@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 28, 2026
+
+🤖 AI & LLMs
+
+Qualcomm and Caltech-founded startup PrismML showed off "1-bit Bonsai" at the Snapdragon Summit (announced September 23-24, 2026), a 2-billion-parameter vision-language model quantized to 1-bit precision that runs locally on the Snapdragon AR1 Gen 1 platform, fitting 4x more parameters into the same memory budget as a 4-bit model while generating tokens more than 2x faster — aimed at giving AI smart glasses real-time scene understanding without the cloud. (https://www.androidheadlines.com/2026/09/prismml-1-bit-ai-smart-glasses-qualcomm-snapdragon.html)
+
+Google rolled out an early "Call for Me" experiment for Pixel 11 owners with a paid Gemini subscription (announced September 24, 2026), letting Gemini phone US businesses on the user's behalf — introducing itself, navigating phone menus, waiting on hold and handling tasks like checking stock or booking a table — while the user watches a live transcript and can take over at any time. (https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/)
+
+🚀 Startups
+
+Ema, which uses teams of AI agents to automate HR, IT and finance workflows, raised a $77 million Series B led by Bengaluru-based Creaegis (announced September 23, 2026), more than quadrupling its valuation since 2024 and bringing total funding to $140 million as existing backers Accel, Section 32 and Prosus increased their stakes. (https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/)
+
+AI-inference platform Baseten acquired agent-sandbox startup Blaxel (announced September 10, 2026), pairing Blaxel's secure, persistent execution environments for AI agents with Baseten's own inference infrastructure to build what it calls a single runtime for production AI applications. (https://www.axios.com/pro/enterprise-software-deals/2026/09/10/baseten-agentic-infrastructure-blaxel)
+
+⛏️ AI in Mining
+
+Kal Tire and Pitcrew AI won Partnership of the Year at the Mining Magazine Awards 2026 (announced September 22, 2026) for TireSight, an AI-powered real-time fleet-monitoring system that cuts mining-tyre downtime by up to 20% while lifting safety and sustainability across customer fleets. (https://www.miningmagazine.com/technology/news-analysis/4536455/winners-mining-magazine-awards-2026)
+
+Canadian explorer Copper Quest completed an AI-driven geophysical analysis at its Kitimat project in British Columbia (announced September 2, 2026), with the AI-generated modeling identifying a large, concealed conductive target near the Jeannette copper-gold zone now queued for drill-permitting. (https://copper.quest/copper-quest-completes-ai-driven-analysis-at-kitimat-identifies-large-concealed-conductive-target/)
+
+🌐 Browser Automation Startups
+
+Browser-use's TypeSafe team open-sourced Jev Ultrafast (public release September 20, 2026), a browser agent that skips a full vision-language model per step in favor of a numbered-element action space and a specialized routing model, cutting median per-step latency to about 247ms — versus roughly 10 seconds for a frontier LLM — and finishing a flight search in 7.1 seconds versus 45 seconds for Claude, at a fraction of the cost. (https://news.ycombinator.com/item?id=49735979)
+
+Browserbase held its inaugural Navigate conference in San Francisco (September 10, 2026), bringing together customers Lovable and Ramp along with Anthropic's Claude Agents team to discuss running browser-based AI agents reliably at production scale. (https://www.browserbase.com/blog/navigate)
