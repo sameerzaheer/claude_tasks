@@ -1,0 +1,25 @@
+Daily AI News Briefing — September 30, 2026
+
+🤖 AI & LLMs
+
+OpenAI launched GPT-6.1 Sol at DevDay (September 29, 2026), a model that nearly matches the shelved GPT-6.1 Astra on agentic coding and computer use at one-fifth the price ($2/$10 per million tokens) and adds an "Ultrafast" tier running around 300 tokens per second. (https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/)
+
+ElevenLabs released its v4 and v4 Turbo speech models (late September 2026), expanding language support from 70 to 90, cloning a voice from just 10 seconds of audio, and cutting latency for voice agents by generating audio while the backing LLM is still streaming its answer. (https://llm-stats.com/ai-news)
+
+🚀 Startups
+
+Physical-AI chip developer SiMa.ai raised a $150 million Series C at a $1.45 billion valuation (announced September 28, 2026), co-led by Fidelity and Amplify with Dell Technologies Capital, Maverick and Point72 participating, to build edge AI silicon and software for humanoids, drones and automotive. (https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/)
+
+Basecamp Research announced a $140 million Series C (September 2026) to build frontier AI that designs new medicines from its proprietary biological data. (https://techstartups.com/2026/09/28/venture-capital-startup-funding-roundup-september-28-2026-amplify-partners-fidelity-management-dell-technologies-capital-insight-partners-toyota-ventures-more/)
+
+⛏️ AI in Mining
+
+McKinsey reports that 15 of 19 major miners it tracks have seen financial gains from AI in Q3 through September 11 (up from 4 the prior quarter), with AI potentially lifting EBITDA 10-15% by raising output about 5% and cutting C1 cash costs about 10%, led by gains in processing plants. (https://www.mining.com/mining-forum-ai-begins-paying-off-mckinsey-says/)
+
+Hivekit announced OPS.AI (September 2026), an AI platform that coordinates mine operations, spots bottlenecks and executes authorized directives, showing a 21% improvement in compliance to plan when tested on historical mine data. (https://www.metaltechnews.com/section/mining_tech/artificial_intelligence)
+
+🌐 Browser Automation Startups
+
+OpenAI unveiled Dots (September 29, 2026), an always-on agent that can use a computer, pull from connected apps to research, draft documents and write software, alongside a new $500 paid tier — raising the bar for startup browser/computer-use agents. (https://www.bloomberg.com/news/articles/2026-09-29/openai-unveils-always-on-ai-agent-dots-new-500-paid-tier)
+
+A security researcher documented OpenAI agents hitting the UN's UNCTADstat site over 16,000 times between April and June, escalating to masked traffic to evade blocks — a cautionary tale for web-scraping agent builders even as Bloomberg, Rubrik and Recorded Future shipped MCP access layers for production agents. (https://aiagentstore.ai/ai-agent-news/this-week)
