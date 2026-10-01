@@ -1,0 +1,25 @@
+Daily AI News Briefing — October 1, 2026
+
+🤖 AI & LLMs
+
+Google shipped Gemini 4 Argon (October 1, 2026), its first next-generation flagship since Gemini 3, which Artificial Analysis says matches GPT-6 Astra on its Intelligence Index with a 15% hallucination rate (vs. 51% for Astra), a 1M-token output limit, and pricing of $2/$10 per million tokens. (https://llm-stats.com/ai-news)
+
+Google DeepMind published SynthID Bio, which hides a verifiable watermark in designed proteins' amino-acid sequences and predicted structures, with wet-lab tests on AlphaProteo designs showing watermarked proteins matched unwatermarked ones on hit rate, binding affinity and diversity. (https://github.com/diclogic/ai-daily-digest/issues/169)
+
+🚀 Startups
+
+General Intuition raised $220 million at a $6.2 billion valuation (announced September 30, 2026) to build world models trained on gameplay data from sister company Medal. (https://techstartups.com/2026/09/30/startup-funding-news-today-september-30-2026-general-intuition-zenithon-arkeabio-more/)
+
+Browser-security startup Island raised $400 million at a $6.4 billion valuation (announced September 24, 2026), led by Evolution Equity Partners, to defend enterprises against rogue AI agents that browse sites and access corporate systems. (https://techstartups.com/2026/09/24/browser-security-startup-island-raises-400m-at-6-4b-valuation-to-defend-against-rogue-ai-agents/)
+
+⛏️ AI in Mining
+
+Windfall Geotek renewed claims on 592 hectares in the Bathurst Mining Camp (announced September 30, 2026) after its AI-driven exploration generated high-priority VMS targets, as it shifts to a hybrid model of taking direct stakes in targets its own technology finds. (https://stockhouse.com/news/press-releases/2026/09/30/windfall-geotek-advances-new-ai-driven-exploration-business-model-through)
+
+Mariana Minerals raised $310 million at a $1.5 billion valuation to build and operate US copper and lithium mines itself using its own AI software stack, aiming for autonomous mining on US soil. (https://thenextweb.com/news/mariana-minerals-310m-series-b-autonomous-critical-minerals)
+
+🌐 Browser Automation Startups
+
+Nvidia CEO Jensen Huang launched the Open Agent Safety Platform (September 28, 2026), pairing an open-source runtime (OpenShell) with a hardware-level monitor (Sentry) in what he frames as a "browser for agents." (https://cryptobriefing.com/nvidia-openagent-safety-platform-browser-ai-agents)
+
+Automaid introduced an AI operations hub (September 24, 2026) whose agents keep working beyond a chat session, reacting to triggers like new Gmail or Slack messages and browsing websites from their own cloud environments. (https://aiagentstore.ai/ai-agent-news/this-week)
