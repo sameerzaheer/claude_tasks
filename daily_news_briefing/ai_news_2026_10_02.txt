@@ -1,0 +1,25 @@
+Daily AI News Briefing — October 2, 2026
+
+🤖 AI & LLMs
+
+Amazon open-sourced Strands Decider 2B (announced October 1, 2026), a small Qwen-based decision model that picks among pre-defined options with a calibrated confidence score at low latency and can run locally, following TypeSafe's Jev and OpenAI's similar offering. (https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/)
+
+Cloudflare released Clef and Clef-flash (October 1, 2026), its first models trained in-house by the Workers AI team. (https://aiagentsdirectory.com/news/ai-agents-news-brief-october-1-2026)
+
+🚀 Startups
+
+AMD agreed to acquire Fei-Fei Li's World Labs for about $8.2 billion in stock (announced September 28, 2026), with Li becoming AMD's EVP and chief scientist once the deal closes by end of 2026. (https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-acquires-ai-legend-fei-fei-lis-world-labs-for-usd8-2-billion-imagenet-pioneer-will-become-amd-chief-scientist-as-the-chipmaker-brings-her-lab-in-house)
+
+Viral personal-AI-agent startup Instinct raised a $1 billion Series C at a $10 billion valuation (announced September 28, 2026). (https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/)
+
+⛏️ AI in Mining
+
+Dyno Nobel will trial the first fully autonomous blast system (measuring, priming, loading, stemming, documenting with no personnel on the bench) at Copper One in Utah (reported early October 2026), where autonomous drills and haul trucks have already cut mining costs by roughly 50%. (https://discoveryalert.com/news/dyno-nobel-autonomous-blast-system-october-2026)
+
+Uber co-founder Travis Kalanick pitched a "physical AI" holding company spanning food, transport and mining via autonomous-truck startup Pronto (September 30, 2026). (https://theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-30-2026)
+
+🌐 Browser Automation Startups
+
+OpenAI expanded its Agents API so agents can use a hosted browser to interact with websites (announced around October 1, 2026), putting it in direct competition with browser-infrastructure startups like Browserbase and TinyFish. (https://aiagentsdirectory.com/news/ai-agents-news-brief-october-1-2026)
+
+HCLSoftware announced its acquisition of Croatian RPA/automation platform Robotiq.ai (October 1, 2026) to add agent integration to its automation suite. (https://aiagentsdirectory.com/news/ai-agents-news-brief-october-1-2026)
