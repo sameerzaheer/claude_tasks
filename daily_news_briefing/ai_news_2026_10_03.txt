@@ -1,0 +1,25 @@
+Daily AI News Briefing — October 3, 2026
+
+🤖 AI & LLMs
+
+A randomized field experiment tracking 1,100 Google users found that Google's AI search features reduced referrals to external websites and that forcing AI Mode lowered users' satisfaction with Search (reported in the October 2, 2026 weekly AI update). (https://marketingprofs.com/opinions/2026/56056/ai-update-october-02-2026-ai-news-and-views-from-the-past-week)
+
+Meta released open-source ESP32 firmware and a Linux SDK (around October 1-2, 2026) so developers can embed its Muse AI agent in custom devices such as E Ink displays, HDMI dongles and Raspberry Pi 5 builds. (https://aiagentsdirectory.com/news/ai-agents-news-brief-october-1-2026)
+
+🚀 Startups
+
+AI research lab Inworld acquired Ultravox, a platform for building real-time voice agents (announced October 1, 2026; terms undisclosed), bringing the Ultravox team in-house. (https://dealroom.co/news/)
+
+Defense-tech unicorn Anduril raised $5 billion at a $61 billion valuation, according to Crunchbase's weekly roundup of the biggest September 2026 funding rounds. (https://news.crunchbase.com/venture/biggest-funding-rounds-anduril-voltagrid-mind-robotics/)
+
+⛏️ AI in Mining
+
+UK-listed First Class Metals signed a non-binding letter of intent to join Rosor Exploration's AI-enabled "Project Field-to-Insight" (October 2026 to September 2027), using drone survey data over 54 km² at its Sunbeam Project in Ontario to speed up geophysical processing and interpretation. (https://investegate.co.uk/announcement/rns/first-class-metals--fcm/first-class-metals-signs-ai-exploration-loi/9803057)
+
+African Mining Week (Cape Town, October 14-16, 2026) will put AI in mineral exploration at the center of its program, as the DRC says AI-enabled exploration could cut discovery timelines to under three years. (https://tech.africa/african-mining-week-2026-ai-exploration/)
+
+🌐 Browser Automation Startups
+
+Shopify now lets AI agents running in a buyer's browser read, update and complete checkout on eligible merchant storefronts (after buyer authorization) via its Universal Commerce Protocol, with no merchant configuration needed. (https://aichief.com/news/shopify-opens-checkout-to-browser-based-ai-agents/)
+
+Browserbase, the browser-infrastructure startup (about $67.5M raised), added agent runs as a counted entitlement on every plan in September 2026 (3 on Free, 15 on Developer, 50 on Startup), signaling a shift toward monetizing hosted agents. (https://www.usagepricing.com/blueprint/browserbase)
