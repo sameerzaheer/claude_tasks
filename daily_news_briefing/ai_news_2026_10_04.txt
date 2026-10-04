@@ -1,0 +1,25 @@
+Daily AI News Briefing — October 4, 2026
+
+🤖 AI & LLMs
+
+Google is rolling out Gemini 4 Argon in phases, starting with trusted cybersecurity partners while it works with the U.S. government on pre-release safety evaluations, as analysts debate whether it really closes the gap with OpenAI and Anthropic (CNBC, October 2, 2026). (https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html)
+
+Apple's Siri AI is set to expand to French, Japanese, Korean, Portuguese and Spanish via iOS 27.2, with both iOS 27.1 and 27.2 expected before the end of October 2026. (https://www.thehansindia.com/tech/upcoming-ai-updates-in-october-2026-major-developments-to-watch-1127036)
+
+🚀 Startups
+
+Mandiant founder Kevin Mandia's "agent swarm" security startup Armadin raised $255.5 million at a $2.5 billion valuation (October 1, 2026), following its $189.9 million seed/Series A in March. (https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/)
+
+AI startup Flow Engineering was backed by Valor, Atreides and Sequoia at a $750 million valuation (September 30, 2026). (https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/)
+
+⛏️ AI in Mining
+
+KoBold Metals is using AI to read colonial-era drill logs to find lithium in the DRC, part of its push in the country's critical-mineral race. (https://iafrica.com/kobolds-ai-is-reading-colonial-era-drill-logs-to-find-lithium-in-the-drc)
+
+TechCrunch reports Caterpillar is applying what it learned from automating mining to broader AI deployment (August 30, 2026). (https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/)
+
+🌐 Browser Automation Startups
+
+Skyvern released a major update (reported October 1, 2026) in which prompts generate and maintain Playwright code automatically, which it says is about 2.7x cheaper and 2.3x faster. (https://feedbagel.com/post/skyvern-ai-tool-now-writes-and-maintains-its-own-code-for-browser-automation)
+
+Browser-automation startup Notte secured $2.5 million in funding (date not confirmed). (https://vestbee.com/blog/articles/notte-secures-2-5-m)
