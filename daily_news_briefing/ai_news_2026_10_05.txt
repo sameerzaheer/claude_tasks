@@ -1,0 +1,25 @@
+Daily AI News Briefing — October 5, 2026
+
+🤖 AI & LLMs
+
+Meta AI released six mathematics papers co-authored with human mathematicians using Muse Spark 1.1 and 1.2 in Thinking Mode, five of which answer previously open problems (reported October 4, 2026). (https://aiweekly.co/ai-news-today)
+
+Anthropic published an analysis of an influence operation that allegedly used Claude to build election-manipulation infrastructure in Malaysia (1,000+ fake X accounts and a fictitious outlet, "Malaysia Pulse"), and said its Mythos model also found an authentication-bypass flaw (CVE-2026-61500) in Rejetto HTTP File Server (reported October 4, 2026). (https://aiweekly.co/ai-news-today)
+
+🚀 Startups
+
+Ema, which sells teams of AI agents that automate corporate processes across HR, IT and finance, raised a $77 million Series B led by Creaegis (announced September 23, 2026). (https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/)
+
+Natural raised $30 million to build payments infrastructure for AI agents and take on Stripe (announced July 20, 2026). (https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/)
+
+⛏️ AI in Mining
+
+Skillings' 2026 mining technology update highlights autonomous drilling, AI-ready processing plants and deep-sea robotics as the areas where Komatsu, Sandvik, Hitachi and others are pushing automation hardest. (https://skillings.net/mining-technology-update-2026-autonomous-drilling-ai-ready-processing-and-deep-sea-robotics)
+
+ISSAI and AREMCA discussed a strategic collaboration on AI for mining and critical minerals (July 31, 2026). (https://issai.nu.edu.kz/2026/07/31/issai-and-aremca-discuss-strategic-collaboration-in-ai-for-mining-and-critical-minerals/)
+
+🌐 Browser Automation Startups
+
+Anchor Browser, the Israeli startup behind a cloud-hosted headful Chromium runtime for agents, now bundles an enterprise identity stack (OmniConnect, Anchor VPN, 1Password Unified Access, Fingerprint Web Bot Auth) aimed at auth-heavy enterprise sites. (https://llms.anchorbrowser.io/)
+
+StableBrowse, a Y Combinator Spring 2026 startup, raised roughly $125K in seed funding to build an AI-native web engine designed specifically for agents. (https://dealroom.co/news/130859-stablebrowse-raises-125k-seed-to-build-an-ai-native-web-engine/)
