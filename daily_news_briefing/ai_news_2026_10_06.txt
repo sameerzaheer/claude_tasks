@@ -1,0 +1,25 @@
+Daily AI News Briefing — October 6, 2026
+
+🤖 AI & LLMs
+
+President Trump announced a "Super Intelligence Force" AI task force led by Director of National Intelligence Jay Clayton, which will coordinate the administration's AI initiatives and deliver recommendations within 120 days (reported October 5, 2026). (https://abc7news.com/story/president-donald-trump-announces-creation-super-intelligence-force-ai-task/19907473/)
+
+Nvidia-backed Reflection AI is preparing to ship its first open-weight model to compete with top Chinese open systems like DeepSeek and Qwen, while DeepSeek's V4.1 Flash has reportedly narrowed the US-China gap to about 3% on LiveBench (reported October 5, 2026). (https://aidapted.ro/en/articles/ai-news-october-5-2026-super-intelligence-force-softbank/)
+
+🚀 Startups
+
+OneByZero raised a $20 million Series A and Pandektes raised a €13.5 million Series A (October 5, 2026), part of a day where three of the five major deals were AI-native. (https://techstartups.com/2026/10/05/startup-funding-news-today-october-5-2026-onebyzero-pandektes-fleuret-ai-more/)
+
+European defence tech investment has hit a record $7.4 billion in 2026, nearly triple the prior level, per this week's startup roundup (October 5, 2026). (https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-5-2026)
+
+⛏️ AI in Mining
+
+Botswana Minerals says AI-powered exploration has identified eight new copper deposits, accelerating the country's move into critical minerals. (https://tech.africa/african-mining-week-2026-ai-exploration/)
+
+Ghana's Gold Board and Geological Survey Authority are using AI-assisted mineral prospectivity modelling across multiple concessions to expand national gold reserves. (https://tech.africa/african-mining-week-2026-ai-exploration/)
+
+🌐 Browser Automation Startups
+
+A former Perplexity employee who worked on Comet launched Polar, an AI-first browser aimed at knowledge workers, backed by a $5.7 million seed round led by Madrona (July 29, 2026). (https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/)
+
+Open-source Browser Use, a Y Combinator-backed agent framework with $17 million in seed funding, reports an 89.1% success rate on the WebVoyager benchmark and over 97,000 GitHub stars. (https://www.firecrawl.dev/blog/best-browser-agents)
