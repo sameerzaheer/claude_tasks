@@ -1,0 +1,25 @@
+Daily News Briefing — October 7, 2026
+
+🤖 AI & LLMs
+
+Nvidia-backed Reflection AI unveiled Beam, its first open-weight model (501B-parameter MoE, 23B active, 1M-token context, Apache 2.0 weights due later in October), positioned as a Western rival to DeepSeek/Qwen at 3-4x lower inference compute. (https://thenextweb.com/news/reflection-ai-beam-open-weight-model)
+
+Figure AI founder Brett Adcock's $6B-valued Hark launched Hark Pro, a proactive, personalized AI assistant interface, with the first 100,000 sign-ups getting a paid plan free. (https://gizmodo.com/hark-pro-ai-ui-2000822253)
+
+⛏️ AI in Mining
+
+Canada Nickel picked Komatsu and SMS Equipment for 300+ machines (~C$1.5B) at its Crawford project, using autonomous haulage and fleet management that it projects will cut unit mining costs ~26% and open-pit labour ~33%. (https://www.heavyequipmentguide.ca/article/44951/over-300-komatsu-machines-totalling-15b-to-be-supplied-by-sms-equipment-to-canadian-nickel-mine)
+
+Impossible Metals is opening an Advanced Marine Robotics Hub in Pittsburgh to build its "Eureka" AI-guided autonomous underwater platform for seabed critical-mineral collection (announced July 2026). (https://www.miningweekly.com/article/us-autonomous-ocean-miner-plans-advanced-marine-robotics-hub-in-pittsburgh-2026-07-15)
+
+🦾 Robotics Startups
+
+Crunchbase reports robotics startups have raised a record $18.8B in 2026 (vs. $15B in all of 2025), led by embodied-AI rounds. (https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data/)
+
+German humanoid maker Neura Robotics secured up to $1.4B in a Series C round this year, joining Skild AI ($1.4B) and Figure AI ($39B valuation) among the best-funded robot-brain players. (https://www.marketscreener.com/news/neura-robotics-gmbh-announced-that-it-has-received-1-4-billion-in-funding-from-a-group-of-investors-ce7f5cdbdd8efe20)
+
+🔧 Hardware / Sensor Automation Opportunities
+
+Xense Robotics raised a nine-figure round for human-like tactile sensors, and tactile sensing is projected to more than double to ~$622M by 2032 — humanoid funding is far outpacing sensor funding, so touch/force sensing is an under-capitalized bottleneck. (https://getcoai.com/news/xense-robotics-raises-9-figure-funding-for-human-like-touch-sensors)
+
+Aaronn Electronic and Advantech introduced an industrial architecture that processes sensor data locally for safety-critical robotics without cloud round-trips — opportunity: rugged edge-compute and sensor-fusion modules for on-site physical-AI systems. (https://www.marketscale.com/industries/industrial-iot/automation-industry-roundup-sensors-software-and-ai-drive-june-2026-product-wave.md)
