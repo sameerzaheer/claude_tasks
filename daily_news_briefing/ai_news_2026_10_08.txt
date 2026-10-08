@@ -1,0 +1,25 @@
+Daily News Briefing — October 8, 2026
+
+🤖 AI & LLMs
+
+Mistral put out a public preview of Mistral Large 4 (October 6, 2026), a ~1-trillion-parameter model it says matches or beats leading Chinese open-weight models in several fields, with open weights due around October 27. (https://rappler.com/technology/mistral-large-4-ai-model-launch)
+
+Apple's Siri AI is reportedly set to expand to French, Japanese, Korean, Portuguese and Spanish in iOS 27.2, already in testing (a forward-looking preview, so timing may change). (https://www.thehansindia.com/tech/upcoming-ai-updates-in-october-2026-major-developments-to-watch-1127036)
+
+⛏️ AI in Mining
+
+London-listed junior explorer First Class Metals signed a non-binding letter of intent to adopt Project Field-to-Insight, an AI-enabled exploration initiative led by Rosor Exploration under CENGN's Living Lab program, at its Sunbeam project in Ontario (early October 2026). (https://tipranks.com/news/company-announcements/first-class-metals-backs-ai-exploration-drive-at-ontario-sunbeam-project)
+
+Komatsu says it has commissioned its 1,000th autonomous ultra-class haul truck, at Barrick's Nevada Gold Mines — the first OEM to reach that mark (date not confirmed, likely 2026). (https://www.constructionequipmentguide.com/komatsu-commissions-1000-ultra-class-autonomous-haul-trucks/71124)
+
+🦾 Robotics Startups
+
+Minerva Humanoids emerged from stealth with ~$10M pre-seed led by General Catalyst (October 7, 2026) to build semi-autonomous humanoids for hazardous energy and public-safety work. (https://roboticsandautomationnews.com/2026/10/07/minerva-humanoids-raises-10-million-to-develop-robots-for-dangerous-industrial-jobs/105619/)
+
+Simulation startup Antioch raised a $32M Series A (September 2026) to deepen its simulation tooling for physical-AI development. (https://www.robotics247.com/podcast/september-2026-robotics-recap)
+
+🔧 Hardware / Sensor Automation Opportunities
+
+China's lidar leaders Hesai and RoboSense are pivoting into robotics (Hesai budgeting ~200M yuan for robot "eyes and muscles"; RoboSense tops GGII's Q1 2026 3D-lidar shipments in five robotics categories) — opportunity: cheap robot-grade lidar is going mainstream, so differentiated Western/allied supply (tariff-resilient, safety-certified) and sensor-fusion modules have room. (https://www.scmp.com/business/china-business/article/3347995/chinas-lidar-giants-pivot-robotics-jensen-huang-praises-chinese-supply-chain)
+
+Tariffs on lidar used in warehouse, manufacturing and healthcare robots are pushing localized manufacturing and supplier diversification, alongside Ouster's Rev8 digital lidar (color sensing, ~2x range/resolution, targeting functional-safety certification) — opportunity: regional lidar/sensor assembly and cost-optimized designs for robotics OEMs. (https://korthosrobotics.com/research/q1-results-show-robotics-lidar-is-becoming-measurable)
