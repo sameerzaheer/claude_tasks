@@ -1,0 +1,25 @@
+Daily News Briefing — October 9, 2026
+
+🤖 AI & LLMs
+
+Anthropic released Claude Haiku 5.5, which it says costs about 75% less to run than Haiku 4.5 (reported at $0.10 input / $0.50 output per million tokens) and targets high-volume routine work. (https://edtechinnovationhub.com/news/anthropic-says-its-new-claude-haiku-55-delivers-more-ai-capability-at-75-lower-cost)
+
+OpenAI is reportedly rolling GPT-6 out to ChatGPT with a new "Intelligent UI" mode, reaching paid tiers first and Free/Go users around October 8 (aggregator reports differ on model names, so verify on OpenAI's blog). (https://aiweekly.co/ai-news-today)
+
+⛏️ AI in Mining
+
+NRED Intelligent Mining dropped its Wilmac copper-gold option agreements to focus on its MetalCore AI platform, which fuses geological datasets into a probabilistic model that ranks exploration targets. (https://kalkinemedia.com/ca/news/announcements/nred-intelligent-mining-shifts-focus-to-metalcore-ai-platform-exits-wilmac-copper-gold-project)
+
+CopperTech Metals' S-1 filing describes plans to deploy Palantir's platform at its KCM operation in Zambia for digital twins, mine planning, maintenance scheduling and exploration targeting (plans, not a confirmed rollout). (https://www.sec.gov/Archives/edgar/data/0002093018/000157587226000437/ctm006_s1a.htm)
+
+🦾 Robotics Startups
+
+Mecka AI raised a $60M Series B led by Sequoia (with Nvidia and M12) to collect human-motion data for training humanoid robots, reportedly passing $100M run-rate revenue in June. (https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia)
+
+Brooklyn "robots as a service" startup Ultra raised $62M ($50M Series A led by Framework Ventures plus a $12M seed) and announced a tie-up with Physical Intelligence to power its warehouse robots. (https://fortune.com/2026/10/09/ultra-raises-62-million-fast-growing-robots-service-tie-up-ai-research-firm-physical-intelligence/)
+
+🔧 Hardware / Sensor Automation Opportunities
+
+TrendForce says MEMS sensing is shifting from single-mode to multimodal for humanoid edge AI and e-skin, with a single dexterous hand carrying an estimated 80-200 pressure sensors plus IMU and ToF — opportunity: validation happens in 2026-27, so sensor makers who win design-ins now are positioned for volume in 2028-30. (https://www.trendforce.com/research/download/RP260910XF)
+
+Analysis of humanoid funding shows tactile-sensing startups raising a few million dollars against single $1B+ humanoid rounds (though PaXini raised $145M in March) — opportunity: touch sensing is an underfunded bottleneck, so low-cost, manufacturable tactile skins and force/torque sensors have room. (https://blog.pebblous.ai/blog/humanoid-capital-tactile-data/en/)
