@@ -139,3 +139,27 @@ Considered but excluded: CME National Manufacturing Conference (Ottawa, Nov 17-1
 
 Considered but excluded: Automate 2027 (Las Vegas, May 10-13; far/large cost), Manufacturing LIVE NYC (Apr 20-21; not Buffalo), CNA2027 (Ottawa nuclear; dates unposted), Reseau RMI Quebec City (Apr 13-15; Quebec City, French), MIIT 2027 Hamilton (medical imaging), ICSMAML/ICMTM/ICCBE/ICPharmapack-style pay-to-present conferences, Pharma Smart Manufacturing Summit (online paid, Jun 3-4), RemTech Banff (Oct 14-16; Alberta), ISA Ontario (arborists), Advanced Manufacturing Expo (Grand Rapids MI), ADM Toronto (Nov 9-11, 2027; outside window), MPower Buffalo (Oct 8; passed). Buffalo/Plant WNY and Rochester A&WMA Apr 2027 had no confirmed dates. 
 Source note: all four source pages loaded in an earlier run today; this run used Exa searches (~14 more).
+
+==== Sixth run, 2026-10-09 ====
+Sources: bdc.ca / investmississauga.ca / ideamississauga.ca / ngen.ca were not re-fetched this run (earlier same-day runs: first failed DNS, later loaded). ~19 searches run.
+New events per month: Oct 2026: 1 | Nov 2026: 2 | Dec 2026: 0 | Jan 2027: 1 | Mar 2027: 2 | Apr 2027: 1 | May 2027: 1
+
+1. [HIGH] SMART Remediation Seminar Series Toronto 2027
+ Jan 28, 2027, 7:30 AM-3:00 PM | Mississauga Convention Centre, 75 Derry Rd W | Cost: see Eventbrite | https://www.eventbrite.ca/e/smart-remediation-seminar-series-toronto-2027-tickets-1996006220336
+ Why: GTA seminar for remediation consultants and site owners - monitoring sensors and consulting fit.
+2. [MEDIUM] New York State Innovation Summit - Oct 27-28, 2026 (9-5 assumed) | Buffalo Convention Center | Cost: registration open, price not confirmed | https://nysinnovationsummit.com/
+ Why: FuzeHub-hosted gathering of NY manufacturers (AI, materials, manufacturing). Overlaps CME Kitchener/Brampton and MICA.
+3. [MEDIUM] Mining Health and Safety Conference - Apr 21-22, 2027 | Holiday Inn, Sudbury | Cost: not posted | https://www.workplacesafetynorth.ca/en/conference/mining-health-and-safety-conference
+ Why: ~300 Ontario mine operators/H&S leads - hazard monitoring and automation fit; trade show booths sell out in minutes in Jan.
+4. [MEDIUM] PFAS Treatment Canada 2027 - Mar 15-16, 2027 | Toronto (venue TBA) | Cost: not posted | https://www.canada.pfas-summit.com/
+ Why: industrial dischargers and site owners managing toxic PFAS contamination.
+5. [MEDIUM] CME National Manufacturing Conference - Nov 18, 2026, 8:00-4:30 | Fairmont Chateau Laurier, Ottawa | Cost: not listed | https://cme-mec.ca/connection/2026-national-manufacturing-conference/
+ Why: Canadian manufacturing executives (Nov 17 Hill Day/AGM is members-only).
+6. [MEDIUM - UNVERIFIED, aggregator date only] Future of Manufacturing Summit - Nov 25, 2026, 7:30-11:30 AM | Bellvue Manor, 8083 Jane St, Vaughan | $110 member / $170 non-member | https://gta.events/events/show/73
+ Why: GTA manufacturers (defense/aerospace, trade diversification).
+7. [LOW] EPC Mining Summit Toronto 2027 - Mar 11-12, 2027 | Toronto (venue TBA) | Cost: not posted | https://whysummits.com/epc-mining-summit-toronto-2027/
+ Why: mining owners' capital-projects leaders and EPC firms; third-party organizer.
+8. [LOW] Ontario Water & Wastewater Conference & Trade Show - May 10-13, 2027 | Exhibition Place, Toronto | Cost: not posted | https://www.weao.org/2027-joint-conference-present-partner-and-connect/
+ Why: 2,000+ water/wastewater operators; automation/digital stream.
+
+Excluded: Mpower Buffalo (Oct 8, already past); CME roadshow King/Windsor/London/Peterborough (same series, Kitchener+Brampton already listed); CME Queen's Park Reception Dec 1 (policy networking); AISTech 2027 Nashville (outside region, May 3-5); AIST Northern Chapter Hamilton annual show (2027 date not yet published); ISA Niagara Frontier Tech Expo (2027 date not published); HWERC (only 2019 pages found, no 2026 edition confirmed); pay-to-present academic conferences in Hamilton/Toronto/Kitchener/Niagara (WASET, IRES, ICROSMA, IMROBOTECH etc.: researchers, not customers); Powering AI/Data Centre Expo Oct 20 (data centres); IBAO convention Oct 21-22 (insurance brokers); Salon Industriel Terrebonne Oct 2027 (beyond 12 months) and Rimouski/Sherbrooke/Saguenay salons (outside Montreal); Salon MCEE Apr 2027 Montreal (building electrical trades); PDAC NOMS (part of PDAC); Sudbury Mining Week/MineConnect roadshow (youth/networking); Vital pharma supply chain Montreal (distribution, not manufacturing); MIIT Hamilton (medical imaging); CRS 2027 Toronto Jul (drug delivery science); Expo Manufactura Mexico; Smart Production Solutions Nuremberg.
