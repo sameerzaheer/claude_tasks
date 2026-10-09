@@ -26,3 +26,35 @@ NOTE: bdc.ca, investmississauga.ca, ideamississauga.ca and ngen.ca all failed to
  Conflicts: Nov 17 Weekly CivicWeave Scrum 5:15pm
 
 Considered but excluded: ADM Expo Montreal (Nov 11-12, 2026; outside Ontario), ADM Toronto (Nov 9-11, 2027; outside 12-month window), Automation Fair Boston (Nov 2026), COM 2027 Montreal (Aug 2027). No Buffalo, Hamilton, KW, Niagara, pharma or steel events found in window.
+
+==== Second run, 2026-10-09 (all four source pages loaded successfully this time) ====
+
+1. [HIGH] Canadian Mining Expo 2027
+ Date/time: Jun 9-10, 2027 (gala Jun 8); hours assumed 9:00-17:00
+ Location: McIntyre Complex, Timmins, ON
+ Cost: $25 expo pass; $125 gala dinner (includes pass)
+ URL: https://virtex.canadianminingexpo.com/
+ Why: 400+ exhibitors and Northern Ontario mine operators/buyers - direct audience for sensors, monitoring and automation, at a very low ticket price.
+
+2. [MEDIUM] MICA Network Annual Conference (mining innovation)
+ Date/time: Oct 27-29, 2026 (times assumed 9:00-17:00; UNVERIFIED - from a Northern Ontario Business headline/snippet only, could not load page)
+ Location: Cambrian College, Sudbury, ON
+ Cost: unknown
+ URL: https://www.northernontariobusiness.com/industry-news/mining/mining-innovation-conference-coming-to-sudbury-12652270
+ Why: mining innovation-commercialization event in the Sudbury mining cluster, with operators and tech adopters; soon, so verify quickly.
+
+3. [LOW] SMART Remediation 2027 - Ottawa
+ Date/time: Feb 11, 2027, 8:00-17:00
+ Location: Ottawa, ON (venue not listed)
+ Cost: not listed
+ URL: https://smartremediation.com/upcoming-events/
+ Why: technical seminar for remediation consultants and site owners - fit for environmental monitoring sensors and consulting.
+
+4. [LOW] VMPT 2027 (Virtual Machining Process Technology)
+ Date/time: May 31 - Jun 3, 2027 (times assumed 9:00-17:00)
+ Location: University of Waterloo, Waterloo, ON
+ Cost: not yet published
+ URL: https://canrimt.uwaterloo.ca
+ Why: digital machining, smart sensors and digital-twin monitoring; Kitchener-Waterloo priority area but mostly academic/R&D audience.
+
+Considered but excluded: BDC Small Business Week webinars (Oct 20-22, generic), IDEA Mississauga events (startup funding/exit), NGen listings (all past or overseas missions), CIM CONNECT Montreal (May 2-5, 2027; outside Ontario), MPower Buffalo (Oct 8, 2026; already passed), FABTECH Canada (next 2028 per organizer), ADM Toronto Nov 2027 (outside window). No Hamilton, Niagara, Buffalo, pharma, chemical or steel events found in window.
