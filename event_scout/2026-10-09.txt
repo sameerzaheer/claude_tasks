@@ -1,0 +1,28 @@
+Event Scout - 2026-10-09
+NOTE: bdc.ca, investmississauga.ca, ideamississauga.ca and ngen.ca all failed to load (DNS error ENOTFOUND). Results below come from web searches only; aggregator dates should be verified.
+
+1. [HIGH] PDAC 2027 Convention
+ Date/time: Mar 7-10, 2027 (times assumed 9:00-17:00)
+ Location: Metro Toronto Convention Centre / Fairmont Royal York, Toronto, ON
+ Cost: TBD (registration opens early Dec 2026)
+ URL: https://pdac.ca/convention-2027
+ Why: World's largest mining/exploration convention, with a dense mining-customer audience for monitoring sensors, automation and industrial AI.
+ Conflicts: Mar 7 Tafseer class 10-11am; Mar 8 Mentors Monthly Meeting 6pm; Mar 9 Weekly CivicWeave Scrum 5:15pm
+
+2. [HIGH] CMTS 2027 (Canadian Manufacturing Technology Show)
+ Date/time: Sep 27-30, 2027 (times assumed 9:00-17:00; provisional)
+ Location: Toronto Congress Centre, Etobicoke (venue conflicting in listings)
+ Cost: TBD (not yet posted)
+ URL: https://www.cmts.ca
+ Why: Biennial GTA show of manufacturers buying machine tools, robotics and automation - direct fit for hardware, integration and consulting.
+ Conflicts: Sep 28 Weekly CivicWeave Scrum 5:15pm
+
+3. [MEDIUM] Critical Minerals Canada Conference & Exhibition
+ Date/time: Nov 16-17, 2026 (Northern Miner lists Nov 9 - verify; times assumed 9:00-17:00)
+ Location: DoubleTree by Hilton Toronto Downtown, Toronto, ON
+ Cost: TBD
+ URL: https://ontarioprospectors.com/2026/07/info-on-critical-minerals-canada-conference-and-exhibition-nov-16-17-2026/
+ Why: 200+ mining executives and officials; investment-leaning, but a concentrated mining audience for monitoring and automation.
+ Conflicts: Nov 17 Weekly CivicWeave Scrum 5:15pm
+
+Considered but excluded: ADM Expo Montreal (Nov 11-12, 2026; outside Ontario), ADM Toronto (Nov 9-11, 2027; outside 12-month window), Automation Fair Boston (Nov 2026), COM 2027 Montreal (Aug 2027). No Buffalo, Hamilton, KW, Niagara, pharma or steel events found in window.
