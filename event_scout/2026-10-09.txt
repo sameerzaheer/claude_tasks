@@ -76,3 +76,40 @@ Considered but excluded: BDC Small Business Week webinars (Oct 20-22, generic), 
  Why: Largest North American powder metallurgy / metal AM exhibit, close to Toronto; metals producers for process monitoring and automation, but audience is partly academic/suppliers.
 
 Considered but excluded: IMROBOTECH2027 Toronto (academic), Metals Investor Forum (investors), WMS 2027 (woodworking, Nov 2027, outside window), CSChE 2027 (Edmonton).
+
+==== Fourth run, 2026-10-09 (deeper Oct-Dec 2026 search) ====
+
+1. [HIGH] IndustrioTech Exhibition
+ Date/time: Fri Nov 6, 2026, 9:00-18:00
+ Location: ventureLAB, Markham, ON (listing also says GTA, venue TBA - verify)
+ Cost: from CAD 37.61
+ URL: https://stayhappening.com/e/industriotech-exhibition-E118SB10HNY8V
+ Why: Industrial SME owners, engineers and ops leaders meet automation, AI, robotics, IoT and software vendors - direct customers, low price.
+
+2. [HIGH] Pharma Manufacturing & Supply Chain Summit
+ Date/time: Dec 2-3, 2026 (times assumed 9:00-17:00)
+ Location: Old Mill Toronto Hotel, Toronto, ON
+ Cost: not listed (likely paid; verify)
+ URL: https://www.pharmamanufacturingsupply.com/
+ Why: Directors/VPs of manufacturing and tech ops at Bayer, Merck Canada, J&J, Sun Pharma; agenda covers automation, digital plants and Industry 4.0.
+
+3. [MEDIUM] ADM Montreal 2026 (incl. Automation Technology Expo)
+ Date/time: Nov 10-12, 2026 (hours assumed 10:00-16:00)
+ Location: Palais des congres de Montreal, QC
+ Cost: not listed
+ URL: https://www.plant.ca/events/adm-montreal/
+ Why: 250+ suppliers and plant engineers/buyers across automation, plastics, packaging, powder and bulk solids. (Earlier runs wrongly excluded it as outside Ontario; Montreal is in scope.)
+
+4. [MEDIUM] Emerging Technologies in Automation & Mobility Transformation
+ Date/time: Thu Nov 19, 2026, 7:30-18:00
+ Location: Caesars Windsor, Windsor, ON
+ Cost: not listed
+ URL: https://www.emergingtechnologies.ca/
+ Why: 400+ delegates and 50 exhibitors; manufacturers and purchasers learning AI, robotics, Industry 4.0.
+
+5. [UPDATED, MEDIUM] MICA Annual Conference & Showcase
+ Change: now verified on Eventbrite as Wed Oct 28, 2026, 8:30-16:30 at Cambrian College, Sudbury (was Oct 27-29, unverified). Calendar event corrected.
+ URL: https://www.eventbrite.ca/e/mica-annual-conference-showcase-tickets-1995463001554
+
+Already tracked: Mining & Critical Minerals Canada, Nov 16-17, DoubleTree Toronto Downtown - free exhibition, 200+ decision makers.
+Considered but excluded: CME National Manufacturing Conference (Ottawa, Nov 17-18; policy-focused), IIoT World AI Manufacturing Summit (virtual, free, Dec 8-9; low priority), Sudbury Mining Week (youth/education), pay-to-present academic conferences in Toronto/Mississauga/Hamilton (Dec), Canadian Steel Conference (Vancouver, construction), NEOMMS Timmins (Oct 6-8, passed), SIQ Quebec and IPA GMP Montreal (Oct 6-8, passed). No Buffalo events found in Oct-Dec.
