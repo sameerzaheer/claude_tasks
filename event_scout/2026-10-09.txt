@@ -113,3 +113,29 @@ Considered but excluded: IMROBOTECH2027 Toronto (academic), Metals Investor Foru
 
 Already tracked: Mining & Critical Minerals Canada, Nov 16-17, DoubleTree Toronto Downtown - free exhibition, 200+ decision makers.
 Considered but excluded: CME National Manufacturing Conference (Ottawa, Nov 17-18; policy-focused), IIoT World AI Manufacturing Summit (virtual, free, Dec 8-9; low priority), Sudbury Mining Week (youth/education), pay-to-present academic conferences in Toronto/Mississauga/Hamilton (Dec), Canadian Steel Conference (Vancouver, construction), NEOMMS Timmins (Oct 6-8, passed), SIQ Quebec and IPA GMP Montreal (Oct 6-8, passed). No Buffalo events found in Oct-Dec.
+
+==== Fifth run, 2026-10-09 (gap search: Jan-Sep 2027, CME, Buffalo, Montreal, pharma, steel) ====
+
+1. [HIGH] Proax Canadian Industry & Automation Summit - Thu Oct 29, 2026, 10:00-16:00, Proax, 6700 Millcreek Dr, Mississauga. FREE (registration required). https://go.proax.ca/canadian-industry-automation-summit-2026
+ Why: 500+ manufacturers, live ABB/Omron/Phoenix Contact automation demos - direct GTA customer audience.
+2. [HIGH] Innovate Toronto x AVEVA Day (Cimsoft) - Tue Oct 20, 2026, from 8:00 (end assumed 16:00), The International Centre, 6900 Airport Rd, Mississauga. Cost not listed. https://cimsoft.com/webinar/innovate-aveva-day-toronto-2026/
+ Why: industrial AI / real-time data for process manufacturers - fit for sensors, monitoring, industrial AI.
+3. [HIGH] CIM CONNECT 2027 - May 2-5, 2027, Palais des congres, Montreal. Cost TBD (registration opens fall 2026). https://cimconnect.ca/
+ Why: Canada's largest mining convention, 500+ exhibitors; co-located APCOM (process control). (Wrongly excluded earlier as out of province; Montreal is in scope.)
+4. [MEDIUM] CME Manufacturing Outlook Roadshow - Kitchener Oct 27, 2026 16:00-19:00 (DoubleTree, 30 Fairway Rd S) and Brampton Oct 28, 08:30-11:30 (Lionhead, 8525 Mississauga Rd). $100 member / $200 non-member. Also King Oct 29. https://cme-mec.ca/connection/ontario-manufacturing-outlook-roadshow-october-2026/
+ Why: Ontario manufacturing owners/execs in priority regions; economic outlook plus automation/AI panel.
+5. [MEDIUM] Green Chemistry for Industry Workshop (NYSP2I) - Tue Oct 20, 2026, 9:00-16:00, Univ. at Buffalo, 701 Ellicott St. Free. https://www.rit.edu/affiliate/nysp2i/greenchem-for-industry
+ Why: Western NY chemical manufacturers; waste reduction/process resilience. Clashes with Cimsoft same day.
+6. [MEDIUM] DiscoveryX 2027 - Apr 21-22, 2027, Enercare Centre, Toronto. Paid passes (price not confirmed). https://www.discoveryxconference.ca/
+ Why: Ontario's flagship innovation expo; corporate/industry buyers of AI, robotics, sensing - but many startups/investors.
+7. [MEDIUM] McMaster Cokemaking Course - May 16-21, 2027, McMaster Univ., Hamilton. Cost not yet posted. https://www.eng.mcmaster.ca/mcmaster-steel-research-centre/cokemaking-course/
+ Why: steel plant operators; tours of ArcelorMittal Dofasco and Stelco - niche access to Hamilton steel.
+8. [LOW] AI Day with Toyota - Wed Dec 2, 2026, 8:00-17:00, Toyota Cambridge plant. Paid training ticket (see Eventbrite). https://www.eventbrite.ca/e/ai-day-with-toyota-tickets-1999395970169
+ Why: lean + AI/automation day with manufacturing ops staff in KW; overlaps Pharma Summit.
+9. [LOW] COM 2027 - Aug 23-26, 2027, Hotel Bonaventure, Montreal. Cost not listed. https://metsoc.org/events-posts/the-66th-conference-of-metallurgy-and-materials-com-2027/
+ Why: metals/mineral processing; audience partly academic.
+10. [LOW] Symposium Mines et Environnement 2027 - Jun 13-16, 2027, Rouyn-Noranda QC. Cost not listed. https://mines-et-environnement.cim.org/
+ Why: mining operators + environmental consultants; remote, French.
+
+Considered but excluded: Automate 2027 (Las Vegas, May 10-13; far/large cost), Manufacturing LIVE NYC (Apr 20-21; not Buffalo), CNA2027 (Ottawa nuclear; dates unposted), Reseau RMI Quebec City (Apr 13-15; Quebec City, French), MIIT 2027 Hamilton (medical imaging), ICSMAML/ICMTM/ICCBE/ICPharmapack-style pay-to-present conferences, Pharma Smart Manufacturing Summit (online paid, Jun 3-4), RemTech Banff (Oct 14-16; Alberta), ISA Ontario (arborists), Advanced Manufacturing Expo (Grand Rapids MI), ADM Toronto (Nov 9-11, 2027; outside window), MPower Buffalo (Oct 8; passed). Buffalo/Plant WNY and Rochester A&WMA Apr 2027 had no confirmed dates. 
+Source note: all four source pages loaded in an earlier run today; this run used Exa searches (~14 more).

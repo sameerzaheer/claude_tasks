@@ -11,3 +11,14 @@
 2026-11-10 | ADM Montreal 2026 | Montreal | https://www.plant.ca/events/adm-montreal/ | 2026-10-09
 2026-11-19 | Emerging Technologies in Automation & Mobility Transformation | Windsor | https://www.emergingtechnologies.ca/ | 2026-10-09
 2026-12-02 | Pharma Manufacturing & Supply Chain Summit | Toronto | https://www.pharmamanufacturingsupply.com/ | 2026-10-09
+2026-10-29 | Proax Canadian Industry & Automation Summit | Mississauga | https://go.proax.ca/canadian-industry-automation-summit-2026 | 2026-10-09
+2026-10-20 | Innovate Toronto x AVEVA Day (Cimsoft) | Mississauga | https://cimsoft.com/webinar/innovate-aveva-day-toronto-2026/ | 2026-10-09
+2026-10-27 | CME Manufacturing Outlook Roadshow - Kitchener | Kitchener | https://cme-mec.ca/connection/ontario-manufacturing-outlook-roadshow-october-2026/ | 2026-10-09
+2026-10-28 | CME Manufacturing Outlook Roadshow - Brampton | Brampton | https://cme-mec.ca/connection/ontario-manufacturing-outlook-roadshow-october-2026/ | 2026-10-09
+2026-10-20 | Green Chemistry for Industry Workshop (NYSP2I) | Buffalo | https://www.rit.edu/affiliate/nysp2i/greenchem-for-industry | 2026-10-09
+2027-05-02 | CIM CONNECT 2027 Conference & Expo | Montreal | https://cimconnect.ca/ | 2026-10-09
+2027-04-21 | DiscoveryX 2027 | Toronto | https://www.discoveryxconference.ca/ | 2026-10-09
+2027-05-16 | McMaster Cokemaking Course 2027 | Hamilton | https://www.eng.mcmaster.ca/mcmaster-steel-research-centre/cokemaking-course/ | 2026-10-09
+2026-12-02 | AI Day with Toyota (Cambridge plant) | Cambridge | https://www.eventbrite.ca/e/ai-day-with-toyota-tickets-1999395970169 | 2026-10-09
+2027-08-23 | COM 2027 Conference of Metallurgy and Materials | Montreal | https://metsoc.org/events-posts/the-66th-conference-of-metallurgy-and-materials-com-2027/ | 2026-10-09
+2027-06-13 | Symposium Mines et Environnement 2027 | Rouyn-Noranda | https://mines-et-environnement.cim.org/ | 2026-10-09
