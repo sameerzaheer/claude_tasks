@@ -58,3 +58,21 @@ Considered but excluded: ADM Expo Montreal (Nov 11-12, 2026; outside Ontario), A
  Why: digital machining, smart sensors and digital-twin monitoring; Kitchener-Waterloo priority area but mostly academic/R&D audience.
 
 Considered but excluded: BDC Small Business Week webinars (Oct 20-22, generic), IDEA Mississauga events (startup funding/exit), NGen listings (all past or overseas missions), CIM CONNECT Montreal (May 2-5, 2027; outside Ontario), MPower Buffalo (Oct 8, 2026; already passed), FABTECH Canada (next 2028 per organizer), ADM Toronto Nov 2027 (outside window). No Hamilton, Niagara, Buffalo, pharma, chemical or steel events found in window.
+
+==== Third run, 2026-10-09 ====
+
+1. [HIGH] PetroChem Canada 2027
+ Date/time: Jun 16-17, 2027 (times assumed 9:00-17:00)
+ Location: Sarnia, ON (Chemical Valley)
+ Cost: not listed
+ URL: https://www.eventworxcorporation.com/our-events/petrochem-canada/
+ Why: Plant managers and engineers from chemical, fertilizer, refining and industrial manufacturing; themes include AI/automation, predictive maintenance and connected operations.
+
+2. [LOW] PowderMet2027/AMPM2027
+ Date/time: Jun 20-23, 2027 (times assumed 9:00-17:00)
+ Location: Buffalo, NY
+ Cost: not listed
+ URL: https://www.mpif.org/EventsCourses/PowderMet2027/HomePage.aspx
+ Why: Largest North American powder metallurgy / metal AM exhibit, close to Toronto; metals producers for process monitoring and automation, but audience is partly academic/suppliers.
+
+Considered but excluded: IMROBOTECH2027 Toronto (academic), Metals Investor Forum (investors), WMS 2027 (woodworking, Nov 2027, outside window), CSChE 2027 (Edmonton).
