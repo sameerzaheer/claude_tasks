@@ -1,0 +1,26 @@
+EVENT SCOUT - 2026-10-13 (5 new events)
+Per month (new): Oct 1 | Nov 3 | Dec 1 | Jan-Sep 2027 0 new (gaps: no new GTA/Hamilton/KW/Niagara/Buffalo events found for Jan-Jun 2027 beyond those already seen)
+
+HIGH
+1. CIM Capital Projects Symposium (CPS) 2026
+   Nov 8-10, 2026 (times not listed; assumed 9-5) | Chelsea Hotel, Toronto | Cost: not published
+   https://capitalprojects.cim.org/
+   Why: ~250 mining capital-project leaders (Agnico Eagle, Vale, Cameco) who buy automation, monitoring and integration services.
+2. Hazardous Waste & Environmental Response Conference (HWERC) - UNVERIFIED
+   Nov 25-26, 2026 | Mississauga Convention Centre | Cost: past editions ~$490-$590
+   https://www.owma.org  (date from search listing; official page unreachable)
+   Why: hazmat/remediation/spill-response buyers - fit for monitoring sensors and robotics in hazardous settings.
+
+MEDIUM
+3. Canadian Fertilizer Products Forum 2026
+   Oct 21-22, 2026 | Ottawa Art Gallery, Ottawa | Cost: not listed
+   https://fertilizercanada.ca/news-events/events/canadian-fertilizer-products-forum-7
+   Why: fertilizer producers/blenders - monitoring, automation and compliance-data prospects.
+4. MRMR 2026
+   Nov 3-6, 2026 | Montreal, QC | Cost: paid (early bird ended Sep 22)
+   https://mrmr2026.cim.org/
+   Why: mining resource/reserve leaders; ML/AI sessions fit AI-software offering.
+5. CME Ontario 27th Annual Queen's Park Reception
+   Dec 1, 2026, 5-7 pm | Queen's Park, Toronto | $125 member / $175 Ontario Made / $225 non-member / $500 supporting partner
+   https://cme-mec.ca/connection/cme-ontario-27th-annual-queens-park-reception/
+   Why: Ontario manufacturers and government decision-makers; service providers attend as supporting partners.
