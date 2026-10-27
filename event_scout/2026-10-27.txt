@@ -1,0 +1,32 @@
+Event Scout - 2026-10-27 (4 new events)
+
+HIGH
+1. 59th Canadian Mineral Processors Conference (CMP 2027)
+   Date: Jan 19-21, 2027 (short courses Jan 18); times assumed 9-5
+   Location: The Westin Ottawa, Ottawa, ON
+   Cost: $1,000 CIM members / $1,215 non-members (early rate to Dec 18, 2026)
+   URL: https://www.cim.org/cmp/cmp-conference/
+   Why: Mill operators/metallurgists (comminution, flotation, process control, mill optimization) are direct buyers of process sensors, control/AI software and integration.
+
+MEDIUM
+2. Quebec Mines + Energie 2026
+   Date: Nov 16-19, 2026; times assumed 9-5
+   Location: Centre des congres de Quebec, Quebec City, QC
+   Cost: see fees page (not retrieved)
+   URL: https://mrnf.gouv.qc.ca/en/quebec-mines
+   Why: Quebec's flagship mining/energy conference + exhibition with mine operators and suppliers; within 90 days.
+3. APCOM 2027 (Mining AI & Operations Research)
+   Date: May 2-5, 2027; times assumed 9-5
+   Location: Palais des congres de Montreal, QC (co-located with CIM CONNECT 2027)
+   Cost: not published
+   URL: https://apcom2027.cim.org/about-apcom/
+   Why: AI/analytics/optimization audience in mining - fit for AI software and data offerings; add-on to CIM CONNECT.
+
+LOW
+4. OSSGA 2027 Conference & AGM
+   Date: Feb 16-18, 2027; times assumed 9-5
+   Location: Omni King Edward Hotel, Toronto, ON
+   Cost: not published
+   URL: https://www.ossga.com
+   Why: Ontario aggregate/quarry operators (mining-adjacent) for plant monitoring, automation and AI; weaker fit.
+   (Related, not added: OSSGA Operations, Health & Safety Seminar, Jan 20-21, 2027, Marriott Toronto Airport.)

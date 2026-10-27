@@ -37,3 +37,7 @@
 2026-12-01 | CME Ontario 27th Annual Queen's Park Reception | Toronto | https://cme-mec.ca/connection/cme-ontario-27th-annual-queens-park-reception/ | 2026-10-13
 2026-11-02 | Xplor 2026 Quebec Mining Exploration Convention | Montreal | https://xplor.aemq.org/en/ | 2026-10-20
 2026-11-24 | Ontario Critical Minerals Forum 2026 | Toronto | https://toronto.energyandmines.com | 2026-10-20
+2026-11-16 | Quebec Mines + Énergie 2026 | Quebec City | https://mrnf.gouv.qc.ca/en/quebec-mines | 2026-10-27
+2027-01-19 | 59th Canadian Mineral Processors Conference (CMP 2027) | Ottawa | https://www.cim.org/cmp/cmp-conference/ | 2026-10-27
+2027-02-16 | OSSGA 2027 Conference & AGM | Toronto | https://www.ossga.com | 2026-10-27
+2027-05-02 | APCOM 2027 (Mining AI & Operations Research) | Montreal | https://apcom2027.cim.org/about-apcom/ | 2026-10-27
