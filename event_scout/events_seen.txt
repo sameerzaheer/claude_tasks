@@ -41,3 +41,9 @@
 2027-01-19 | 59th Canadian Mineral Processors Conference (CMP 2027) | Ottawa | https://www.cim.org/cmp/cmp-conference/ | 2026-10-27
 2027-02-16 | OSSGA 2027 Conference & AGM | Toronto | https://www.ossga.com | 2026-10-27
 2027-05-02 | APCOM 2027 (Mining AI & Operations Research) | Montreal | https://apcom2027.cim.org/about-apcom/ | 2026-10-27
+2027-02-08 | 2027 AMPP Canada Conference | Niagara Falls | https://www.amppsoc.org/events/conferences/2027/ | 2026-11-03
+2027-05-26 | Canadian Brownfields Network 2027 Conference | Burlington | https://canadianbrownfieldsnetwork.ca/events/cbn-national-conference-2027/call-for-abstracts-2027 | 2026-11-03
+2027-05-08 | IndustrioTech Exhibition (new date) | Markham | https://www.eventbrite.ca/e/industriotech-exhibition-tickets-1991943944961 | 2026-11-03
+2026-12-15 | From Factory Floor to Defense Supply Chain (Sabre) | Mississauga | https://www.eventbrite.ca/e/from-factory-floor-to-defense-supply-chain-ai-cad-cybersecurity-more-tickets-2003626631190 | 2026-11-03
+2027-02-25 | W2RO Year Ahead AGM & Conference 2027 | Etobicoke | https://www.w2ro.org/events/w2ro-year-ahead-agm-conference-2027 | 2026-11-03
+2027-02-18 | A&WMA Niagara Frontier Annual Enrichment Seminar 2027 | Buffalo area | https://awmanfs.wildapricot.org/ | 2026-11-03

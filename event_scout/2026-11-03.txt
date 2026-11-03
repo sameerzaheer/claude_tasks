@@ -1,0 +1,41 @@
+EVENT SCOUT - 2026-11-03
+
+MEDIUM
+1. 2027 AMPP Canada Conference
+   Date: Feb 8-10, 2027 (times assumed 9-5)
+   Location: Niagara Falls Convention Centre, Niagara Falls, ON
+   Cost: CAD + tax, price not published (early bird ends Dec 31, 2026)
+   URL: https://www.amppsoc.org/events/conferences/2027/
+   Why: 60-booth exhibit of corrosion/inspection/asset-protection engineers (Ontario nuclear focus) - buyers of monitoring sensors and inspection automation.
+2. Canadian Brownfields Network 2027 Conference
+   Date: May 26, 2027 (times assumed 9-5)
+   Location: Burlington Convention Centre, 1120 Burloak Dr, Burlington, ON
+   Cost: not yet published
+   URL: https://canadianbrownfieldsnetwork.ca/events/cbn-national-conference-2027/call-for-abstracts-2027
+   Why: Contaminated-site owners and remediation/hazardous-waste practitioners - buyers of monitoring sensors, automation and data/AI.
+3. IndustrioTech Exhibition - CHANGED: now Sat May 8, 2027 (previously logged as Nov 6, 2026)
+   Date: May 8, 2027, 9-5 (page body says 9-6)
+   Location: Xinflix Auditorium, 421 Bentley St Unit 9, Markham, ON
+   Cost: see Eventbrite
+   URL: https://www.eventbrite.ca/e/industriotech-exhibition-tickets-1991943944961
+   Why: Expo aimed at industrial SMEs buying automation, AI, robotics and sensors.
+
+LOW
+4. From Factory Floor to Defense Supply Chain (Sabre Limited)
+   Date: Dec 15, 2026, 10:00-16:00
+   Location: Sandman Signature Mississauga Hotel, 5400 Dixie Rd, Mississauga
+   Cost: see Eventbrite
+   URL: https://www.eventbrite.ca/e/from-factory-floor-to-defense-supply-chain-ai-cad-cybersecurity-more-tickets-2003626631190
+   Why: Ontario manufacturers focused on production visibility/connected data; vendor-hosted (ERP) so weaker.
+5. W2RO Year Ahead - AGM & Conference 2027
+   Date: Feb 25, 2027, 8:30-18:30
+   Location: Toronto Airport Marriott, 901 Dixon Rd, Etobicoke
+   Cost: not shown
+   URL: https://www.w2ro.org/events/w2ro-year-ahead-agm-conference-2027
+   Why: Ontario waste/recycling/hazardous-materials operators; possible fit for sorting automation and monitoring.
+6. A&WMA Niagara Frontier Annual Enrichment Seminar 2027
+   Date: Feb 18, 2027 (time assumed 9-5, UNVERIFIED time/address)
+   Location: Grapevine Banquets and Event Center, Western NY
+   Cost: not published
+   URL: https://awmanfs.wildapricot.org/
+   Why: Buffalo-area industrial environmental/air professionals; emissions monitoring sensor fit.
