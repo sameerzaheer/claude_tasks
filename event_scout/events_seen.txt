@@ -47,3 +47,10 @@
 2026-12-15 | From Factory Floor to Defense Supply Chain (Sabre) | Mississauga | https://www.eventbrite.ca/e/from-factory-floor-to-defense-supply-chain-ai-cad-cybersecurity-more-tickets-2003626631190 | 2026-11-03
 2027-02-25 | W2RO Year Ahead AGM & Conference 2027 | Etobicoke | https://www.w2ro.org/events/w2ro-year-ahead-agm-conference-2027 | 2026-11-03
 2027-02-18 | A&WMA Niagara Frontier Annual Enrichment Seminar 2027 | Buffalo area | https://awmanfs.wildapricot.org/ | 2026-11-03
+2026-11-12 | CMP-OMQ Annual Event (Canadian Mineral Processors Montreal) | Montreal | https://www.eventbrite.ca/e/billets-cmp-omq-montreal-2026-11-12-1986917709355 | 2026-11-10
+2026-11-17 | Reliability 5.0 Technology Showcase (Laurentide) | Montreal | https://www.laurentide.com/en-ca/training-and-education/course-listing/special-events/reliability-5-0-event/ | 2026-11-10
+2026-12-14 | Waterloo RoboHub Fall Symposium 2026 | Waterloo | https://uwaterloo.ca/robohub/events/waterloo-robohub-fall-symposium-2026 | 2026-11-10
+2027-05-04 | Canadian CBRNE & Robotics Summit 2027 (OHMRA) | Oakville | https://www.ohmra.ca/summit | 2026-11-10
+2027-11-09 | ADM Toronto 2027 | Toronto | https://www.admtoronto.com/ | 2026-11-10
+2027-10-03 | MEMO 2027 (Mine Maintenance, Engineering & Reliability) | Quebec City | https://memo.cim.org/ | 2026-11-10
+2027-06-22 | Canadian Waste to Resource Conference 2027 (UNVERIFIED) | Niagara Falls | https://www.cw2rc.ca/ | 2026-11-10

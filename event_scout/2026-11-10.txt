@@ -1,0 +1,86 @@
+EVENT SCOUT - week of 2026-11-10
+New events: 7 (6 added to calendar; 1 UNVERIFIED, not on calendar)
+New events per month: Nov-2026: 2 | Dec-2026: 1 | Jan-Apr 2027: 0 | May-2027: 1 | Jun-2027: 1 (UNVERIFIED) | Jul-Sep 2027: 0 | Oct-2027: 1 | Nov-2027: 1
+(Within the next 90 days: 3 new. Jan-Apr 2027 gap = everything found there is already in events_seen.txt.)
+
+== HIGH ==
+1. CMP-OMQ Annual Event (Canadian Mineral Processors - Montreal)
+   When: Thu 2026-11-12, 8:00 AM - 11:30 PM
+   Where: Theatre St-James, 265 Rue Saint-Jacques, Montreal, QC
+   Cost: see Eventbrite (not shown)
+   URL: https://www.eventbrite.ca/e/billets-cmp-omq-montreal-2026-11-12-1986917709355
+   Priority: High (2 days away - act now)
+   Why: Mill operators and metallurgists from Quebec mines - buyers of process-monitoring sensors, control/AI software and integration.
+
+2. Reliability 5.0 Technology Showcase (Laurentide) - Montreal
+   When: Tue 2026-11-17, 8:00 AM - 6:15 PM (French-language session)
+   Where: Montreal, QC (exact venue not published; Laurentide Controls HQ is Kirkland, QC)
+   Cost: $250
+   URL: https://www.laurentide.com/en-ca/training-and-education/course-listing/special-events/reliability-5-0-event/
+   Priority: High
+   Why: Plant managers, maintenance/reliability and automation engineers - direct buyers of predictive-maintenance sensors, monitoring and AI. (Vendor-hosted by a distributor; check for conflict.)
+
+== MEDIUM ==
+3. Waterloo RoboHub Fall Symposium 2026
+   When: Mon 2026-12-14, 8:00 AM - 5:00 PM
+   Where: Pearl Sullivan Engineering, University of Waterloo, 200 University Ave W, Waterloo, ON
+   Cost: Free for RoboHub partners/members; otherwise contact form (seats limited)
+   URL: https://uwaterloo.ca/robohub/events/waterloo-robohub-fall-symposium-2026
+   Priority: Medium
+   Why: Physical-AI/human-centred robotics talks with exhibitor booths (robots, sensors) where industry partners look for suppliers and customers.
+
+4. Canadian CBRNE & Robotics Summit 2027 (OHMRA)
+   When: 2027-05-04 to 2027-05-05 (times assumed 9-5)
+   Where: Oakville Conference & Banquet Centre, 2515 Wyecroft Rd, Oakville, ON
+   Cost: attendee price not yet published; exhibitor booths/sponsors $2,500-$5,000+
+   URL: https://www.ohmra.ca/summit
+   Priority: Medium
+   Why: Hazmat/CBRNE responders, spill-response contractors and industry in-house response teams buying robots, drones and detection tools; prior editions sold out (~250 attendees).
+
+5. ADM Toronto 2027 (Advanced Design & Manufacturing)
+   When: 2027-11-09 to 2027-11-11 (expo 10-4, Thu 10-3)
+   Where: Toronto Congress Centre, Toronto, ON
+   Cost: not yet published (expo registration usually free)
+   URL: https://www.admtoronto.com/
+   Priority: Medium (far out; watch for early registration)
+   Why: ~7,300 plant engineers and buyers; automation, robotics, AI/ML, processing exhibitors.
+
+== LOW ==
+6. MEMO 2027 - Maintenance, Engineering & Reliability / Mine Operators Conference
+   When: 2027-10-03 to 2027-10-05 (times assumed 9-5)
+   Where: Quebec City, QC (venue TBA)
+   Cost: not yet published
+   URL: https://memo.cim.org/
+   Priority: Low (outside core region, far out) but strong audience fit
+   Why: Mine maintenance/reliability managers - buyers of condition-monitoring sensors, predictive-maintenance AI and robotics.
+
+7. Canadian Waste to Resource Conference (CWRC) 2027  [UNVERIFIED - date from municipalwaste.ca listing; official site shows no 2027 date yet; not added to calendar]
+   When: 2027-06-22 to 2027-06-23
+   Where: Fallsview Casino Resort, 6380 Fallsview Blvd, Niagara Falls, ON
+   Cost: not published
+   URL: https://www.cw2rc.ca/
+   Priority: Low
+   Why: Waste, hazardous-waste recycling and resource-recovery operators - potential buyers of sorting automation, monitoring and AI.
+
+SOURCES THAT FAILED / LIMITED:
+- investmississauga.ca/events-and-webinars/: loaded but lists no events (only category links); /events/ not separately listed.
+- bdc.ca Small Business Week: loaded; only 3 on-demand webinars, no dated in-person events (banner date inconsistent: Oct 18-24, 2027?).
+- ideamississauga.ca: loaded; 3 entrepreneur-program events only, none relevant.
+- ngen.ca/news-events: loaded; events are trade missions (2026) and a Jan 4 2027 Japan/Korea roadshow - none relevant.
+- ISA Toronto annual EXPO (Nov, Sandman Mississauga): date for 2026 not found on any page.
+- Eventbrite generic listings: no direct crawl; found only through search.
+
+CONSIDERED BUT EXCLUDED:
+- ADM Montreal (Nov 10-12, 2026): already in events_seen.
+- ROAR Defence (Nov 19-20, Ottawa): defence/government audience only.
+- IMROBOTECH2027 (Mar 29-31, Toronto), WASET conferences (Toronto/Montreal 2027), WCPMPMP (Feb 17, Toronto): academic/pay-to-present, no buyers.
+- Metals Investor Forum Toronto (Mar 5-6, 2027): investor audience.
+- OSCIA Annual Meeting (Feb 2-3, Elora): farmers, not manufacturers/producers.
+- NYS Innovation Summit 2027 (Oct 26-27): Verona NY, not Buffalo; 2026 edition already past.
+- CME Smart Manufacturing Conference (Mar 4-5, 2027): New Westminster BC.
+- AEC 2027 (Apr 28-29): Edmonton, AB.
+- ISCT 2027 (May 12-15, Toronto), Canadian Gene & Cell Therapy Conf (Jan 25-26, Montreal): clinical/science audience.
+- Hamilton Future of Transportation & Mobility Series (Nov 18): startup-focused.
+- FuzeHub AI/Cyber workshop (Nov 10, Rochester): today, Rochester not Buffalo.
+- AWMI Toronto Holiday Gala (Dec 3, Hamilton): social event.
+- Municipal Waste Association Spring Workshop (May 18-20, Huntsville): municipal audience.
