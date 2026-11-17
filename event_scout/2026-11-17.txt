@@ -1,0 +1,104 @@
+EVENT SCOUT - week of 2026-11-17
+New events: 6 (5 added to calendar; 1 UNVERIFIED, not on calendar)
+Updates to events already listed: 2 (both added to calendar this week)
+New events per month: Nov-2026: 1 | Dec-2026: 2 | Jan-2027: 1 | Feb-Apr 2027: 0 | May-2027: 1 (UNVERIFIED) | Jun-2027: 1 | Jul-Nov 2027: 0
+Updates per month: Jan-2027: 1 (SMART Remediation Toronto) | Jun-2027: 1 (CWRC)
+(Next 90 days: 4 new + 1 update. Feb-Apr 2027 gap: everything found for those months is already in events_seen.txt.)
+
+== HIGH ==
+1. Niagara Manufacturing Pub Night with WAMIC (Niagara College)
+   When: Wed 2026-11-18, 5:00 PM - 7:00 PM (TOMORROW)
+   Where: Sala Sixty One (61) Bar + Social, 125 Vansickle Rd (2nd floor, no elevator), St. Catharines, ON
+   Cost: Free (register)
+   URL: https://www.eventbrite.ca/e/niagara-manufacturing-pub-night-with-wamic-tickets-2004135670741
+   Priority: High
+   Why: Small, informal room of Niagara manufacturers who are discussing automation and funding; a good chance to meet plant owners who need automation, sensors and integration.
+
+2. Guelph Chamber 2026 Manufacturing Summit ("Manufacturing at a Crossroads")
+   When: Thu 2026-12-03, 11:00 AM - 2:00 PM
+   Where: Frank Hasenfratz Centre for Excellence in Manufacturing, 700 Woodlawn Rd W, Guelph, ON
+   Cost: $80 + HST Chamber members / $120 non-members (lunch included); exhibitor booths available
+   URL: https://www.guelphchamber.com (2026-27 events list: https://www.guelphchamber.com/media/klyhapyl/2026_27_eventyearonepager.pdf)
+   Priority: High
+   Why: Corridor manufacturers (Linamar's home venue) meet on productivity, technology and investment, with a keynote from the CME CEO; the audience is plant owners and operations leaders who buy automation, sensors and AI.
+
+== MEDIUM ==
+3. The Defence Economy: How to Break In and Capture your Share (Toronto Region Board of Trade)
+   When: Tue 2026-12-01, 9:30 AM - 5:30 PM (SME clinics 9:30-12:00; main program 12:00-5:30)
+   Where: The Quay, 100 Queens Quay East, 3rd Floor, Toronto, ON
+   Cost: SME $99 (full day) / members $349 / non-members $499
+   URL: https://bot.com/Events/The-Defence-Economy-How-to-Break-In-and-Capture-your-Share
+   Priority: Medium
+   Why: Industrial and advanced-manufacturing executives scaling up for defence work (robotics and AI are on the agenda); this pairs with the CME Queen's Park reception the same evening (5-7 PM).
+
+4. 39th Canadian Mining Hall of Fame Dinner & Induction Ceremony
+   When: Thu 2027-01-14, reception 5:30 PM, dinner 7:00 PM, after-party until midnight
+   Where: Metro Toronto Convention Centre, Constitution Hall (North Bldg), 255 Front St W, Toronto, ON
+   Cost: $500 single / $5,000 table of 10 (sales close Dec 21, 2026)
+   URL: https://mininghalloffame.ca/annual-ceremony/
+   Priority: Medium (expensive, but executive-level access)
+   Why: Senior mining executives and mine operators gather for an evening; it is useful for relationships with buyers of automation, monitoring and AI.
+
+== LOW ==
+5. Quebec Mining Association (QMA/AMQ) Annual Convention 2027
+   When: 2027-06-02 to 2027-06-03 (times assumed 9-5)
+   Where: Hilton Québec, Québec City, QC
+   Cost: not yet published
+   URL: https://amq-inc.com/en/amq-annual-convention/
+   Priority: Low (Quebec City is outside the core region, but the audience fits well)
+   Why: Quebec's producing mine operators meet here, alongside THE Mining Investment Event; they buy monitoring, automation and AI.
+
+6. AISTech 2027 (Association for Iron & Steel Technology)  [UNVERIFIED: dates from steelonthenet.com aggregator; aist.org confirms Nashville 2027 but not the dates; not added to calendar]
+   When: 2027-05-03 to 2027-05-05
+   Where: Music City Center, Nashville, TN
+   Cost: not published (registration opens Dec 7, 2026)
+   URL: https://www.aist.org/conferences-expositions/aistech/home
+   Priority: Low (rest of USA; included because it is North America's main steel-producer event)
+   Why: Steelmakers' operations, maintenance and automation engineers attend; they are core buyers of sensors, condition monitoring, robotics and AI for mills.
+
+== UPDATES TO PREVIOUSLY LISTED EVENTS ==
+U1. SMART Remediation Seminar Series - Toronto 2027 (previously listed 2026-10-09)
+   When: Thu 2027-01-28, ~7:30 AM - 3:30 PM
+   Where: Mississauga Convention Centre, 75 Derry Rd W, Mississauga, ON
+   Cost: see Eventbrite
+   URL: https://www.eventbrite.ca/e/smart-remediation-seminar-series-toronto-2027-tickets-1996006220336
+   What changed: Full agenda released (https://smartremediation.com/wp-content/uploads/2026/11/Toronto-Agenda-SMART-2027.pdf). It includes PSPC's FCSAP Phase V demand forecast for 2026-2031 (federal contaminated-sites spending), Geosyntec's "Decision Intelligence: Digital Tools for Smarter Remediation", and talks by Parsons, VEI and Wajax. Added to the calendar.
+   Priority: Medium
+
+U2. Canadian Waste to Resource Conference (CWRC) 2027 (previously listed 2026-11-10 as UNVERIFIED)
+   When: 2027-06-22 8:00 AM - 5:00 PM and 2027-06-23 8:00 AM - 2:00 PM
+   Where: Fallsview Casino Resort, 6380 Fallsview Blvd, Niagara Falls, ON
+   Cost: not published
+   URL: https://www.w2ro.org/events/cwrc-2027
+   What changed: The date is now confirmed on the official W2RO page, so it was added to the calendar. The 2027 call for papers covers hazardous waste and PFAS.
+   Priority: Low
+
+SOURCES THAT FAILED / LIMITED:
+- investmississauga.ca/events-and-webinars/: loaded, but the page lists only category links. /events/ showed one event (Defence Ready Mississauga, Nov 17, today; excluded).
+- ideamississauga.ca: loaded; only one upcoming event (EmpowHER Showcase, Dec 3), which isn't relevant.
+- bdc.ca Small Business Week: loaded; no dated events (next edition Oct 18-24, 2027; individual listings not yet posted).
+- ngen.ca/news-events: loaded; only trade missions (Barcelona Nov 2026, Japan/Korea Jan 2027). None relevant.
+- cme-mec.ca/events, oma.on.ca/en/events, owma.org (HWERC): Exa fetch failed (not found); site: searches found no 2027 CME/OMA events.
+- isatoronto.org: SSL error on fetch; searches found no ISA Toronto section dates.
+- Eventbrite: no direct crawl; reached only through searches and organizer pages.
+
+CONSIDERED BUT EXCLUDED:
+- Defence Ready Mississauga (Nov 17, 2026, Mississauga): today, already under way; audience is SMEs entering defence supply chains.
+- PEO Brampton webinar "Smart Manufacturing & Future of Advanced Production Tech" (Nov 25, online): academic research talk to engineers; not enough buyer density for a virtual event.
+- AWMI Toronto Holiday Gala (Dec 3, Hamilton): social gala, mostly metals distribution/sales people.
+- BNMA Holiday Party (Dec 3, Buffalo): BNMA members only.
+- Waterloo EDC Public Information Meeting (Dec 3): economic development report, not a buyer audience.
+- MBOT events (Dec 2-9; Economic Outlook Jan 20): general business networking.
+- Inaugural Canadian Gene & Cell Therapy Conference (Jan 25-26, Montreal), ISCT cell-manufacturing training (May 15, Toronto): research/clinical lab audience.
+- IISE Congress at ETS (Jan 29-31, Montreal): students.
+- OBIO Investment Summit (Feb 2-4, Toronto): investors and startups.
+- Impulsion 2027 (Feb 8-9, Montreal): fleet electrification, not target industries.
+- LSPC Winter Meeting (Feb 17/18, Montreal), BIOHorizon 2027 (Oct 13-14, Laval): LinkedIn-only dates; licensing/investor audience.
+- CIM Quebec Symposium (Mar 17) and RMI "Etat du fer / Or et metaux strategiques" (Apr 13-15): Quebec City, exploration/investor focus, few details.
+- OARA Convention (Apr 1-3, Niagara Falls) and CDI Door conference (Jun 2-4, Niagara Falls): auto recyclers / garage-door trade, off-target.
+- ADM Montreal "May 2-5, 2027" (tradefairdates.com): conflicts with the official site (next edition Nov 8-9, 2028); aggregator only.
+- IUPAC | CSC 2027 (Jul 9-16, Montreal): academic chemistry congress.
+- WASET/IRES/APSTE/ipharma conferences (Montreal/Hamilton/Toronto 2027): pay-to-present academic events.
+- ISA Automation Summit 2027 (Nashville), FMA Annual Meeting (Mar 2-4), American Biomanufacturing Summit (Oakland): outside region and not a strong enough fit.
+- NYSP2I green chemistry 2027 sessions (Albany/Long Island/virtual), FuzeHub AI & Cyber workshop (Mar 31, Hudson Valley): outside Buffalo.
+- Already in events_seen (no meaningful change): CME Queen's Park Reception, Pharma Manufacturing & Supply Chain Summit, Sabre Factory Floor (Dec 15), RoboHub Symposium, CMP 2027, AMPP Canada, PDAC 2027, PFAS Treatment Canada, CIM CONNECT/APCOM (May 2-5), Canadian Mining Expo, PetroChem Canada, PowderMet2027, COM 2027, MEMO 2027, CMTS 2027, ADM Toronto 2027, NYS Innovation Summit 2027 (Verona NY).
