@@ -1,0 +1,113 @@
+EVENT SCOUT - week of 2026-11-24
+New events: 9 (8 added to calendar; 1 UNVERIFIED, not on calendar)
+New events per month: Nov-2026: 0 | Dec-2026: 3 | Jan-2027: 1 | Feb-2027: 1 (UNVERIFIED) | Mar-2027: 1 | Apr-2027: 1 | May-2027: 0 | Jun-2027: 1 | Jul-2027: 0 | Aug-2027: 1 | Sep-Nov 2027: 0
+(Next 90 days: 4 new events + 1 UNVERIFIED. May and Jul 2027: the main events for those months are already in events_seen.txt.)
+
+== HIGH ==
+1. Built to Last: Choosing Technology That Fits (Invest Mississauga Workshop + Connect Series)
+   When: Thu 2026-12-10, 10:00 AM - 12:30 PM
+   Where: BraeBen Golf Course, 5700 Terry Fox Way, Mississauga, ON
+   Cost: not stated (prior sessions free); registration needs host approval, and the series is aimed at Mississauga-based manufacturers
+   URL: https://luma.com/3l6w0gaq
+   Priority: High
+   Why: Mississauga plant owners and operations leaders work through a realistic $125K technology-investment decision (automation, machine monitoring, AI), so the room is customers in a buying mindset.
+
+2. NIA 2027 Industrial Market Outlook: Productivity and Protecting your Profits (Niagara Industrial Association)
+   When: Thu 2027-01-21, 8:00 AM - 11:00 AM (breakfast and networking from 8)
+   Where: Club Roma, 125 Vansickle Rd, St. Catharines, ON
+   Cost: not stated on page
+   URL: https://niagaraindustry.com/event/2027-industrial-market-outlook-productivity-and-protecting-your-profits/
+   Priority: High
+   Why: Niagara's manufacturing community opens the year on productivity, a direct lead-in to automation, sensor and AI projects with local plant leaders.
+
+== MEDIUM ==
+3. CIM Toronto Branch December Social
+   When: Thu 2026-12-03, 4:00 PM - 7:00 PM
+   Where: TABLE Fare + Social (In Good Spirits), 4th Floor, CIBC Square, 81 Bay St, Toronto, ON
+   Cost: $45 non-members / $35 CIM members / $80 with 2027 CIM membership
+   URL: https://www.eventbrite.ca/e/cim-toronto-2026-december-social-tickets-2004663734193
+   Priority: Medium
+   Why: a low-cost networking evening with Toronto's mining community (operators, mining engineers, consultants), who buy monitoring, automation and AI. It is the same day as the Guelph Manufacturing Summit (11-2).
+
+4. 2026 NIA Christmas Social (Niagara Industrial Association)
+   When: Thu 2026-12-10, 6:00 PM (end time not published; calendar shows 6-9 PM)
+   Where: Niagara-on-the-Lake, ON (venue not published; detail page offline)
+   Cost: not published (may be for members only; contact admin@niagaraindustry.com, 289-969-6008)
+   URL: https://niagaraindustry.com/events/
+   Priority: Medium
+   Why: the year-end gathering of Niagara's industrial association, an informal way to meet the region's plant managers and owners. It is the evening of the Mississauga workshop above.
+
+5. Americana 2027: Environmental Forum & International Environmental Technologies Show (Réseau Environnement)
+   When: Wed-Thu 2027-03-10 to 2027-03-11, from 8:30 AM
+   Where: Grand Quai du Port de Montréal, 200 Rue de la Commune O, Montréal, QC
+   Cost: 2-day regular pass $1,360; single-day and cheaper exhibition-floor visitor passes; early-bird rate until Jan 6, 2027
+   URL: https://www.reseau-environnement.com/event/americana-2027-75/register
+   Priority: Medium
+   Why: about 3,000 environmental professionals from water, waste, soils and remediation; the 2027 theme is "the green transition in the age of data" (AI and data), a direct fit for monitoring sensors and AI.
+
+6. INTERPHEX 2027
+   When: 2027-04-13 to 2027-04-15 (Tue-Wed 10 AM - 5 PM, Thu 10 AM - 2 PM ET)
+   Where: Javits Center, 429 11th Ave, New York, NY
+   Cost: see site (expo passes are usually low or no cost; conference extra)
+   URL: https://www.interphex.com/en-us/show-info.html
+   Priority: Medium (NYC, not Buffalo, but it is the top pharma-manufacturing show in the region)
+   Why: pharma and biotech plant, engineering and quality leaders evaluate automation, robotics, sensors and AI for GMP production; this is the best pharma-manufacturing buyer audience found.
+
+== LOW ==
+7. SMTA Ontario Expo & Tech Forum 2027
+   When: Tue 2027-06-15, 9:00 AM - 3:00 PM
+   Where: Venu Event Space, 2800 Hwy 7, Vaughan, ON
+   Cost: see registration (SMTA local expos are typically free for attendees)
+   URL: https://smta.org/event/ontario2027
+   Priority: Low
+   Why: process engineers and production managers from GTA electronics manufacturers, a narrower sector but buyers of inspection automation, robotics and monitoring.
+
+8. International Zinc Recycling Conference 2027 + Glencore CEZinc smelter tour (co-located with COM 2027)
+   When: Thu-Fri 2027-08-26 to 2027-08-27 (times assumed 9-5)
+   Where: Hotel Bonaventure Montréal, 900 Rue De la Gauchetière O, Montréal, QC (tour Aug 27 at CEZinc)
+   Cost: not yet published
+   URL: https://metsoc.org/events-posts/international-zinc-recycling-conference-2027/
+   Priority: Low
+   Why: smelter operators and metallurgists, plus a site visit to an operating zinc smelter; a metals-producer audience for process monitoring, automation and AI. It extends the COM 2027 trip that is already listed.
+
+9. Ontario Machining Network meeting  [UNVERIFIED: date only from OMN's own LinkedIn post; host and venue not announced; not added to calendar]
+   When: Thu 2027-02-04
+   Where: Ontario (host location TBA)
+   Cost: unknown
+   URL: https://www.linkedin.com/posts/ontario-machining-network_ontariomachiningnetwork-omn-manufacturing-activity-7475882899804803072-bpVy
+   Priority: Low
+   Why: Ontario machine shops and manufacturers meet at a host's facility, a potential audience for robotics and machine monitoring.
+
+SOURCES THAT FAILED / LIMITED:
+- investmississauga.ca/events-and-webinars/: loaded, but it shows category links only. /events/ and the Advanced Manufacturing tag list only past events (Defence Ready, Nov 17). The Dec 10 "Built to Last" workshop came from Invest Mississauga's Luma page instead.
+- ideamississauga.ca: loaded; one upcoming event (EmpowHER Showcase, Dec 3, virtual), not relevant.
+- bdc.ca Small Business Week: loaded; no dated events (next edition Oct 18-24, 2027; three on-demand webinars).
+- ngen.ca/news-events: loaded; only past events and trade missions (Japan/Korea Jan 2027), none relevant.
+- esaa.org/events and oma.on.ca/events: did not load (empty or not found); covered by site searches.
+- americana.org: HTTP 403; verified on reseau-environnement.com instead.
+- niagaraindustry.com Christmas Social detail page: not found (404); the date comes from the NIA events list.
+
+CONSIDERED BUT EXCLUDED:
+- 2027 CME Smart Manufacturing Conference (Mar 4-5, 2027, New Westminster BC): BC-focused audience, outside the region.
+- CME 10th Women in Manufacturing Success Forum (Mar 2-3, 2027): workforce/diversity focus, no buyer angle.
+- CME Prairies lunch-and-learns and AI workshops (Dec 2026 - Jan 2027): Alberta, Saskatchewan and Manitoba only.
+- ISA Hamilton (Dec 8) and ISA Montreal (Dec 4, Jan 11) monthly member meetings: noon-hour member meetings with no topic published; ISA Sarnia's Dec 7 is an executive meeting.
+- CIM Toronto Branch Luncheon (Jan 21, 2027): save-the-date only, no venue or details, and it clashes with the NIA Outlook. Recheck next week.
+- CIM GTA West Holiday Social (Dec 10): listed on cim.org, but no detail page or venue was found. Recheck next week.
+- CIM Toronto Virtual AGM (Feb 4, 2027): internal AGM.
+- MetSoc webinar "Before Energy Flows: The Steel Building Canada's Future" (Dec 2): single webinar, small audience.
+- PEO Brampton talk "Smart Manufacturing & Future of Advanced Production Tech" (Nov 25): virtual academic talk.
+- PEO Hamilton-Burlington Eaton Milton plant tour (Nov 27): for PEO members only; engineer audience.
+- 4th Global Conf. on Engineering, Machine Operations & Technology (Feb 18-19, 2027, GlobalTech Zone): low-quality "invitation letter" conference with a conflicting location (Sarnia vs Toronto).
+- Global AI & Emerging Technologies Conference (Dec 15, TMU, same organizer): generic, low-quality AI conference.
+- ICCAR / IMROBOTECH 2027 Toronto: aggregator-listed academic conferences.
+- IMCS 2027 International Meeting on Chemical Sensors (Jul 11-14, 2027, Montreal): academic and sensor-vendor audience, mostly peers rather than customers.
+- Aeromart Montreal (Mar 23-25, 2027): aerospace supply chain, not a target sector.
+- Salon MCEE (Apr 14-15, 2027, Montreal): electrical/HVAC contractors.
+- Sommet Performance Manufacturière MMCQ (Mar 10, 2027, Drummondville): outside Montreal, French regional SME event, same day as Americana.
+- RemTech East 2027: no confirmed 2027 edition (the ESAA widget shows "2026" with 2027 dates, likely a data error).
+- Practical AI & Workflow Automation (Dec 18, Toronto); GTApreneurs holiday party (Dec 17); DevFest Toronto (Dec 11): small-business and developer audiences.
+- BNMA Annual Business Meeting: only the 2026 listing exists; no 2027 date yet.
+- FBO Productivity Series (next one "January 2027"): no date published.
+- Dow Jones Chemical Forum (Mar 17-18, 2027, Houston): outside the region, finance and markets audience.
+- Already in events_seen.txt (skipped as duplicates): PDAC 2027, CMTS 2027, ADM Toronto 2027, COM 2027, CIM CONNECT/APCOM 2027, PowderMet 2027, Mining Hall of Fame, Mining Health & Safety Conference, Sabre Dec 15, NY Innovation Summit, Canadian CBRNE & Robotics Summit.
